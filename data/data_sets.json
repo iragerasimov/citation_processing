@@ -1,0 +1,486 @@
+[
+    {
+        "data_set_id": "ML2CO",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2005",
+        "title": "MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004 (ML2CO) at GES DISC",
+        "name": "MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004 (ML2CO) at GES DISC",
+        "description": "ML2CO is the EOS Aura Microwave Limb Sounder (MLS) standard product for carbon monoxide derived from radiances measured by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 215 and 0.00464 hPa, and the vertical resolution is about 6 km. Users of the ML2CO data product should read section 3.7 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2005"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2GPH",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2008",
+        "title": "MLS/Aura Level 2 Geopotential Height V004 (ML2GPH) at GES DISC",
+        "name": "MLS/Aura Level 2 Geopotential Height V004 (ML2GPH) at GES DISC",
+        "description": "ML2GPH is the EOS Aura Microwave Limb Sounder (MLS) standard product for geopotential height derived from radiances measured by the 118 and 240 GHz radiometers. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 261 and 0.001 hPa, and the vertical resolution varies between ~3.6 and 6 km. Users of the ML2GPH data product should read section 3.8 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2008"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2H2O",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2009",
+        "title": "MLS/Aura Level 2 Water Vapor (H2O) Mixing Ratio V004 (ML2H2O) at GES DISC",
+        "name": "MLS/Aura Level 2 Water Vapor (H2O) Mixing Ratio V004 (ML2H2O) at GES DISC",
+        "description": "ML2H2O is the EOS Aura Microwave Limb Sounder (MLS) standard product for water vapor derived from radiances measured primarily by the 190 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 316 and 0.00215 hPa, and the vertical resolution is about 1.5 km at 316 hPa increasing to 3.5 km to 4.64 hPa, and degrades to 15 km above 0.1 hPa. Users of the ML2H2O data product should read section 3.9 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2009"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2O3",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2017",
+        "title": "MLS/Aura Level 2 Ozone (O3) Mixing Ratio V004 (ML2O3) at GES DISC",
+        "name": "MLS/Aura Level 2 Ozone (O3) Mixing Ratio V004 (ML2O3) at GES DISC",
+        "description": "ML2O3 is the EOS Aura Microwave Limb Sounder (MLS) standard product for ozone derived from radiances measured by the 240 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 261 to 0.0215 hPa, and the vertical resolution is between 2.5 and 6 km. Users of the ML2O3 data product should read section 3.18 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2017"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2T",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2021",
+        "title": "MLS/Aura Level 2 Temperature V004 (ML2T) at GES DISC",
+        "name": "MLS/Aura Level 2 Temperature V004 (ML2T) at GES DISC",
+        "description": "ML2T is the EOS Aura Microwave Limb Sounder (MLS) standard product for temperature derived from radiances measured by the 118 and 240 GHz radiometers. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 261 to 0.001 hPa, and the vertical resolution is between 3 and 6 km. Users of the ML2T data product should read section 3.22 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2021"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2BRO",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2001",
+        "title": "MLS/Aura Level 2 Bromine Monoxide (BrO) Mixing Ratio V004 (ML2BRO) at GES DISC",
+        "name": "MLS/Aura Level 2 Bromine Monoxide (BrO) Mixing Ratio V004 (ML2BRO) at GES DISC",
+        "description": "ML2BRO is the EOS Aura Microwave Limb Sounder (MLS) standard product for bromine monoxide derived from radiances measured by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 10 and 3.16 hPa, and the vertical resolution is about 5.5 km (6 km at 3.16 hPa). Users of the ML2BRO data product should read section 3.2 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2001"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2CH3CL",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2002",
+        "title": "MLS/Aura Level 2 Methyl Chloride (CH3CL) Mixing Ratio V004 (ML2CH3CL) at GES DISC",
+        "name": "MLS/Aura Level 2 Methyl Chloride (CH3CL) Mixing Ratio V004 (ML2CH3CL) at GES DISC",
+        "description": "ML2CH3CL is the EOS Aura Microwave Limb Sounder (MLS) standard product for methyl chloride derived from radiances measured by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 147 and 4.64 hPa, and the vertical resolution ranges between 4-6 km in the lower stratosphere and 8-10 km above 14 hPa. Users of the ML2CH3CL data product should read section 3.3 of the EOS MLS Level 2 Version 4 Quality Document for more information.            The data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains one swath object (profile data), with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2002"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2CH3CN",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2003",
+        "title": "MLS/Aura Level 2 Methyl Cyanide (CH3CN) Mixing Ratio V004 (ML2CH3CN) at GES DISC",
+        "name": "MLS/Aura Level 2 Methyl Cyanide (CH3CN) Mixing Ratio V004 (ML2CH3CN) at GES DISC",
+        "description": "ML2CH3CN is the EOS Aura Microwave Limb Sounder (MLS) standard product for methyl cyanide derived from radiances measured by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 46.4 and 1.0 hPa, and the vertical resolution ranges between ~5 km in the lower stratosphere and ~10 km in the upper stratosphere. Users of the ML2CH3CN data product should read section 3.4 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains one swath object (profile data), with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2003"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2CH3OH",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2022",
+        "title": "MLS/Aura Level 2 Methanol (CH3OH) Mixing Ratio V004 (ML2CH3OH) at GES DISC",
+        "name": "MLS/Aura Level 2 Methanol (CH3OH) Mixing Ratio V004 (ML2CH3OH) at GES DISC",
+        "description": "At this time it is recommended that these data not be used pending further validation.ML2CH3OH is the EOS Aura Microwave Limb Sounder (MLS) standard product for methanol derived from radiances measured by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 147 and 100 hPa, and the vertical resolution range is about 4-5 km. Users of the ML2CH3OH data product should read section 3.5 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains one swath object (profile data), with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2022"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2CLO",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2004",
+        "title": "MLS/Aura Level 2 Chlorine Monoxide (ClO) Mixing Ratio V004 (ML2CLO) at GES DISC",
+        "name": "MLS/Aura Level 2 Chlorine Monoxide (ClO) Mixing Ratio V004 (ML2CLO) at GES DISC",
+        "description": "ML2CLO is the EOS Aura Microwave Limb Sounder (MLS) standard product for chlorine monoxide derived from radiances measured primarily by the 640 GHz radiometer. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is between 147 and 1.0 hPa, and the vertical resolution varies between 3 and 4.5 km. Users of the ML2CLO data product should read section 3.6 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2004"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2DGG",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2006",
+        "title": "MLS/Aura Level 2 Diagnostics, Geophysical Parameter Grid V004 (ML2DGG) at GES DISC",
+        "name": "MLS/Aura Level 2 Diagnostics, Geophysical Parameter Grid V004 (ML2DGG) at GES DISC",
+        "description": "ML2DGG is the EOS Aura Microwave Limb Sounder (MLS) product containing geophysical diagnostic quantities pertaining directly to the standard geophysical data products, generally on a similar (or identical) grid, and at different spectral ranges. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). Vertical resolution varies between species and typically ranges from 3 - 6 km. Users of the ML2DGG data product should read the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contain swaths objects for each diagnostics measurement. Each swath has a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2006"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2DGM",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2007",
+        "title": "MLS/Aura Level 2 Diagnostics, Miscellaneous Grid V004 (ML2DGM) at GES DISC",
+        "name": "MLS/Aura Level 2 Diagnostics, Miscellaneous Grid V004 (ML2DGM) at GES DISC",
+        "description": "ML2DGM is the EOS Aura Microwave Limb Sounder (MLS) product containing the minor frame diagnostic quantities on a miscellaneous grid. These include items such as tangent pressure, chi-square describing various fits to the measured radiances, number of radiances used in various retrieval phases, etc. This product contains a second auxiliary file which includes cloud-induced radiances inferred for selected spectral channels. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). Vertical resolution varies between species and typically ranges from 3 - 6 km. Users of the ML2DGM data product should read the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 Hierarchical Data Format, or HDF5. Each file contains sets of HDF5 dataset objects (n-dimensional arrays) for each diagnostics measurement. The dataset objects represent data and geolocation fields; included in the file are file attributes and metadata. There are two files per day (MLS-Aura_L2AUX-DGM* and MLS-Aura_L2AUX-Cloud*).",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2007"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2HCL",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2010",
+        "title": "MLS/Aura Level 2 Hydrogen Chloride (HCl) Mixing Ratio V004 (ML2HCL) at GES DISC",
+        "name": "MLS/Aura Level 2 Hydrogen Chloride (HCl) Mixing Ratio V004 (ML2HCL) at GES DISC",
+        "description": "ML2HCL is the EOS Aura Microwave Limb Sounder (MLS) standard product for  hydrogen chloride derived from radiances measured primarily by the 640 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82  degrees to +82  degrees latitude), with each profile spaced 1.5  degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 100 to 0.316 hPa, and the vertical resolution is between 3 and 6 km. Users of the ML2HCL data product should read section 3.10 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2010"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2HCN",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2011",
+        "title": "MLS/Aura Level 2 Hydrogen Cyanide (HCN) Mixing Ratio V004 (ML2HCN) at GES DISC",
+        "name": "MLS/Aura Level 2 Hydrogen Cyanide (HCN) Mixing Ratio V004 (ML2HCN) at GES DISC",
+        "description": "ML2HCN is the EOS Aura Microwave Limb Sounder (MLS) standard product for  hydrogen cyanide derived from radiances measured primarily by the 190 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 21.5 to 0.1 hPa, and the vertical resolution is between 8 and 12 km. Users of the ML2HCN data product should read section 3.11 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2011"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2HNO3",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2012",
+        "title": "MLS/Aura Level 2 Nitric Acid (HNO3) Mixing Ratio V004 (ML2HNO3) at GES DISC",
+        "name": "MLS/Aura Level 2 Nitric Acid (HNO3) Mixing Ratio V004 (ML2HNO3) at GES DISC",
+        "description": "ML2HNO3 is the EOS Aura Microwave Limb Sounder (MLS) standard product for nitric acid derived from radiances measured by the 240 GHz radiometer at and below 10 hPa, and from the 190 GHz radiometer above 10 hPa. The data version is 4.2. Data coverage is from August 8, 2004 to current. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 1.47 hPa (1.0 hPa under enhanced conditions), and the vertical resolution is between about 3 and 5 km. Users of the ML2HNO3 data product should read section 3.12 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2012"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2HO2",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2013",
+        "title": "MLS/Aura Level 2 Hydroperoxy (HO2) Mixing Ratio V004 (ML2HO2) at GES DISC",
+        "name": "MLS/Aura Level 2 Hydroperoxy (HO2) Mixing Ratio V004 (ML2HO2) at GES DISC",
+        "description": "ML2HO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for  hydroperoxy derived from radiances measured in two bands from the 640 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 21.5 to 0.0464 hPa, and the vertical resolution is about 5 km. Users of the ML2HO2 data product should read section 3.13 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2013"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2HOCL",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2014",
+        "title": "MLS/Aura Level 2 Hypochlorous Acid (HOCl) Mixing Ratio V004 (ML2HOCL) at GES DISC",
+        "name": "MLS/Aura Level 2 Hypochlorous Acid (HOCl) Mixing Ratio V004 (ML2HOCL) at GES DISC",
+        "description": "ML2HOCL is the EOS Aura Microwave Limb Sounder (MLS) standard product for  hypochlorous acid derived from radiances measured primarily by the 640 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 10 to 2.15 hPa, and the vertical resolution is about 6 km. Users of the ML2OHCL data product should read section 3.14 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2014"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2IWC",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2015",
+        "title": "MLS/Aura Level 2 Cloud Ice Product V004 (ML2IWC) at GES DISC",
+        "name": "MLS/Aura Level 2 Cloud Ice Product V004 (ML2IWC) at GES DISC",
+        "description": "ML2IWC is the EOS Aura Microwave Limb Sounder (MLS) standard product for cloud ice water content derived from radiances measured by the 240 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 82.5 hPa, and the vertical resolution is about 3 km. Users of the ML2IWC data product should read sections 3.15 and 3.16 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2015"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2N2O",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2016",
+        "title": "MLS/Aura Level 2 Nitrous Oxide (N2O) Mixing Ratio V004 (ML2N2O) at GES DISC",
+        "name": "MLS/Aura Level 2 Nitrous Oxide (N2O) Mixing Ratio V004 (ML2N2O) at GES DISC",
+        "description": "ML2N2O is the EOS Aura Microwave Limb Sounder (MLS) standard product for nitrous oxide derived from radiances measured primarily by the 640 GHz radiometer (Band 12) until August 6, 2013, after this date using the 190 GHz radiometer (Band 3). The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 68.1 to 0.464 hPa, and the vertical resolution is between 4 and 6 km. Users of the ML2N2O data product should read section 3.17 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2016"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2OH",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2018",
+        "title": "MLS/Aura Level 2 Hydroxyl (OH) Mixing Ratio V004 (ML2OH) at GES DISC",
+        "name": "MLS/Aura Level 2 Hydroxyl (OH) Mixing Ratio V004 (ML2OH) at GES DISC",
+        "description": "ML2OH is the EOS Aura Microwave Limb Sounder (MLS) standard product for  hydroxyl derived from radiances measured by the THz radiometer. The data version is 4.2. Data coverage is continuous from August 8, 2004 to December 12, 2009 when the THz radiometer was placed in standby mode. After this date OH data were collected for about 30 days in August/September of 2011, 2012, 2013 and 2014. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 31.6 to 0.00316 hPa, and the vertical resolution is about 3. Users of the ML2OH data product should read section 3.19 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2018"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2RHI",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2019",
+        "title": "MLS/Aura Level 2 Relative Humidity With Respect To Ice V004 (ML2RHI) at GES DISC",
+        "name": "MLS/Aura Level 2 Relative Humidity With Respect To Ice V004 (ML2RHI) at GES DISC",
+        "description": "ML2RHI is the EOS Aura Microwave Limb Sounder (MLS) standard product for relative humidity with respect to ice derived from radiances measured by the 118 and 190 GHz radiometers. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 316 to 0.0215 hPa, and the vertical resolution is between 3 and 6 km. Users of the ML2RHI data product should read section 3.20 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2019"
+            }
+        ]
+    },
+    {
+        "data_set_id": "ML2SO2",
+        "version_id": "004",
+        "unique_identifier": "10.5067/Aura/MLS/DATA2020",
+        "title": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004 (ML2SO2) at GES DISC",
+        "name": "MLS/Aura Level 2 Sulfur Dioxide (SO2) Mixing Ratio V004 (ML2SO2) at GES DISC",
+        "description": "ML2SO2 is the EOS Aura Microwave Limb Sounder (MLS) standard product for sulfur dioxide derived from radiances measured by the 240 GHz radiometer. The data version is 4.2. Spatial coverage is near-global (-82 degrees to +82 degrees latitude), with each profile spaced 1.5 degrees or ~165 km along the orbit track (roughly 15 orbits per day). The recommended useful vertical range is from 215 to 10 hPa, and the vertical resolution is about 3 km. Users of the ML2SO2 data product should read section 3.21 of the EOS MLS Level 2 Version 4 Quality Document for more information.\n\nThe data are stored in the version 5 EOS Hierarchical Data Format (HDF-EOS5), which is based on the version 5 Hierarchical Data Format, or HDF-5. Each file contains two swath objects (profile and column data), each with a set of data and geolocation fields, swath attributes, and metadata.",
+        "date": "",
+        "coverages": "",
+        "subjects": "",
+        "methodology": "",
+        "citation": "",
+        "additional_keywords": "",
+        "family_identifier": "",
+        "mention_list": [],
+        "identifier_list": [
+            {
+                "name": "https://doi.org/",
+                "identifier": "10.5067/Aura/MLS/DATA2020"
+            }
+        ]
+    }
+]

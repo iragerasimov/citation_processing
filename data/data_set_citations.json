@@ -1,0 +1,1842 @@
+[
+    {
+        "citation_id": 1,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "lower-stratospheric N2O and middle-stratospheric CO from MLS",
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS CO and H2O",
+            "MLS (c) H2O and (d) CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 2,
+        "publication_id": "R6P8VL52",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "NASA Goddard Earth Sciences Data and Information Services Center data archive: v4 MLS CO data, carbon monoxide mixing ratios, available at: http://disc.sci.gsfc.nasa.gov/Aura, last access:<br />10 May 2016."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 3,
+        "publication_id": "Q9XNP9EE",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS version 4 retrievals of CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 4,
+        "publication_id": "8D6QBYHS",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: doi:10.5067/AURA/MLS/DATA2005, last access: January 2016, 2015.",
+            "MLS CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 5,
+        "publication_id": "BC24RQUF",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "Aura MLS CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 6,
+        "publication_id": "R94BRGDT",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS CO level 2",
+            "MLS CO",
+            "Microwave Limb Sounder (MLS) measurements of CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 7,
+        "publication_id": "Z58BXGGM",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "CO concentrations as measure by Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 8,
+        "publication_id": "F3R6TEUY",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS CO data",
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.:<br />MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio<br />V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC),<br />https://doi.org/10.5067/AURA/MLS/DATA2005, 2015",
+            "CO measurements from the Microwave Limb Sounder (MLS) aboard the Aura satellite",
+            "MLS CO profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 9,
+        "publication_id": "SK3Y4LTA",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS V4.2x CO",
+            "Aura Microwave Limb Sounder (MLS) data for the daily CO and temperature",
+            "CO observation from the Aura MLS",
+            "MLS CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 10,
+        "publication_id": "XFLBVBZP",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS V4.2 Level 2 CO data",
+            "MLS data for CO",
+            "MLS CO mixing ratio",
+            "MLS CO",
+            "CO from MLS",
+            "CO data from MLS",
+            "MLS\u2010measured CO data",
+            "Microwave Limb Sounder (MLS) CO",
+            "Microwave Limb Sounder (MLS) data for CO",
+            "Microwave measurements of CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 11,
+        "publication_id": "NV6F7AWI",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "CO from MLS",
+            "CO observations from the Microwave Limb Sounder (MLS) on board the Aura"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 12,
+        "publication_id": "5ERTWYWQ",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "CO patterns are in general agreement with MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 13,
+        "publication_id": "75K32BFA",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS CO",
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, version 004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2005, 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 14,
+        "publication_id": "BKTKUPYU",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS CO",
+            "CO from the Microwave Limb Sounder (MLS)",
+            "Schwartz, M., Pumphrey, H., Livesey, N., and Read, W.: MLS/Aura Level 2 Carbon Monoxide (CO) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/Aura/MLS/DATA2005, 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 15,
+        "publication_id": "BRQ5Y77H",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "level 2 profiles of O3 , CO and WV data from Aura MLS",
+            "Aura MLS data of O3 , CO and WV"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 16,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 17,
+        "publication_id": "H6E9XGA6",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "CO measured with the MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 18,
+        "publication_id": "6ZLFKTHS",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "Composite profiles of CO (a), \u00adH2O (b), and \u00adO3 (c), obtained from the Aura Microwave Limb Sounder",
+            "MLS version 3.3 (V3.3) level-2 CO, \u00adH2O, and \u00adO3 volume mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 19,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "MLS in this airmass are CO, HCN, CH3CN, CH3OH and possibly CH3Cl",
+            "MLS CO",
+            "mixing ratio of MLS CO, HCN and CH3CN",
+            "MLS V2.2 measurements are three biomass-burning products: carbon monoxide (CO) (Livesey et al., 2008; Pumphrey et al., 2007), Hydrogen Cyanide (HCN) (Pumphrey et al., 2006, 2008) and acetonitrile (methyl cyanide, CH3CN)",
+            "MLS CO mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 20,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 21,
+        "publication_id": "9NG5U3ZL",
+        "data_set_id": "ML2CO",
+        "mention_list": [
+            "Carbon monoxide (CO) measured by the Aura Microwave Limb Sounder",
+            "CO data are obtained from the Aura Microwave Limb Sounder (MLS) instrument",
+            "carbon monoxide (CO) from the Aura Microwave Limb Sounder (MLS) satellite instrument"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 22,
+        "publication_id": "4NMDS8UQ",
+        "data_set_id": "ML2GPH",
+        "mention_list": [
+            "MLS estimates of geopotential height"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 23,
+        "publication_id": "CVFD3KTL",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Microwave Limb Sounder (MLS) V4.2 measurements of water vapor",
+            "MLS water vapor"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 24,
+        "publication_id": "Y5IEIML6",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Ice water content (IWC) and water vapour (WV) measured in the UT and the TL by the Microwave Limb Sounder (MLS; Version 4.2)",
+            "atmospheric parameters measured by the MLS, we focus on IWC, WV, TEMP, and RHI"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 25,
+        "publication_id": "RR9TV5UG",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Aura MLS H2O data",
+            "EOS MLS Science Team: MLS/Aura Near-Real-Time L2 Water Vapor (H 2 O) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://disc.gsfc.nasa.gov/datacollection/ML2H2O_NRT_004.html, last access October 2017b."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 26,
+        "publication_id": "5LULDJRA",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "water observations by MLS",
+            "MLS H2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 27,
+        "publication_id": "J2B2AEPW",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapour version 4.2 data",
+            "MLS H2O version 4.2",
+            "Lambert, A., Read, W., and Livesey, N.: MLS/Aura Level 2 Water Vapor (H2O) Mixing Ratio V004, Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD, USA, https://doi.org/10.5067/Aura/MLS/DATA2009, 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 28,
+        "publication_id": "4IQ4Q5VM",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS H2O",
+            "MLS v4.2 H2O",
+            "MLS H2O",
+            "Aura MLS H2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 29,
+        "publication_id": "LPUPX5SP",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Lambert, A., Read, W., and Livesey, N.: MLS/Aura Level 2 Water Vapor (H2O) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/Aura/MLS/DATA2009, 2015.",
+            "MLS water vapour"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 30,
+        "publication_id": "WNCGUGFS",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Aura MLS version 4 retrievals of H2O",
+            "MLS H2O profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 31,
+        "publication_id": "846Z5JBH",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "level 2 water vapor retrieved from the Earth Observing System (EOS) Microwave Limb Sounder (MLS) instrument on the Aura spacecraft",
+            "Lambert, A., Read, W., and Livesey, N.: MLS/Aura Level 2 Water Vapor (H2O) Mixing Ratio V004, Goddard Earth Sciences Data and Information Services Center (GES DISC), Greenbelt, MD, USA, last access: 30 November 2018, https://doi.org/10.5067/Aura/MLS/DATA2009, 2015",
+            "observations of water vapor made by the Microwave Limb Sounder (MLS)",
+            "MLS water vapor retrieval"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 32,
+        "publication_id": "Q9XNP9EE",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS version 4 retrievals of water vapour",
+            "MLS water vapour retrievals",
+            "MLS water vapour"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 33,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 34,
+        "publication_id": "H6E9XGA6",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Lambert A, Read W, Livesey N (2015) MLS/Aura Level 2 water vapor (H2O) mixing ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). https\u200b://doi.org/10.5067/Aura/MLS/DATA2\u200b009"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 35,
+        "publication_id": "96SZQE5N",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS H2O v4.2 profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 36,
+        "publication_id": "2JUZ5RXV",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Aura/MLS observations of the atmospheric constituents: temperature, H2O, OH, and O3 mixing ratios",
+            "MLS H2O mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 37,
+        "publication_id": "BRQ5Y77H",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "level 2 profiles of O3 , CO and WV data from Aura MLS",
+            "Aura MLS data of O3 , CO and WV"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 38,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS CO and H2O",
+            "MLS (c) H2O and (d) CO",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 39,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS H2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 40,
+        "publication_id": "AZ98WS52",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "H2O (&gt;5 ppmv) is observed by MLS",
+            "MLS H2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 41,
+        "publication_id": "NZRB8YGF",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapor",
+            "MLS/Aura water vapor and relative humidity with respect to ice (RHi)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 42,
+        "publication_id": "JMI6FIVB",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapor"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 43,
+        "publication_id": "NPRQ68GV",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS H2O",
+            "Lambert, A., Read, W., and Livesey, N.: MLS/Aura Level 2 Water<br />Vapor (H2O) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2009 (last access: 6 July 2017), 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 44,
+        "publication_id": "5Z2BRMEE",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS HNO3 and H2O vapors",
+            "Aura MLS H2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 45,
+        "publication_id": "KK2IYBSY",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS OH, H2O and O3",
+            "MLS measurements of H2O, O3\u00a0 and temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 46,
+        "publication_id": "SEGCTQHT",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapor amounts",
+            "water vapor to Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 47,
+        "publication_id": "E3J8WWZT",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS H2O",
+            "O3 , H2O, HCl, N2O, and HNO3 , based on Aura Microwave Limb Sounder (MLS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 48,
+        "publication_id": "HAMBACDS",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "water vapour measurements from the Microwave Limb Sounder (MLS) satellite"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 49,
+        "publication_id": "UYSHQEDQ",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapor"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 50,
+        "publication_id": "N2H8ESSS",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS instrument make observations of water vapour"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 51,
+        "publication_id": "EL6RU2XQ",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS water vapour profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 52,
+        "publication_id": "EUSGSKPM",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "water vapor from a Aura MLS",
+            "stratospheric water vapor data from Microwave Limb Sounder (MLS) on Aura satellite"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 53,
+        "publication_id": "6ZLFKTHS",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "Composite profiles of CO (a), \u00adH2O (b), and \u00adO3 (c), obtained from the Aura Microwave Limb Sounder",
+            "MLS version 3.3 (V3.3) level-2 CO, \u00adH2O, and \u00adO3 volume mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 54,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "mixing ratio of MLS H2O and ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 55,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 56,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2H2O",
+        "mention_list": [
+            "MLS observations of O3, N2O, H2O, and HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 57,
+        "publication_id": "GEP5UJ8P",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS ozone profile measurements",
+            "MLS ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 58,
+        "publication_id": "33LMBUSX",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS O3",
+            "Ozone anomalies from MLS observations",
+            "Microwave Limb Sounder (MLS) for ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 59,
+        "publication_id": "8SGKXC3H",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS-measured ozone",
+            "Aura Microwave Limb Sounder (MLS) of OH, HO2, HNO3, and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 60,
+        "publication_id": "H6E9XGA6",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Schwartz M, Froidevaux L, Livesey N, Read W (2015) MLS/Aura Level 2 ozone \u00ad(O3) mixing ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC). https\u200b://doi.org/10.5067/Aura/MLS/DATA2\u200b017",
+            "ozone profiles from Aura-MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 61,
+        "publication_id": "LPUPX5SP",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Schwartz, M., Froidevaux, L., Livesey, N., and Read, W.: MLS/Aura Level 2 Ozone (O3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC),https://doi.org/10.5067/Aura/MLS/DATA2017, 2015a",
+            "MLS ozone profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 62,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 63,
+        "publication_id": "FMI9M272",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS O3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 64,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "https://doi.org/10.5067/AURA/MLS/DATA2017",
+            "MLS data version 4.2 of O3, HNO3, HCl, ClO, and CH3Cl",
+            "MLS observations of O3, N2O, H2O, and HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 65,
+        "publication_id": "3QZBZ2M9",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Microwave Limb Sounder (MLS) data used were the version 4.2 ozone and HNO3 L2",
+            "Microwave Limb Sounder (MLS) O3 and HNO3",
+            "MLS ozone and HNO3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 66,
+        "publication_id": "2JUZ5RXV",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Aura/MLS observations of the atmospheric constituents: temperature, H2O, OH, and O3 mixing ratios",
+            "O3 Mixing Ratios Observed by Aura/MLS",
+            "MLS-O3",
+            "Aura MLS O3",
+            "hydroxyl (OH) and O3 mixing ratios from Aura microwave limb sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 67,
+        "publication_id": "BRQ5Y77H",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "level 2 profiles of O3 , CO and WV data from Aura MLS",
+            "Aura MLS data of O3 , CO and WV",
+            "ozone mixing ratio calculated by using MLS data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 68,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS N2O and O3",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 69,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS ozone",
+            "MLS O3",
+            "MLS O3 observations",
+            "MLS O3 profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 70,
+        "publication_id": "3HIRTXMV",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS stratospheric ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 71,
+        "publication_id": "XXMXRGDW",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 72,
+        "publication_id": "X5PVSBDL",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Aura MLS and OMI O3 measurements are combined to create the Ziemke2011 climatology",
+            "Aura MLS O3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 73,
+        "publication_id": "EADJK3NX",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS stratospheric column O3",
+            "OMI/MLS tropospheric O3",
+            "Daily OMI/MLS tropospheric O3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 74,
+        "publication_id": "AZ98WS52",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "ozone anomaly of &lt;\u22120.3 parts per million by volume (ppmv) (about \u221250% at 100 mbar in the midlatitudes) observed by the Microwave Limb Sounder (MLS) (21) and Ozone Mapping Profiler Suite (OMPS)",
+            "MLS/OMPS O3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 75,
+        "publication_id": "2Z8ZIBM2",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS v4.2 ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 76,
+        "publication_id": "R5C3WTQL",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 77,
+        "publication_id": "KK2IYBSY",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS OH, H2O and O3",
+            "MLS measurements of H2O, O3\u00a0 and temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 78,
+        "publication_id": "E3J8WWZT",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS O3",
+            "O3 , H2O, HCl, N2O, and HNO3 , based on Aura Microwave Limb Sounder (MLS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 79,
+        "publication_id": "96SZQE5N",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS O3 profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 80,
+        "publication_id": "6ZLFKTHS",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "Composite profiles of CO (a), \u00adH2O (b), and \u00adO3 (c), obtained from the Aura Microwave Limb Sounder",
+            "MLS version 3.3 (V3.3) level-2 CO, \u00adH2O, and \u00adO3 volume mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 81,
+        "publication_id": "XFDS6D4J",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "tropospheric column ozone (TCO) datasets (2005\u20132017) from the Ozone Monitoring Instrument/Micro\u00adwave Limb Sounder (OMI/MLS)",
+            "OMI/MLS tropospheric col\u00adumn ozone (TCO) retrievals"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 82,
+        "publication_id": "3WCNDG6E",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "MLS O3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 83,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2O3",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 84,
+        "publication_id": "LPUPX5SP",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "Schwartz, M., Livesey, N., and Read, W.: MLS/Aura Level 2 Temperature V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/Aura/MLS/DATA2021, 2015b.",
+            "MLS temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 85,
+        "publication_id": "SK3Y4LTA",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "Aura Microwave Limb Sounder (MLS) data for the daily CO and temperature",
+            "MLS v4.2x temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 86,
+        "publication_id": "2JUZ5RXV",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "Aura/MLS observations of the atmospheric constituents: temperature, H2O, OH, and O3 mixing ratios"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 87,
+        "publication_id": "4NMDS8UQ",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "Zonal-mean temperatures from AURA/MLS",
+            "zonally averaged temperature measurements obtained by the MLS instrument aboard the AURA satellite",
+            "MLS temperatures"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 88,
+        "publication_id": "R5C3WTQL",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "MLS temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 89,
+        "publication_id": "GCZJ7LPZ",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "satellite observations of atmospheric temperature. Specifically, I analyse data from the High Resolution Dynamics Limb Sounder (HIRDLS) and Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 90,
+        "publication_id": "E6VASGJB",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "Aura MLS temperature",
+            "temperatures from the Microwave Limb Sounder (MLS) on board the Aura satellite"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 91,
+        "publication_id": "XGPYV26F",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "MLS temperature",
+            "https://disc.gsfc.nasa.gov/datasets?page=1&amp;keywords=ML2T_004",
+            "MLS v4.2 global temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 92,
+        "publication_id": "NKEK2I6M",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "temperature and humidity measurements in 2007 and 2008 by the MLS/Aura",
+            "MLS temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 93,
+        "publication_id": "NPRQ68GV",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "MLS temperature",
+            "Schwartz, M., Livesey, N., and Read, W.: MLS/Aura Level 2 Temperature V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2021 (last access: 6 July 2017), 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 94,
+        "publication_id": "Y5IEIML6",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "atmospheric parameters measured by the MLS, we focus on IWC, WV, TEMP, and RHI"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 95,
+        "publication_id": "98CCN5BK",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "MLS T",
+            "MLS temperature",
+            "MLS T, N2O, HCl, HOCl, ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 96,
+        "publication_id": "KK2IYBSY",
+        "data_set_id": "ML2T",
+        "mention_list": [
+            "MLS measurements of H2O, O3\u00a0 and temperature"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 97,
+        "publication_id": "FMI9M272",
+        "data_set_id": "ML2BRO",
+        "mention_list": [
+            "MLS BrO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 98,
+        "publication_id": "CW63SG5Z",
+        "data_set_id": "ML2BRO",
+        "mention_list": [
+            "MLS BrO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 99,
+        "publication_id": "83T2W5VG",
+        "data_set_id": "ML2BRO",
+        "mention_list": [
+            "MLS BrO",
+            "MLS BrO profile"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 100,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2CH3CL",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 101,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2CH3CL",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS CH3Cl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 102,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2CH3CL",
+        "mention_list": [
+            "MLS data version 4.2 of O3, HNO3, HCl, ClO, and CH3Cl",
+            "https://doi.org/10.5067/AURA/MLS/DATA2002"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 103,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2CH3CL",
+        "mention_list": [
+            "MLS in this airmass are CO, HCN, CH3CN, CH3OH and possibly CH3Cl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 104,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2CH3CN",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 105,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2CH3CN",
+        "mention_list": [
+            "MLS in this airmass are CO, HCN, CH3CN, CH3OH and possibly CH3Cl",
+            "mixing ratio of MLS CO, HCN and CH3CN",
+            "MLS V2.2 measurements are three biomass-burning products: carbon monoxide (CO) (Livesey et al., 2008; Pumphrey et al., 2007), Hydrogen Cyanide (HCN) (Pumphrey et al., 2006, 2008) and acetonitrile (methyl cyanide, CH3CN)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 106,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2CH3OH",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 107,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2CH3OH",
+        "mention_list": [
+            "MLS in this airmass are CO, HCN, CH3CN, CH3OH and possibly CH3Cl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 108,
+        "publication_id": "3WCNDG6E",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "ClO, HCl, and HNO3 profiles used in this study were taken from Aura<br />MLS",
+            "MLS ClO",
+            "ClO, HCl, and HNO3 data taken with the Aura MLS (Microwave Limb Sounder)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 109,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 110,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "https://doi.org/10.5067/AURA/MLS/DATA2004",
+            "MLS data version 4.2 of O3, HNO3, HCl, ClO, and CH3Cl",
+            "MLS ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 111,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 112,
+        "publication_id": "98CCN5BK",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "MLS T, N2O, HCl, HOCl, ClO",
+            "MLS HCl, HOCl and ClO",
+            "MLS ClO",
+            "MLS Version 3.3 ClO, HCl, HOCl, N2O and temperature Level 2",
+            "Aura Microwave Limb Sounder (MLS) measurements to monitor the variability of ClO, HCl, HOCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 113,
+        "publication_id": "XG5MYP73",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "ClO from MLS",
+            "HOCl, ClO, HO2 and HCl from MLS",
+            "MLS data (version 3.3) of HOCl, ClO, and HO2"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 114,
+        "publication_id": "863TSUV2",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "ClO contribution is based upon measurements made from Earth orbit by the Microwave Limb Sounder (MLS) instrument on the Aura satellite",
+            "MLS data determine climatological ClO",
+            "MLS climatology near the 40 km (3 hPa) ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 115,
+        "publication_id": "DZVM4RC5",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "MLS ClO column measurements",
+            "Aura MLS measurements of ClO",
+            "ClO measurements from the Aura Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 116,
+        "publication_id": "3CFY7DFD",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "vertical ClO profiles from the MLS instrument",
+            "MLS ClO volume mixing ratios",
+            "MLS ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 117,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2CLO",
+        "mention_list": [
+            "mixing ratio of MLS H2O and ClO"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 118,
+        "publication_id": "3WCNDG6E",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "ClO, HCl, and HNO3 profiles used in this study were taken from Aura<br />MLS",
+            "HCl data from Aura MLS",
+            "HCl and HNO3 observed by Aura MLS",
+            "ClO, HCl, and HNO3 data taken with the Aura MLS (Microwave Limb Sounder)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 119,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 120,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS HCl",
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 121,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "https://doi.org/10.5067/AURA/MLS/DATA2010",
+            "MLS data version 4.2 of O3, HNO3, HCl, ClO, and CH3Cl",
+            "MLS observations of O3, N2O, H2O, and HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 122,
+        "publication_id": "96SZQE5N",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS HCl",
+            "MLS HCl profiles"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 123,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 124,
+        "publication_id": "LNTWB3SL",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS HCl mixing ratios",
+            "HCl mixing ratios from MLS",
+            "Level 2 MLS HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 125,
+        "publication_id": "HD86L7JJ",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS SO2, HCl, and ice water content",
+            "ML2HCL.003"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 126,
+        "publication_id": "4YGI9CLN",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "HCl and SO2 mixing ratios measured by Aura/MLS",
+            "MLS SO2 and HCl",
+            "SO2 and HCl mixing ratios retrieved by MLS",
+            "MLS HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 127,
+        "publication_id": "98CCN5BK",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS T, N2O, HCl, HOCl, ClO",
+            "MLS HCl, HOCl and ClO",
+            "MLS HCl",
+            "MLS Version 3.3 ClO, HCl, HOCl, N2O and temperature Level 2",
+            "Aura Microwave Limb Sounder (MLS) measurements to monitor the variability of ClO, HCl, HOCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 128,
+        "publication_id": "XG5MYP73",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "HOCl, ClO, HO2 and HCl from MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 129,
+        "publication_id": "E3J8WWZT",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "MLS HCl",
+            "O3 , H2O, HCl, N2O, and HNO3 , based on Aura Microwave Limb Sounder (MLS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 130,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2HCL",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 131,
+        "publication_id": "EBQ3AA6D",
+        "data_set_id": "ML2HCN",
+        "mention_list": [
+            "MLS/Aura Level 2 Hydrogen Cyanide (HCN) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), available at: https://doi.org/10.5067/Aura/MLS/DATA2011 (last access: 4 January 2018), 2015.",
+            "https://doi.org/10.5067/Aura/MLS/DATA2011",
+            "MLS HCN",
+            "MLS measurements of HCN"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 132,
+        "publication_id": "HLBCZ769",
+        "data_set_id": "ML2HCN",
+        "mention_list": [
+            "MLS in this airmass are CO, HCN, CH3CN, CH3OH and possibly CH3Cl",
+            "mixing ratio of MLS CO, HCN and CH3CN",
+            "MLS V2.2 measurements are three biomass-burning products: carbon monoxide (CO) (Livesey et al., 2008; Pumphrey et al., 2007), Hydrogen Cyanide (HCN) (Pumphrey et al., 2006, 2008) and acetonitrile (methyl cyanide, CH3CN)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 133,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2HCN",
+        "mention_list": [
+            "MLS HCN"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 134,
+        "publication_id": "8SGKXC3H",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "Aura Microwave Limb Sounder (MLS) of OH, HO2, HNO3, and ozone",
+            "MLS HNO3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 135,
+        "publication_id": "RR9TV5UG",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "Aura MLS HNO3",
+            "EOS MLS Science Team: MLS/Aura Near-Real-Time L2 Nitric Acid (HNO3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 136,
+        "publication_id": "L9HX882G",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "MLS data used here are available at https://disc.gsfc.nasa.gov/datasets/ML2HNO3_V004/summary",
+            "gas\u2010phase HNO3 sequestration measured by MLS",
+            "HNO3 depletion seen in the complementary MLS data",
+            "HNO3 depletion detected by MLS",
+            "MLS gas\u2010phase HNO3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 137,
+        "publication_id": "3WCNDG6E",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "ClO, HCl, and HNO3 profiles used in this study were taken from Aura<br />MLS",
+            "HCl and HNO3 observed by Aura MLS",
+            "ClO, HCl, and HNO3 data taken with the Aura MLS (Microwave Limb Sounder)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 138,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "MLS data to quantify spatial and temporal variations in both tropospheric (H2O, CO, CH3Cl, CH3CN, CH3OH) and stratospheric (O3, HNO3 , HCl)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 139,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "https://doi.org/10.5067/AURA/MLS/DATA2012",
+            "MLS data version 4.2 of O3, HNO3, HCl, ClO, and CH3Cl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 140,
+        "publication_id": "3QZBZ2M9",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "Microwave Limb Sounder (MLS) data used were the version 4.2 ozone and HNO3 L2",
+            "Microwave Limb Sounder (MLS) O3 and HNO3",
+            "MLS ozone and HNO3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 141,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 142,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS HNO3"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 143,
+        "publication_id": "NPRQ68GV",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "MLS HNO3",
+            "Manney, G., Santee, M., Froidevaux, L., Livesey, N., and Read, W.: MLS/Aura Level 2 Nitric Acid (HNO3) Mixing Ratio V004, Greenbelt, MD, USA, Goddard Earth Sciences Data and Information Services Center (GES DISC), https://doi.org/10.5067/AURA/MLS/DATA2012 (last access: 6 July 2017), 2015."
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 144,
+        "publication_id": "5Z2BRMEE",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "MLS HNO3 and H2O vapors"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 145,
+        "publication_id": "E3J8WWZT",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "MLS HNO3",
+            "O3 , H2O, HCl, N2O, and HNO3 , based on Aura Microwave Limb Sounder (MLS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 146,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2HNO3",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 147,
+        "publication_id": "8SGKXC3H",
+        "data_set_id": "ML2HO2",
+        "mention_list": [
+            "MLS HO2",
+            "Aura Microwave Limb Sounder (MLS) of OH, HO2, HNO3, and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 148,
+        "publication_id": "XG5MYP73",
+        "data_set_id": "ML2HO2",
+        "mention_list": [
+            "HO2 observed by MLS",
+            "HOCl, ClO, HO2 and HCl from MLS",
+            "HO2 data from MLS",
+            "MLS data (version 3.3) of HOCl, ClO, and HO2"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 149,
+        "publication_id": "KK2IYBSY",
+        "data_set_id": "ML2HO2",
+        "mention_list": [
+            "MLS HO2",
+            "hydroperoxyl radical (HO2) estimates from the Aura Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 150,
+        "publication_id": "9QS89E4E",
+        "data_set_id": "ML2HO2",
+        "mention_list": [
+            "MLS off-line HO2",
+            "MLS HO2",
+            "HO2 data from the Aura Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 151,
+        "publication_id": "6KY37Y3I",
+        "data_set_id": "ML2HO2",
+        "mention_list": [
+            "HO2 mixing ratio (ppbv) as measured by the Microwave Limb Sounder (MLS)",
+            "Aura MLS HO2",
+            "MLS HO2 mixing ratio"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 152,
+        "publication_id": "98CCN5BK",
+        "data_set_id": "ML2HOCL",
+        "mention_list": [
+            "MLS T, N2O, HCl, HOCl, ClO",
+            "MLS HCl, HOCl and ClO",
+            "MLS HOCl",
+            "MLS Version 3.3 ClO, HCl, HOCl, N2O and temperature Level 2",
+            "Aura Microwave Limb Sounder (MLS) measurements to monitor the variability of ClO, HCl, HOCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 153,
+        "publication_id": "XG5MYP73",
+        "data_set_id": "ML2HOCL",
+        "mention_list": [
+            "HOCl, ClO, HO2 and HCl from MLS",
+            "MLS data (version 3.3) of HOCl, ClO, and HO2"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 154,
+        "publication_id": "GZMFR5PJ",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "MLS IWC",
+            "MLS cloud ice"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 155,
+        "publication_id": "YFEGQA45",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "ice water content at 216 hPa (\u223c12 km above the sea level, IWC_216) of convective anvils from the Aura Microwave Limb Sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 156,
+        "publication_id": "Y5IEIML6",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "Ice water content (IWC) and water vapour (WV) measured in the UT and the TL by the Microwave Limb Sounder (MLS; Version 4.2)",
+            "ice water content measured by the MLS",
+            "IWC measurements by the MLS",
+            "MLS measurements of ice",
+            "atmospheric parameters measured by the MLS, we focus on IWC, WV, TEMP, and RHI",
+            "MLS IWC"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 157,
+        "publication_id": "JMI6FIVB",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "MLS retrieval is usable until IWC"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 158,
+        "publication_id": "HD86L7JJ",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "MLS SO2, HCl, and ice water content",
+            "ML2IWC.003"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 159,
+        "publication_id": "X8DGZPUZ",
+        "data_set_id": "ML2IWC",
+        "mention_list": [
+            "MLS IWC"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 160,
+        "publication_id": "5X46TVX3",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "lower-stratospheric N2O and middle-stratospheric CO from MLS",
+            "MLS N2O",
+            "Aura MLS N2O HNO3 , H2O, HCl, ClO, O3 and CO measurements",
+            "MLS N2O and O3",
+            "MLS vortex-averaged N2O (a), HNO3 (b), H2O (c), HCl (d), ClO (e), and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 161,
+        "publication_id": "FMI9M272",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS measurements of N2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 162,
+        "publication_id": "IQK7PDAJ",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS v4, the standard product for N2O",
+            "Vertical profiles of eight species from MLS version 4 are assimilated and are evaluated in this paper: ozone (O3), water vapour (H2O), nitrous oxide (N2O), nitric acid (HNO3), hydrogen chloride (HCl), chlorine oxide (ClO), methyl chloride (CH3Cl) and carbon monoxide (CO)",
+            "measurements from the Microwave Limb Sounder (MLS), on board the Aura satellite, of namely O3, H2O, N2O, HNO3, HCl, ClO, CH3Cl and CO",
+            "MLS N2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 163,
+        "publication_id": "98CCN5BK",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS T, N2O, HCl, HOCl, ClO",
+            "MLS N2O",
+            "MLS Version 3.3 ClO, HCl, HOCl, N2O and temperature Level 2"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 164,
+        "publication_id": "E3J8WWZT",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS N2O",
+            "O3 , H2O, HCl, N2O, and HNO3 , based on Aura Microwave Limb Sounder (MLS) data"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 165,
+        "publication_id": "CW63SG5Z",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS L2 N2O",
+            "N2O MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 166,
+        "publication_id": "3WCNDG6E",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "Aura MLS N2O"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 167,
+        "publication_id": "KBRRRMQH",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "H2O, N2O, HCl, O3, CO and HNO3 are initialized from all measurements of the MLS instrument performed during<br />1 November 2004 and 1 May 2006"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 168,
+        "publication_id": "XNJGHGTQ",
+        "data_set_id": "ML2N2O",
+        "mention_list": [
+            "MLS observations of O3, N2O, H2O, and HCl"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 169,
+        "publication_id": "8SGKXC3H",
+        "data_set_id": "ML2OH",
+        "mention_list": [
+            "MLS OH",
+            "Aura Microwave Limb Sounder (MLS) of OH, HO2, HNO3, and ozone"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 170,
+        "publication_id": "2JUZ5RXV",
+        "data_set_id": "ML2OH",
+        "mention_list": [
+            "Aura/MLS observations of the atmospheric constituents: temperature, H2O, OH, and O3 mixing ratios",
+            "hydroxyl (OH) and O3 mixing ratios from Aura microwave limb sounder (MLS)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 171,
+        "publication_id": "KK2IYBSY",
+        "data_set_id": "ML2OH",
+        "mention_list": [
+            "MLS OH, H2O and O3",
+            "MLS OH"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 172,
+        "publication_id": "NKEK2I6M",
+        "data_set_id": "ML2RHI",
+        "mention_list": [
+            "temperature and humidity measurements in 2007 and 2008 by the MLS/Aura",
+            "MLS relative humidity"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 173,
+        "publication_id": "NZRB8YGF",
+        "data_set_id": "ML2RHI",
+        "mention_list": [
+            "MLS relative humidity",
+            "MLS/Aura water vapor and relative humidity with respect to ice (RHi)"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 174,
+        "publication_id": "CVFD3KTL",
+        "data_set_id": "ML2RHI",
+        "mention_list": [
+            "MLS\u2010RHi",
+            "RHi is also an MLS product"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 175,
+        "publication_id": "Y5IEIML6",
+        "data_set_id": "ML2RHI",
+        "mention_list": [
+            "atmospheric parameters measured by the MLS, we focus on IWC, WV, TEMP, and RHI"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 176,
+        "publication_id": "LNTWB3SL",
+        "data_set_id": "ML2SO2",
+        "mention_list": [
+            "MLS data also reveals SO2"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 177,
+        "publication_id": "5XQLNTPI",
+        "data_set_id": "ML2SO2",
+        "mention_list": [
+            "SO2 as calculated from MLS",
+            "SO2 masses derived from MLS"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 178,
+        "publication_id": "HD86L7JJ",
+        "data_set_id": "ML2SO2",
+        "mention_list": [
+            "MLS SO2, HCl, and ice water content",
+            "ML2SO2.003"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 179,
+        "publication_id": "Y6CVRRNT",
+        "data_set_id": "ML2SO2",
+        "mention_list": [
+            "MLS Column SO2",
+            "MLS SO2",
+            "SO2 from MLS on Aura"
+        ],
+        "score": 1.0
+    },
+    {
+        "citation_id": 180,
+        "publication_id": "4YGI9CLN",
+        "data_set_id": "ML2SO2",
+        "mention_list": [
+            "MLS SO2",
+            "HCl and SO2 mixing ratios measured by Aura/MLS",
+            "MLS SO2 and HCl",
+            "SO2 and HCl mixing ratios retrieved by MLS"
+        ],
+        "score": 1.0
+    }
+]
