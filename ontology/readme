@@ -1,0 +1,7 @@
+SWEET git is at https://github.com/ESIPFed/sweet/
+
+get_sweet_labels.py need sweet/src directory as input
+
+fetch_terms_abstract.py takes as input term.json file produced by fetch_terms_abstract.py and zotero_pubs*.json file which is output from zotero. 
+
+get_zot_pubs_and_notes.py is output from get_zot_pubs_and_notes.py (it has to piunt to Zotero collection that you need abstracts from)
