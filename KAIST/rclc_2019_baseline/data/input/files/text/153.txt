@@ -1,0 +1,1488 @@
+NIH Public Access
+Author Manuscript
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+NIH-PA Author Manuscript
+
+Published in final edited form as:
+Arch Pediatr Adolesc Med. 2009 April ; 163(4): 328–335. doi:10.1001/archpediatrics.2009.21.
+
+Relationship Between Insulin Resistance-Associated Metabolic
+Parameters and Anthropometric Measurements With SugarSweetened Beverage Intake and Physical Activity Levels in US
+Adolescents:
+Findings From the 1999-2004 National Health and Nutrition Examination Survey
+Andrew A. Bremer, MD, PhD
+Department of Pediatrics, University of California Davis School of Medicine, Sacramento,
+California
+
+NIH-PA Author Manuscript
+
+Peggy Auinger, MS
+Department of Neurology, University of Rochester School of Medicine and Dentistry, Rochester,
+New York
+Robert S. Byrd, MD, MPH
+Department of Pediatrics, University of California Davis School of Medicine, Sacramento,
+California
+
+Abstract
+Objective—To evaluate the relationship between insulin resistance-associated metabolic
+parameters and anthropometric measurements with sugar-sweetened beverage intake and physical
+activity levels.
+Design—A cross-sectional analysis of the National Health and Nutrition Examination Survey
+data collected by the National Center for Health Statistics.
+
+NIH-PA Author Manuscript
+
+Setting—Nationally representative samples of US adolescents participating in the National
+Health and Nutrition Examination Survey during the years 1999-2004.
+Participants—A total of 6967 adolescents aged 12 to 19 years.
+Main Exposure—Sugar-sweetened beverage consumption and physical activity levels.
+
+©2009 American Medical Association. All rights reserved
+Correspondence: Andrew A. Bremer, MD, PhD, Department of Pediatrics, Division of Endocrinology, 2516 Stockton Blvd, Ste 384,
+Sacramento, CA 95817-2208 ( andrew.bremer@ucdmc.ucdavis.edu)..
+Author Contributions: Dr Bremer had full access to all of the data in the study and takes responsibility for the integrity of the data
+and the accuracy of the data analysis. Study concept and design: Bremer and Byrd. Acquisition of data: Auinger. Analysis and
+interpretation of data: Bremer, Auinger, and Byrd. Drafting of the manuscript: Bremer. Critical revision of the manuscript for
+important intellectual content: Bremer, Auinger, and Byrd. Statistical analysis: Bremer, Auinger, and Byrd. Administrative, technical,
+and material support: Bremer. Study supervision: Byrd.
+Additional Contributions: We thank Daphne Carlson Bremer, DVM, MPVM, and Daniel Tancredi, PhD, for their assistance in the
+preparation of this manuscript.
+Financial Disclosure: None reported.
+Publisher's Disclaimer: Disclaimer: The contents of this article are solely the responsibility of the authors and do not necessarily
+represent the official view of NCRR or the NIH. Information on NCRR is available at http://www.ncrr.nih.gov. Information on Reengineering the Clinical Research Enterprise is available at http://nihroadmap.nih.gov/clinicalresearch/overview-translational.asp.
+
+Bremer et al.
+
+Page 2
+
+NIH-PA Author Manuscript
+
+Outcome Measures—Glucose and insulin concentrations, a homeostasis model assessment of
+insulin resistance (HOMA-IR), total, high-density lipoprotein, and low-density lipoprotein
+cholesterol concentrations, triglyceride concentrations, systolic and diastolic blood pressure, waist
+circumference, and body mass index (calculated as weight in kilograms divided by height in
+meters squared) percentile for age and sex.
+Results—Multivariate linear regression analyses showed that increased sugar-sweetened
+beverage intake was independently associated with increased HOMA-IR, systolic blood pressure,
+waist circumference, and body mass index percentile for age and sex and decreased HDL
+cholesterol concentrations; alternatively, increased physical activity levels were independently
+associated with decreased HOMA-IR, low-density lipoprotein cholesterol concentrations, and
+triglyceride concentrations and increased high-density lipoprotein cholesterol concentrations.
+Furthermore, low sugar-sweetened beverage intake and high physical activity levels appear to
+modify each others' effects of decreasing HOMA-IR and triglyceride concentrations and
+increasing high-density lipoprotein cholesterol concentrations.
+
+NIH-PA Author Manuscript
+
+Conclusions—Sugar-sweetened beverage intake and physical activity levels are each
+independently associated with insulin resistance-associated metabolic parameters and
+anthropometric measurements in adolescents. Moreover, low sugar-sweetened beverage intake and
+high physical activity levels appear to modify each others' effects on several health-related
+outcome variables.
+THE INCREASING PREVA-lence of obesity, insulin resistance, and metabolic syndrome
+(a group of conditions associated with insulin resistance including hypertension,
+dyslipidemia, central adiposity, and impaired glucose metabolism) in the pediatric
+population is a global health issue, especially given that these conditions in childhood may
+be antecedents to adult disease.1-6 As such, the long-term public health consequences of
+these disorders in children and adolescents with respect to premature morbidity and
+mortality are significant.
+
+NIH-PA Author Manuscript
+
+A considerable amount of research over the past decade has been devoted to studying the
+genetic aspects of these conditions7-9 and which individuals may be predisposed to
+disorders of weight management or insulin sensitivity. However, environmental factors are
+also undoubtedly contributors to these conditions' development. Specifically, 2 lifestyle
+behaviors associated with obesity, insulin resistance, and metabolic syndrome are (1) high
+levels of sugar-sweetened beverage (SSB) intake10-14 and (2) low levels of physical
+activity (PA).15-21 Dietary modifications and consistent exercise are thus 2
+recommendations typically given by pediatricians to children and adolescents either at risk
+for or currently diagnosed with these disorders.
+Experimental studies support the hypothesis that SSBs may increase energy intake and
+induce weight gain via their reduced satiety response, the promotion of a positive energy
+balance by liquid calories relative to isoenergetic solid calories, and their dysregulation of
+energy homeostasis.22-26 Although not all studies support an association between SSB
+consumption and obesity,27,28 SSB intake has nonetheless been associated with increased
+body weight, increased fat mass, dyslipidemia, and blood pressure.29,30 Experimental
+studies also suggest that increased PA improves insulin sensitivity.20,21,31-39 Exercise
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 3
+
+NIH-PA Author Manuscript
+
+acutely improves insulin sensitivity for up to 48 hours because of an increase in insulinstimulated glucose transport and glycogen synthesis,40,41 and regular exercise training
+induces long-term changes within the skeletal muscle that may improve whole-body insulin
+sensitivity.35 Moreover, several clinical studies have shown that exercise improves a
+subject's overall health.42,43
+The increasing incidence and prevalence of obesity, insulin resistance, and metabolic
+syndrome in the pediatric population is well recognized44-47; however, the relationship
+between insulin resistance-associated metabolic parameters and anthropometric
+measurements with SSB intake and PA levels in children and adolescents remains poorly
+understood. Furthermore, studies evaluating the association of SSB consumption and
+exercise with these conditions are limited,16,48 which is unfortunate given that a better
+understanding of how diet and PA are related to these conditions may provide clinical and
+public health information for prevention and treatment strategies.
+
+NIH-PA Author Manuscript
+
+Thus, to evaluate the relationship between insulin resistance-associated metabolic
+parameters and anthropometric measurements with SSB intake and PA levels in the US
+adolescent population, we analyzed these associations using data from the National Health
+and Nutrition Examination Survey (NHANES) during the years 1999-2004.
+
+METHODS
+STUDY DESIGN AND POPULATION
+
+NIH-PA Author Manuscript
+
+The NHANES is conducted by the National Center for Health Statistics of the Centers for
+Disease Control and Prevention and is designed to monitor the health and nutritional status
+of the US civilian noninstitutionalized population. Since 1999, NHANES has been planned
+and conducted as a continuous annual survey, and data are released in 2-year periods (eg,
+1999-2000, 2001-2002). A nationally representative sample is selected annually using a
+stratified multistage probability cluster sample design49; oversampling Mexican American
+and black individuals, adolescents aged 12 to 19 years, persons 60 years and older, lowincome white individuals, and pregnant women permits more precise estimates for these
+groups. This study is based on data obtained from NHANES 1999-2000, 2001-2002, and
+2003-2004, as these were the most recently available NHANES that had released all of the
+data needed for the inclusion criteria, exclusion criteria, and outcome variables. The
+NHANES protocol was approved by the National Center for Health Statistics institutional
+review board, and written informed consent was obtained from all participants aged 18 years
+and older; for participants younger than 18 years, written informed assent was obtained in
+addition to parent or guardian consent. This study was approved by the institutional review
+board at the University of California, Davis.
+DATA COLLECTION
+The NHANES protocol consists of a home interview performed by a trained interviewer
+followed by a visit to an examination center where participants underwent physical
+examinations, provided blood and urine samples, and completed additional questionnaires.
+The details of the participant examinations and laboratory assessments are available on the
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 4
+
+NIH-PA Author Manuscript
+
+NHANES Web site.49 For our study, only data from participants aged 12 to 19 years were
+analyzed; individuals were excluded from analyses if they were pregnant and/or used
+steroids, blood glucose regulators, insulin, other antidiabetic agents, growth hormones, or
+sex hormones.
+MEASUREMENTS
+Outcome variables included glucose levels, insulin levels, homeostasis model assessment of
+insulin resistance (HOMA-IR) measurements, total cholesterol levels, high-density
+lipoprotein cholesterol (HDL-C) levels, low-density lipoprotein cholesterol (LDL-C) levels,
+triglyceride (TG) levels, systolic blood pressure (SBP), diastolic blood pressure, waist
+circumference (WC), and body mass index (BMI; calculated as weight in kilograms divided
+by height in meters squared) percentile for age and sex (per the National Center for Health
+Statistics references).50 The HOMA-IR ([fasting glucose in millimoles per liter×fasting
+insulin in milliunits per milliliter]/22.5),51 LDL-C, and TG results were limited to those
+who had completed at least an 8-hour fast. Mean WC is presented as the least squares mean,
+controlling for age and sex.
+
+NIH-PA Author Manuscript
+
+DEFINITIONS
+
+NIH-PA Author Manuscript
+
+Sugar-sweetened beverage information was obtained through a 24-hour dietary recall
+interview. (In NHANES 2003-2004, the 24-hour recall was assessed on 2 separate days; the
+first day was an in-person interview comparable with the previous NHANES study periods'
+primary interview mode, whereas the second day was a telephone interview 3-10 days later.
+For consistency in the methodology of data collection among the study periods, only the first
+day of the NHANES 2003-2004 24-hour recall was used in our analyses.) Sugar-sweetened
+beverages were defined as caloric soft drinks, colas, sugar-sweetened fruit drinks, or other
+SSBs; pure fruit juices and diet soft drinks were not included. Sugar-sweetened beverage
+intake in grams for each reported beverage was divided by 250 g (a serving equivalent;
+approximately 8 ounces or a cup of beverage) and summed for each adolescent. In each
+NHANES analyzed, low SSB intake was defined as the lowest quintile (≤20th percentile) of
+the sum of the number of SSB serving equivalents a subject consumed per day; medium was
+defined as the 2nd to 4th quintiles (>20th to <80th percentile); high was defined as the
+highest quintile (≥80th percentile). Units of SSB intake are defined as the number of SSB
+serving equivalents per day. Physical activity information was obtained during the interview
+questionnaire. Low PA was defined as the lowest quintile (≤20th percentile) of the sum of
+(the mean number of times a subject did activity per day) × (the average duration of each
+time in minutes) × (the metabolic equivalent score)52,53; medium was defined as the 2nd to
+4th quintiles (>20th to <80th percentile); high was defined as the highest quintile (≥80th
+percentile).
+STATISTICAL ANALYSIS
+Statistical analyses were performed with SUDAAN version 9.0 (Research Triangle Institute,
+Research Triangle Park, North Carolina) using techniques appropriate for the complex
+NHANES survey design. All of the analyses used the NHANES-provided sampling weights
+that were calculated to take into account unequal probabilities of selection resulting from the
+sample design, nonresponse, and planned oversampling of selected subgroups so the results
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 5
+
+NIH-PA Author Manuscript
+
+are representative of the US community-dwelling population. Dietary and activity variables
+were analyzed both as continuous variables and in quintiles to minimize the chance that a
+small number of extreme observations would have undue influence on the results.
+Descriptive statistics summarize the data and are expressed as the mean (standard error
+[SE]). Multivariate linear regression analyses were performed to determine independent
+associations between each outcome variable and the number of serving equivalents of SSBs
+consumed and/or the levels of PA after adjusting for age, sex, race, and energy intake (in
+kilocalories). Analyses involving female subjects were adjusted for the occurrence or
+nonoccurrence of menarche. All P values are 2-sided and statistical significance was
+established a priori at α=.05.
+
+RESULTS
+CHARACTERISTICS
+
+NIH-PA Author Manuscript
+
+The baseline characteristics of the study participants are shown in Table 1. A total of 6967
+adolescents were studied; the mean age of the participants was 15.5 years, 51.1% of the
+participants were male, and 48.9% of the participants were female. The ethnic distribution of
+the participants was 62.1% white, 14.8% black, 10.9% Mexican American, 5.3% other
+(including multiracial), and 6.9% other Hispanic. For the metabolic evaluations, 442
+individuals (approximately6% of the study population) were excluded from analyses
+because of pregnancy and/or the use of steroids, blood glucose regulators, insulin, other
+antidiabetic agents, growth hormones, or sex hormones.
+METABOLIC PARAMETERS AND ANTHROPOMETRIC MEASUREMENTS ASSOCIATED
+WITH SSB INTAKE
+
+NIH-PA Author Manuscript
+
+The characteristics of the low-, medium-, and high-SSB intake groups as well as the results
+of the multivariate linear regression analyses evaluating the relationship between SSB intake
+and insulin resistance-associated metabolic parameters and anthropometric measurements
+are shown in Table 2. The low-SSB intake group consumed a mean of 0.01 SSB serving
+equivalents (approximately 0.1 oz) per day (SE, 0.003; range, 0-0.4 [approximately 0-3 oz]);
+the medium-SSB intake group consumed a mean of 2.5 SSB serving equivalents
+(approximately 20 oz) per day (SE, 0.03; range, 0.5-4.8 [approximately 4-38 oz]), and the
+high-SSB intake group consumed a mean of 7.4 SSB serving equivalents (approximately 60
+oz) per day (SE, 0.2; range, 4.9-33.4 [approximately 40-266 oz]). Each additional SSB
+serving equivalent consumed per day was associated with a 5% increase in HOMA-IR, a
+0.16-mm Hg increase in SBP, a 0.47-cm increase in WC, a 0.90-percentile increase in BMI
+for age, and a 0.48-mg/dL decrease in HDL-C concentrations.
+METABOLIC PARAMETERS AND ANTHROPOMETRIC MEASUREMENTS ASSOCIATED
+WITH PA LEVELS
+The characteristics of the low-, medium-, and high-PA level groups as well as the results of
+the multivariate linear regression analyses evaluating the relationship between PA levels and
+insulin resistance-associated metabolic parameters and anthropometric measurements are
+shown in Table 3. In the low-PA group, 14.4% reported having engaged in at least 1
+moderate activity during the past 30 days, whereas 7.4% reported having engaged in at least
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 6
+
+NIH-PA Author Manuscript
+
+1 vigorous activity during the past 30 days. In the medium-PA group, 75.4% reported having
+engaged in at least 1 moderate activity during the past 30 days, whereas 79.8% reported
+having engaged in at least 1 vigorous activity during the past 30 days. In the high-PA group,
+74.6% reported having engaged in at least 1 moderate activity during the past 30 days,
+whereas 96.9% reported having engaged in at least 1 vigorous activity during the past 30
+days. Each incremental increase in PA level per day was associated with a 0.03% decrease
+in HOMA-IR, a 0.004-mg/dL decrease in LDL-C concentrations, a 0.01-mg/dL decrease in
+TG concentrations, and a 0.001-mg/dL increase in HDL-C concentrations.
+METABOLIC PARAMETERS AND ANTHROPOMETRIC MEASUREMENTS ASSOCIATED
+WITH SSB INTAKE AND PA LEVELS
+
+NIH-PA Author Manuscript
+
+Because the combination of dietary modification (with decreased SSB intake) and exercise
+(with increased PA levels) are typically recommended to children and adolescents either at
+risk for or currently diagnosed with obesity, insulin resistance, or metabolic syndrome, we
+evaluated the factors associated with the combination of each extreme (ie, low SSB intake
+and high PA vs high SSB intake and low PA level); the characteristics of the 2 groups as
+well as the results of the multivariate linear regression analyses evaluating the relationship
+between low SSB intake and high PA levels with insulin resistance-associated metabolic
+parameters and anthropometric measurements are shown in Table 4. The combination of low
+SSB intake and high PA levels was significantly associated with increased HDL-C
+concentrations, a lower HOMA-IR, and lower TG concentrations. Furthermore, the finding
+that the β coefficients for these 3 outcome variables (HDL-C concentrations, HOMA-IR, and
+TG concentrations) are greater with the combination of low SSB intake and high PA levels
+than with either alone suggests an effect modification.
+SEX-SPECIFIC SUBGROUP ANALYSES
+
+NIH-PA Author Manuscript
+
+Because differences between the sexes may influence the metabolic parameters and
+anthropometric measurements associated with SSB intake, PA levels, and their combination,
+sex-specific subgroup analyses were also performed; these results are shown in Table 5.
+(Although the NHANES 1999-2004 data did not include any information on pubertal status,
+it did include the age of first menses in female subjects. Thus, we were able to control for
+menarche in our subgroup analyses of female adolescents; subgroup analyses of male
+adolescents are included for comparison.)
+In female adolescents, each additional SSB serving equivalent consumed per day was
+associated with a 7% increase in HOMA-IR, a 2.25-mg/dL increase in TG concentrations, a
+0.38-mm Hg increase in SBP, a 0.75-cm increase in WC, a 0.84-percentile increase in BMI
+for age, and a 0.73-mg/dL decrease in HDL-C concentration. However, in male adolescents,
+each additional SSB serving equivalent consumed per day was associated with a 0.29-cm
+increase in WC, a 0.78-percentile increase in BMI for age, and a 0.35-mg/dL decrease in
+HDL-C concentration. Alternatively, each incremental increase in PA level in female
+adolescents was only associated with a 0.01-mg/dL decrease in TG concentrations, whereas
+each incremental increase in PA level in male adolescents was associated with a 0.04%
+decrease in HOMA-IR, a 0.005-mg/dL decrease in LDL-C concentrations, a 0.01-mg/dL
+decrease in TG concentrations, and a 0.001-cm decrease in WC. Furthermore, although the
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 7
+
+NIH-PA Author Manuscript
+
+combination of low SSB intake and high PA levels in female adolescents revealed no
+significant associations with any insulin resistance-associated metabolic parameters or
+anthropometric measurements, the combination of low SSB intake and high PA levels in
+male adolescents was significantly associated with increased HDL-C concentrations, a lower
+HOMA-IR, and lower TG concentrations.
+
+COMMENT
+In these nationally representative samples of US adolescents, we found significant
+differences between the degrees of SSB intake and PA levels with insulin resistanceassociated metabolic parameters and anthropometric measurements.
+
+NIH-PA Author Manuscript
+
+Multivariate linear regression analyses showed that increased SSB consumption was
+independently associated with increased HOMA-IR, SBP, WC, and BMI percentile for age
+and sex and decreased HDL-C concentrations; alternatively, increased PA levels were
+independently associated with decreased HOMA-IR, LDL-C concentrations, and TG
+concentrations and increased HDL-C concentrations. Furthermore, low SSB intake and high
+PA levels appear to modify each others' effects on decreasing HOMA-IR and TG
+concentrations and increasing HDL-C concentrations. These findings thus support the
+promotion of each lifestyle parameter (ie, decreased SSB consumption and increased PA
+levels) in children or adolescents either at risk for or currently diagnosed with obesity,
+insulin resistance, or metabolic syndrome.
+
+NIH-PA Author Manuscript
+
+Subgroup analyses based on sex also showed that SSB intake and PA levels were
+independently associated with insulin resistance-associated metabolic parameters and
+anthropometric differences; however, the associations of each were sex-specific. In female
+adolescents, increased SSB consumption was associated with an increase in HOMA-IR, TG
+concentrations, SBP, WC, and BMI percentile and a decrease in HDL-C concentrations.
+However, in male adolescents, SSB consumption was only associated with an increase in
+WC and BMI percentile and a decrease in HDL-C concentrations. Alternatively, increased
+PA levels in female adolescents were only associated with a decrease in TG concentrations,
+whereas increased PA levels in male adolescents were associated with a decrease in HOMAIR, LDL-C concentrations, TG concentrations, and WC. Furthermore, although the
+combination of low-SSB intake and high PA levels revealed no significant associations with
+any insulin resistance-associated metabolic parameters or anthropometric measurements in
+female adolescents, the combination of low SSB intake and high PA levels was significantly
+associated with a lower HOMA-IR, lower TG concentrations, and increased HDL-C
+concentrations, just as it was when the cohort was studied in its entirety.
+The sex-related differences that we observed with respect to the association of SSB intake
+and PA levels with insulin resistance-associated metabolic parameters and anthropometric
+measurements are intriguing; however, given the many physiological differences that exist
+between male and female adolescents during the adolescent years and our limited ability in
+female adolescents and inability in male adolescents to assess and control for pubertal status,
+our results are not necessarily surprising. Furthermore, many other variables that we could
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 8
+
+not account for during our analyses such as a subject's dietary behavior and precise body
+composition measurements may have influenced our results.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+Sugar-sweetened beverages may negatively affect hepatic metabolism and energy
+homeostasis,24 and the consumption of SSBs has been implicated in many10,11,24,54 but
+not all27,28 studies as a contributing factor to the increased incidence and prevalence of
+overweight and obesity. The odds of a pediatric patient becoming obese—and therefore at
+risk for developing metabolic syndrome—has been reported to increase
+byapproximately60% for each additional SSB serving per day,12 and individuals who
+consume a large portion of their daily energy in the form of SSBs are reported to have
+increased body weight, increased fat mass, dyslipidemia, and high blood pressure.29,30
+Although discrepancy exists in the literature regarding the association of SSB intake with a
+subject's metabolic status (which may in large part be because of the many types of studies
+that have been performed [ie, prospective, cross-sectional, and retrospective—all with
+different inclusion/exclusion criteria and means of data analysis]), our study shows an
+independent relationship between increased SSB intake and increased HOMA-IR, SBP, WC,
+and BMI percentile for age and sex and decreased HDL-C concentrations, thus supporting
+the beneficial relationship of limited SSB intake with insulin resistance-associated
+parameters.
+Alternatively, PA causes more of its metabolicchanging effects by its action on skeletal
+muscle, and regular exercise induces long-term changes within the skeletal muscle that
+improve whole-body insulin sensitivity.35,40,41 Although there have been fewer
+epidemiological studies regarding the association of PA levels with overweight and obesity
+in children, data from large adult studies42,43 have convincingly shown the metabolic
+benefits of increased exercise. Moreover, a recent study in adolescents showed that
+moderate PA was positively related to improved glucose metabolism and resting energy
+expenditure.55 Our study further supports the metabolic and health benefits of exercise and
+shows an independent relationship between increased PA levels and decreased HOMA-IR,
+LDL-C concentrations, and TG concentrations and increased HDL-C concentrations.
+
+NIH-PA Author Manuscript
+
+Importantly, the finding that the absolute values of the β coefficients from our multivariate
+linear regression analyses were consistently smaller for the PA analyses than for the SSB
+analyses does not diminish the significance of exercise and its relationship with insulin
+resistance-associated parameters; rather, it is a reflection of the methodology used. Sugarsweetened beverage intake was defined as the number of SSB serving equivalents a subject
+consumed per day, whereas PA levels were defined as (the mean number of times a subject
+did activity per day) × (the average duration of each time in minutes) × (the metabolic
+equivalent score). As would be expected from its determination from multiple variables, a
+much wider range of PA levels were calculated in the study population than SSB intake
+levels, influencing the effect of a single unit of incremental change on the outcome.
+However, based on our model, even a small increase in daily exercise by an individual (eg,
+increasing the mean number of times a subject engaged in PA from 2 to 3 per day and
+increasing the average duration of physical activity from 10 to 15 minutes) would have a
+profound effect on their calculated PA level (increasing it by 225%), leading to larger
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 9
+
+changes in the outcome variables than would be expected by the small value of the β
+coefficient.
+
+NIH-PA Author Manuscript
+
+Given that the biological effects of SSB consumption and exercise are different, we were not
+surprised to find that the combination of low SSB intake and high PA levels appeared to
+modify each others' effects on several insulin resistance-associated parameters. However,
+the fact that we only observed this effect for HOMA-IR, HDL-C concentrations, and TG
+concentrations, but not the other outcome variables, is interesting and requires further
+investigation with well-designed prospective studies. Nevertheless, HOMA-IR, HDL-C
+concentrations, and TG concentrations are commonly used in clinical practice as markers of
+a subject's metabolic status, and thus our data suggest that promoting decreased SSB
+consumption and increased levels of exercise in adolescents is important for overall health.
+
+NIH-PA Author Manuscript
+
+Our study has several significant limitations. First, because our study is cross-sectional, all
+we are able to report are associations as opposed to causality. Second, because the pubertal
+status of our subjects was not documented in the NHANES periods that we studied, we are
+unable to adjust our analyses for the subjects' degree of sexual maturation. Third, studies
+such as ours that use questionnaire data have inherent limitations: (1) the recall method is
+subject to inaccuracy and bias, especially with behaviors such as dietary habits56 and levels
+of exercise52; and (2) an individual's dietary habits and levels of exercise can vary greatly
+from one day to the next, limiting the reliability of short-term recall on long-term patterns.
+However, given that overweight subjects often underreport their levels of energy intake56
+and less active adolescents often overestimate their degree of physical fitness,52 we can
+have confidence in our results because these biases would be expected to diminish rather
+than enhance our ability to find significant associations between SSB consumption and PA
+levels with insulin resistance-associated measures.
+
+NIH-PA Author Manuscript
+
+In summary, we report that SSB intake and PA levels are each independently associated
+with insulin resistance- associated metabolic parameters and anthropometric measurements
+in adolescents; moreover, low SSB intake and high PA levels appear to modify each others'
+effect on several health-related outcome variables. Thus, although prospective studies are
+needed to directly test the effects of dietary modification and consistent exercise on the
+development of obesity, insulin resistance, and metabolic syndrome in the pediatric
+population, pediatricians should continue promoting these lifestyle modifications in efforts
+to improve overall health.
+
+Acknowledgments
+Funding/Support: This study was supported by grants KL2 RR024144 and UL1 RR024146 from the National
+Center for Research Resources (NCRR), a component of the National Institutes of Health (NIH), and NIH Roadmap for Medical Research.
+
+REFERENCES
+1. Ten S, Maclaren N. Insulin resistance syndrome in children. J Clin Endocrinol Metab. 2004; 89(6):
+2526–2539. [PubMed: 15181020]
+2. De Ferranti SD, Osganian SK. Epidemiology of paediatric metabolic syndrome and type 2 diabetes
+mellitus. Diab Vasc Dis Res. 2007; 4(4):285–296. [PubMed: 18158698]
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 10
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+3. Saland JM. Update on the metabolic syndrome in children. Curr Opin Pediatr. 2007; 19(2):183–191.
+[PubMed: 17496763]
+4. Lee JM, Okumura MJ, Davis MM, Herman WH, Gurney JG. Prevalence and determinants of insulin
+resistance among US adolescents: a population-based study. Diabetes Care. 2006; 29(11):2427–
+2432. [PubMed: 17065679]
+5. Maclaren NK, Gujral S, Ten S, Motagheti R. Childhood obesity and insulin resistance. Cell
+Biochem Biophys. 2007; 48(2-3):73–78. [PubMed: 17709876]
+6. Morrison JA, Friedman LA, Wang P, Glueck CJ. Metabolic syndrome in childhood predicts adult
+metabolic syndrome and type 2 diabetes mellitus 25 to 30 years later. J Pediatr. 2008; 152(2):201–
+206. [PubMed: 18206689]
+7. Barness LA, Opitz JM, Gilbert-Barness E. Obesity: genetic, molecular, and environmental aspects.
+Am J Med Genet A. 2007; 143A(24):3016–3034. [PubMed: 18000969]
+8. Körner A, Kiess W, Stumvoll M, Kovacs P. Polygenic contribution to obesity: genome-wide
+strategies reveal new targets. Front Horm Res. 2008; 36:12–36. [PubMed: 18230892]
+9. Chen Y, Zhu J, Lum PY, et al. Variations in DNA elucidate molecular networks that cause disease.
+Nature. 2008; 452(7186):429–435. [PubMed: 18344982]
+10. Apovian CM. Sugar-sweetened soft drinks, obesity, and type 2 diabetes. JAMA. 2004; 292(8):
+978–979. [PubMed: 15328331]
+11. Bray GA, Nielsen SJ, Popkin BM. Consumption of high-fructose corn syrup in beverages may play
+a role in the epidemic of obesity. Am J Clin Nutr. 2004; 79(4):537–543. [PubMed: 15051594]
+12. Ludwig DS, Peterson KE, Gortmaker SL. Relation between consumption of sugar-sweetened
+drinks and childhood obesity: a prospective, observational analysis. Lancet. 2001; 357(9255):505–
+508. [PubMed: 11229668]
+13. Mrdjenovic G, Levitsky DA. Nutritional and energetic consequences of sweetened drink
+consumption in 6- to 13-year-old children. J Pediatr. 2003; 142(6):604–610. [PubMed: 12838186]
+14. Johnson L, Mander AP, Jones LR, Emmett PM, Jebb SA. Is sugar-sweetened beverage
+consumption associated with increased fatness in children? Nutrition. 2007; 23(7-8):557–563.
+[PubMed: 17616342]
+15. Garaulet M, Martinez A, Victoria F, Perez-Llamas F, Ortega RM, Zamora S. Difference in dietary
+intake and activity level between normal-weight and overweight or obese adolescents. J Pediatr
+Gastroenterol Nutr. 2000; 30(3):253–258. [PubMed: 10749407]
+16. Pan Y, Pratt CA. Metabolic syndrome and its association with diet and physical activity in US
+adolescents. J Am Diet Assoc. 2008; 108(2):276–286. [PubMed: 18237576]
+17. Ferreira I, Henry RM, Twisk JW, van Mechelen W, Kemper HC, Stehouwer CD. Amsterdam
+Growth and Health Longitudinal Study. The metabolic syndrome, cardiopulmonary fitness, and
+subcutaneous trunk fat as independent determinants of arterial stiffness: the Amsterdam Growth
+and Health Longitudinal Study. Arch Intern Med. 2005; 165(8):875–882. [PubMed: 15851638]
+18. Andersen LB, Hasselstrom H, Gronfeldt V, Hansen SE, Karsten F. The relationship between
+physical fitness and clustered risk, and tracking of clustered risk from adolescence to young
+adulthood: eight years follow-up in the Danish Youth and Sport Study. Int J Behav Nutr Phys Act.
+2004; 1(1):6. [PubMed: 15169561]
+19. Török K, Szelényi Z, Pórszász J, Molnár D. Low physical performance in obese adolescent boys
+with metabolic syndrome. Int J Obes Relat Metab Disord. 2001; 25(7):966–970. [PubMed:
+11443493]
+20. DuBose KD, Eisenmann JC, Donnelly JE. Aerobic fitness attenuates the metabolic syndrome score
+in normal-weight, at-risk-for-overweight, and overweight children. Pediatrics. 2007;
+120(5):e1262–e1268. doi:10.1542/peds.2007-0443. [PubMed: 17974719]
+21. Eisenmann JC, DuBose KD, Donnelly JE. Fatness, fitness, and insulin sensitivity among 7- to 9year-old children. Obesity (Silver Spring). 2007; 15(8):2135–2144. [PubMed: 17712133]
+22. DiMeglio DP, Mattes RD. Liquid versus solid carbohydrate: effects on food intake and body
+weight. Int J Obes Relat Metab Disord. 2000; 24(6):794–800. [PubMed: 10878689]
+23. St-Onge MP, Rubiano F, DeNino WF, et al. Added thermogenic and satiety effects of a mixed
+nutrient vs a sugar-only beverage. Int J Obes Relat Metab Disord. 2004; 28(2):248–253. [PubMed:
+14970837]
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 11
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+24. Havel PJ. Dietary fructose: implications for dysregulation of energy homeostasis and lipid/
+carbohydrate metabolism. Nutr Rev. 2005; 63(5):133–157. [PubMed: 15971409]
+25. Lê KA, Tappy L. Metabolic effects of fructose. Curr Opin Clin Nutr Metab Care. 2006; 9(4):469–
+475. [PubMed: 16778579]
+26. Rutledge AC, Adeli K. Fructose and the metabolic syndrome: pathophysiology and molecular
+mechanisms. Nutr Rev. 2007; 65(6 pt 2):S13–S23. [PubMed: 17605309]
+27. O'Connor TM, Yang SJ, Nicklas TA. Beverage intake among preschool children and its effect on
+weight status. Pediatrics. 2006; 118(4):e1010–e1018. doi:10.1542/peds.2005-2348. [PubMed:
+17015497]
+28. Forshee RA, Anderson PA, Storey ML. Sugar-sweetened beverages and body mass index in
+children and adolescents: a meta-analysis. Am J Clin Nutr. 2008; 87(6):1662–1671. [PubMed:
+18541554]
+29. Raben A, Vasilaras TH, Moller AC, Astrup A. Sucrose compared with artificial sweeteners:
+different effects on ad libitum food intake and body weight after 10 wk of supplementation in
+overweight subjects. Am J Clin Nutr. 2002; 76(4):721–729. [PubMed: 12324283]
+30. Swarbrick MM, Stanhope KL, Elliott SS, et al. Consumption of fructosesweetened beverages for
+10 weeks increases postprandial triacylglycerol and apolipoprotein-B concentrations in overweight
+and obese women. Br J Nutr. 2008; 100(5):947–951. [PubMed: 18384705]
+31. Houmard JA, Tanner CJ, Slentz CA, Duscha BD, McCartney JS, Kraus WE. Effect of the volume
+and intensity of exercise training on insulin sensitivity. J Appl Physiol. 2004; 96(1):101–106.
+[PubMed: 12972442]
+32. Bell LM, Watts K, Siafarikas A, et al. Exercise alone reduces insulin resistance in obese children
+independently of changes in body composition. J Clin Endocrinol Metab. 2007; 92(11):4230–
+4235. [PubMed: 17698905]
+33. Winnick JJ, Sherman WM, Habash DL, et al. Short-term aerobic exercise training in obese humans
+with type 2 diabetes mellitus improves whole-body insulin sensitivity through gains in peripheral,
+not hepatic insulin sensitivity. J Clin Endocrinol Metab. 2008; 93(3):771–778. [PubMed:
+18073312]
+34. Szamosi A, Czinner A, Szamosi T, et al. Effect of diet and physical exercise treatment on insulin
+resistance syndrome of schoolchildren. J Am Coll Nutr. 2008; 27(1):177–183. [PubMed:
+18460496]
+35. Venables MC, Jeukendrup AE. Endurance training and obesity: effect on substrate metabolism and
+insulin sensitivity. Med Sci Sports Exerc. 2008; 40(3):495–502. [PubMed: 18379212]
+36. Johnson JL, Slentz CA, Houmard JA, et al. Exercise training amount and intensity effects on
+metabolic syndrome (from studies of a targeted risk reduction intervention through defined
+exercise). Am J Cardiol. 2007; 100(12):1759–1766. [PubMed: 18082522]
+37. LaMonte MJ, Barlow CE, Jurca R, Kampert JB, Church TS, Blair SN. Cardiorespiratory fitness is
+inversely associated with the incidence of metabolic syndrome: a prospective study of men and
+women. Circulation. 2005; 112(4):505–512. [PubMed: 16009797]
+38. Rennie KL, McCarthy N, Yazdgerdi S, Marmot M, Brunner E. Association of the metabolic
+syndrome with both vigorous and moderate physical activity. Int J Epidemiol. 2003; 32(4):600–
+606. [PubMed: 12913036]
+39. Ford ES, Kohl HW III, Mokdad AH, Ajani UA. Sedentary behavior, physical activity, and the
+metabolic syndrome among US adults. Obes Res. 2005; 13(3):608–614. [PubMed: 15833947]
+40. Ren JM, Semenkovich CF, Gulve EA, Gao J, Holloszy JO. Exercise induces rapid increases in
+GLUT4 expression, glucose transport capacity, and insulin-stimulated glycogen storage in muscle.
+J Biol Chem. 1994; 269(20):14396–14401. [PubMed: 8182045]
+41. Perseghin G, Price TB, Petersen KF, et al. Increased glucose transportphosphorylation and muscle
+glycogen synthesis after exercise training in insulinresistant subjects. N Engl J Med. 1996;
+335(18):1357–1362. [PubMed: 8857019]
+42. Tuomilehto J, Lindstrom J, Eriksson JG, et al. Finnish Diabetes Prevention Study Group.
+Prevention of type 2 diabetes mellitus by changes in lifestyle among subjects with impaired
+glucose tolerance. N Engl J Med. 2001; 344(18):1343–1350. [PubMed: 11333990]
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 12
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+
+43. Knowler WC, Barrett-Connor E, Fowler SE, et al. Diabetes Prevention Program Research Group.
+Reduction in the incidence of type 2 diabetes with lifestyle intervention or metformin. N Engl J
+Med. 2002; 346(6):393–403. [PubMed: 11832527]
+44. Cook S, Weitzman M, Auinger P, Nguyen M, Dietz WH. Prevalence of a metabolic syndrome
+phenotype in adolescents: findings from the third National Health and Nutrition Examination
+Survey, 1988-1994. Arch Pediatr Adolesc Med. 2003; 157(8):821–827. [PubMed: 12912790]
+45. Duncan GE, Li SM, Zhou XH. Prevalence and trends of a metabolic syndrome phenotype among
+US adolescents, 1999-2000. Diabetes Care. 2004; 27(10):2438–2443. [PubMed: 15451913]
+46. Weiss R, Dziura J, Burgert TS, et al. Obesity and the metabolic syndrome in children and
+adolescents. N Engl J Med. 2004; 350(23):2362–2374. [PubMed: 15175438]
+47. Srinivasan SR, Myers L, Berenson GS. Predictability of childhood adiposity and insulin for
+developing insulin resistance syndrome (syndrome X) in young adulthood: the Bogalusa Heart
+Study. Diabetes. 2002; 51(1):204–209. [PubMed: 11756342]
+48. Mundt CA, Baxter-Jones AD, Whiting SJ, Bailey DA, Faulkner RA, Mirwald RL. Relationships of
+activity and sugar drink intake on fat mass development in youths. Med Sci Sports Exerc. 2006;
+38(7):1245–1254. [PubMed: 16826021]
+49. National Center for Health Statistics. National health and nutrition examination survey. Centers for
+Disease Control and Prevention Web site. www.cdc.gov/nchs/nhanes.htm. Accessed August 1,
+2007
+50. National Center for Health Statistics. National health and nutrition examination survey clinical
+growth charts. Centers for Disease Control and Prevention Web site. www.cdc.gov/nchs/about/
+major/nhanes/growthcharts/clinical_charts.htm. Accessed August 1, 2007
+51. Matthews DR, Hosker JP, Rudenski AS, Naylor BA, Treacher DF, Turner RC. Homeostasis model
+assessment: insulin resistance and beta-cell function from fasting plasma glucose and insulin
+concentrations in man. Diabetologia. 1985; 28(7):412–419. [PubMed: 3899825]
+52. Pate RR, Wang CY, Dowda M, Farrell SW, O'Neill JR. Cardiorespiratory fitness levels among US
+youth 12 to 19 years of age: findings from the 1999-2002 National Health and Nutrition
+Examination Survey. Arch Pediatr Adolesc Med. 2006; 160(10):1005–1012. [PubMed: 17018458]
+53. Haskell WL, Lee IM, Pate RR, et al. American College of Sports Medicine; American Heart
+Association. Physical activity and public health: updated recommendation for adults from the
+American College of Sports Medicine and the American Heart Association. Circulation. 2007;
+116(9):1081–1093. [PubMed: 17671237]
+54. Schulze MB, Manson JE, Ludwig DS, et al. Sugar-sweetened beverages, weight gain, and
+incidence of type 2 diabetes in young and middle-aged women. JAMA. 2004; 292(8):927–934.
+[PubMed: 15328324]
+55. Thomas AS, Greene LF, Ard JD, Oster RA, Darnell BE, Gower BA. Physical activity may
+facilitate diabetes prevention in adolescents. Diabetes Care. 2009; 32(1):9–13. published online
+ahead of print October 7, 2008. [PubMed: 18840771]
+56. Briefel RR, Sempos CT, McDowell MA, Chien S, Alaimo K. Dietary methods research in the third
+National Health and Nutrition Examination Survey: underreporting of energy intake. Am J Clin
+Nutr. 1997; 65(4):1203S–1209S. suppl. [PubMed: 9094923]
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+Bremer et al.
+
+Page 13
+
+Table 1
+
+NIH-PA Author Manuscript
+
+Characteristics of US Adolescents Aged 12 to 19 Years: NHANES 1999-2004 Cohorts
+NHANES
+Characteristic
+
+1999-2000
+
+2001-2002
+
+2003-2004
+
+1999-2004
+
+Participants, No.
+
+2308
+
+2417
+
+2242
+
+6967
+
+Mean age, y
+
+15.4
+
+15.5
+
+15.4
+
+15.5
+
+Male
+
+51.5
+
+50.6
+
+51.1
+
+51.1
+
+Female
+
+48.5
+
+49.4
+
+48.9
+
+48.9
+
+White
+
+56.8
+
+63.8
+
+64.9
+
+62.1
+
+Black
+
+14.9
+
+13.9
+
+15.7
+
+14.8
+
+Mexican American
+
+Sex, %
+
+Race or ethnicity, %
+
+13.0
+
+9.0
+
+11.1
+
+10.9
+
+Other, including multiracial
+
+7.3
+
+5.3
+
+3.6
+
+5.3
+
+Other Hispanic
+
+8.0
+
+8.0
+
+4.7
+
+6.9
+
+Abbreviation: NHANES: National Health and Nutrition Examination Survey.
+
+NIH-PA Author Manuscript
+NIH-PA Author Manuscript
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+6028
+6026
+2641
+2652
+6401
+6401
+6470
+6525
+
+TC, mg/dL
+
+HDL-C, mg/dL
+
+LDL-C, mg/dLd
+
+TG, mg/dLd
+
+SBP, mm Hg
+
+DBP, mm Hg
+
+WC, cm
+
+BMI percentile
+
+63.3 (1.5)
+
+82.0 (0.6)
+
+62.3 (0.6)
+
+107.8 (0.4)
+
+83.9 (3.0)
+
+91.2 (1.6)
+
+51.4 (0.6)
+
+162.1 (1.3)
+
+2.1 (0.1)
+
+Low
+
+62.4 (0.8)
+
+80.3 (0.4)
+
+61.5 (0.4)
+
+108.4 (0.3)
+
+91.7 (3.1)
+
+93.6 (1.0)
+
+50.1 (0.2)
+
+161.9 (0.8)
+
+2.6 (0.1)
+
+Medium
+
+63.4 (1.2)
+
+82.0 (0.6)
+
+62.4 (0.6)
+
+111.1 (0.5)
+
+95.5 (3.3)
+
+91.4 (2.0)
+
+47.3 (0.5)
+
+159.8 (1.5)
+
+2.5 (0.1)
+
+High
+
+0.90 (0.16)
+
+0.47 (0.08)
+
+0.01 (0.07)
+
+0.16 (0.07)
+
+1.02 (0.84)
+
+0.13 (0.28)
+
+-0.48 (0.08)
+
+-0.10 (0.23)
+
+0.05 (0.02)
+
+SSB Intake
+
+β (SE)c
+
+<.001
+
+<.001
+
+.85
+
+.03
+
+.23
+
+.64
+
+<.001
+
+.66
+
+.01
+
+P Value
+
+Evaluating the relationship between SSB intake and insulin resistance-associated metabolic parameters and anthropometric measurements.
+
+Fasting subsample.
+
+d
+
+c
+β (SE) are for the number of serving equivalents of SSBs consumed per day, adjusting for amount of physical activity performed per day, age, sex, race, and energy intake (in kilocalories).
+
+Low defined as the lowest quintile of the sum of the number of serving equivalents of caloric soft drinks, colas, sugar-sweetened fruit drinks, or other SSBs consumed per day; medium defined as the
+second to fourth quintile; high defined as the highest quintile.
+
+b
+
+a
+
+SI conversions: To convert total, LDL, and HDL cholesterol to millimoles per liter, multiply by 0.0259; to convert TG to millimoles per liter, multiply by 0.0113.
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); DBP, diastolic blood pressure; HDL-C, high-density lipoprotein cholesterol; HOMA-IR,
+homeostasis model assessment of insulin resistance; LDL-C, low-density lipoprotein cholesterol; SBP, systolic blood pressure; SSB, sugar-sweetened beverage; TC, total cholesterol; TG, triglyceride; WC,
+waist circumference.
+
+2630
+
+Sample Size No.
+
+HOMA-IRd
+
+Characteristic
+
+Unadjusted Mean (SE) by Intake Groupb
+
+Characteristics of SSB Intake Groups and the Multivariate Linear Regression Coefficientsa
+
+NIH-PA Author Manuscript
+
+Table 2
+Bremer et al.
+Page 14
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+6028
+6026
+2641
+2652
+6401
+6401
+6470
+6525
+
+TC, mg/dL
+
+HDL-C, mg/dL
+
+LDL-C, mg/dLd
+
+TG, mg/dLd
+
+SBP, mm Hg
+
+DBP, mm Hg
+
+WC, cm
+
+BMI percentile
+
+61.5 (1.4)
+
+81.0 (0.6)
+
+61.2 (0.6)
+
+108.8 (0.4)
+
+95.2 (4.7)
+
+97.5 (2.8)
+
+49.7 (0.5)
+
+164.2 (2.0)
+
+2.6 (0.1)
+
+Low
+
+63.6 (0.9)
+
+81.0 (0.4)
+
+61.8 (0.4)
+
+108.6 (0.3)
+
+91.9 (2.9)
+
+92.9 (0.8)
+
+50.0 (0.3)
+
+161.6 (0.8)
+
+2.5 (0.1)
+
+Medium
+
+61.3 (1.4)
+
+79.1 (0.6)
+
+61.2 (0.7)
+
+109.6 (0.5)
+
+85.2 (3.4)
+
+87.9 (1.6)
+
+49.7 (0.5)
+
+158.7 (1.4)
+
+2.5 (0.1)
+
+High
+
+0.0001 (0.001)
+
+-0.001 (0.0005)
+
+0.0001 (0.0004)
+
+0.0001 (0.0003)
+
+-0.01 (0.002)
+
+-0.004 (0.001)
+
+0.001 (0.0003)
+
+-0.001 (0.001)
+
+-0.0003 (0.0001)
+
+PA Level
+
+Adjusted β (SE)c
+
+.92
+
+.06
+
+.74
+
+.67
+
+.001
+
+.001
+
+.003
+
+.30
+
+<.001
+
+P Value
+
+Evaluating the relationship between PA levels and insulin resistance-associated metabolic parameters and anthropometric measurements.
+
+Fasting subsample.
+
+d
+
+c
+β (SE) are for the sum of the mean number of times a subject did activity per day x the average duration of each time x the metabolic equivalent score of activity, adjusting for the number of serving
+equivalents of SSBs consumed per day, age, sex, race, and energy intake (in kilocalories).
+
+Low defined as the lowest quintile of the sum of the mean number of times a subject did activity per day × average duration of each time × metabolic equivalent score; medium defined as the second to
+fourth quintile; high defined as the highest quintile.
+
+b
+
+a
+
+SI conversions: To convert total, LDL, and HDL cholesterol to millimoles per liter, multiply by 0.0259; to convert TG to millimoles per liter, multiply by 0.0113.
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); DBP, diastolic blood pressure; HDL-C, high-density lipoprotein cholesterol; HOMA-IR,
+homeostasis model assessment of insulin resistance; LDL-C, low-density lipoprotein cholesterol; PA, physical activity; SBP, systolic blood pressure; TC, total cholesterol; TG, triglyceride; WC, waist
+circumference.
+
+2630
+
+Sample Size, No.
+
+HOMA-IRd
+
+Characteristic
+
+Unadjusted Mean (SE) by PA Levelb
+
+Characteristics of PA Level Groups and the Multivariate Linear Regression Coefficientsa
+
+NIH-PA Author Manuscript
+
+Table 3
+Bremer et al.
+Page 15
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+
+2410
+
+1056
+
+1060
+
+2560
+
+2560
+
+2588
+
+2610
+
+HDL-C, mg/dL
+
+LDL-C, mg/dLc
+
+TG, mg/dLc
+
+SBP, mm Hg
+
+DBP, mm Hg
+
+WC, cm
+
+BMI percentile
+
+62.7 (2.8)
+
+80.6 (1.1)
+
+62.5 (1.2)
+
+108.8 (1.0)
+
+79.4 (6.9)
+
+85.5 (4.6)
+
+51.5 (1.1)
+
+162.7 (3.7)
+
+1.8 (0.2)
+
+64.1 (3.3)
+
+84.4 (1.6)
+
+63.2 (1.3)
+
+110.8 (0.9)
+
+112.7 (12.9)
+
+99.2 (5.6)
+
+48.2 (1.3)
+
+165.9 (4.5)
+
+2.9 (0.3)
+
+-2.45 (4.45)
+
+-3.95 (2.20)
+
+0.39 (1.62)
+
+-1.22 (1.37)
+
+-34.21 (15.19)d,g
+
+-3.08 (3.71)
+
+-2.58 (1.63)
+
+-0.05 (1.09)
+
+-0.11 (0.96)
+
+-22.48 (13.41)
+
+-6.91 (5.84)
+
+1.48 (1.26)
+
+4.16 (1.78)d,f
+-14.20 (8.07)
+
+-5.66 (4.29)
+
+-0.62 (0.31)
+
+-4.76 (6.32)
+
+-1.45 (0.32)d,e
+
+Adjusted β(SE) b
+
+β (SE) are for SSB intake and PA level compared with high SSB intake and low PA level, adjusting for age, sex, race, and energy intake (in kilocalories).
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+β (SE) for low SSB intake alone (adjusting for PA level) = -7.01 (4.71); β (SE) for high PA level alone (adjusting for SSB intake) = -7.51 (4.54).
+
+g
+
+f
+β (SE) for low SSB intake alone (adjusting for PA level) = 1.77 (0.62); β (SE) for high PA level alone (adjusting for SSB intake) = 0.42 (0.55).
+
+β (SE) for low SSB intake alone (adjusting for PA level) = -0.48 (0.13); β (SE) for high PA level alone (adjusting for SSB intake) = -0.39 (0.14).
+
+e
+
+P<.05.
+
+d
+
+c
+Fasting subsample.
+
+b
+
+Low SSB intake defined as the lowest quintile of the sum of the number of serving equivalents of caloric soft drinks, colas, sugar-sweetened fruit drinks, or other SSBs consumed per day; high SSB intake
+defined as the highest quintile; low PA defined as the lowest quintile of the sum of the mean number of times a subject did activity per day × the average duration of each time × metabolic equivalent score;
+high PA defined as the highest quintile.
+
+a
+
+SI conversions: To convert total, LDL, and HDL cholesterol to millimoles per liter, multiply by 0.0259; to convert TG to millimoles per liter, multiply by 0.0113.
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); DBP, diastolic blood pressure; HDL-C, high-density lipoprotein cholesterol; HOMA-IR,
+homeostasis model assessment of insulin resistance; LDL-C, low-density lipoprotein cholesterol; PA, physical activity; SBP, systolic blood pressure; SSB, sugar-sweetened beverage; TC, total cholesterol;
+TG, triglyceride; WC, waist circumference.
+
+2411
+
+1052
+
+TC, mg/dL
+
+HOMA-IRc
+
+Unadjusted Mean (SE) by SSB Intake Group vs PA Levela
+
+Characteristics of SSB and PA Level Group Combinations and the Multivariate Linear Regression Coefficients Evaluating Their Relationship With
+Insulin Resistance-Associated Metabolic Parameters and Anthropometric Measurements
+
+NIH-PA Author Manuscript
+
+Table 4
+Bremer et al.
+Page 16
+
+NIH-PA Author Manuscript
+
+NIH-PA Author Manuscript
+-0.18 (0.39)
+
+-0.73 (0.15)e
+-0.03 (0.54)
+2.25 (1.09)e
+0.38 (0.13)e
+0.07 (0.12)
+0.75 (0.19)e
+0.84 (0.35)e
+
+TC, mg/dL
+
+HDL-C, mg/dL
+
+LDL-C, mg/dLd
+
+TG, mg/dLd
+
+SBP, mm Hg
+
+DBP, mm Hg
+
+WC, cm
+
+BMI percentile
+
+0.78 (0.23)e
+
+0.29 (0.10)e
+
+-0.02 (0.08)
+
+0.05 (0.08)
+
+0.47 (1.01)
+
+0.19 (0.26)
+
+-0.35 (0.08)e
+
+-0.02 (0.26)
+
+0.04 (0.02)
+
+Male
+
+0.0003 (0.001)
+
+-0.0004 (0.001)
+
+0.001 (0.0005)
+
+0.0002 (0.001)
+
+-0.01 (0.002)e
+
+-0.003 (0.002)
+
+0.001 (0.0005)
+
+-0.002 (0.001)
+
+-0.0001 (0.0001)
+
+Female
+
+Male
+
+-0.0002 (0.001)
+
+-0.001 (0.001 )e
+
+-0.0004 (0.0004)
+
+-0.00002 (0.0003)
+
+-0.01 (0.003)e
+
+-0.005 (0.001 )e
+
+0.001 (0.0005)
+
+-0.001 (0.002)
+
+-0.0004 (0.0001 )e
+
+PA Levelb
+
+β (SE)
+
+2.60 (7.97)
+
+-3.90 (3.64)
+
+0.75 (2.09)
+
+-1.40 (2.06)
+
+-47.01 (30.34)
+
+-14.33 (14.78)
+
+3.31 (2.90)
+
+-7.91 (9.19)
+
+-1.38 (0.69)
+
+Female
+
+-2.31 (5.40)
+
+-3.47 (2.73)
+
+-0.17 (2.60)
+
+-1.67 (1.68)
+
+-28.88 (12.87)e
+
+-14.04 (7.45)
+
+5.08 (2.16)e
+
+-3.91 (7.17)
+
+-1.51 (0.29)e
+
+Male
+
+Low SSB Intake and High PA Levelc
+
+Arch Pediatr Adolesc Med. Author manuscript; available in PMC 2014 December 12.
+
+e
+P<.05.
+
+Fasting subsample.
+
+d
+
+c
+β (SE) are for SSB intake and PA level compared with high SSB intake and low PA level, adjusting for age, sex, race, menarche (for female adolescents), and energy intake (in kilocalories).
+
+Low PA defined as the lowest quintile of the sum of the mean number of times a subject did activity per day × the average duration of each time × metabolic equivalent score; medium defined as the
+second through fourth quintile; high PA defined as the highest quintile. β (SE) are for the sum of the mean number of times a subject did activity per day × the average duration of each time × metabolic
+equivalent score of activity, adjusting for the number of serving equivalents of SSBs consumed per day, age, sex, race, menarche (for female adolescents), and energy intake (in kilocalories).
+
+b
+
+a
+Low SSB intake defined as the lowest quintile of the sum of the number of serving equivalents of caloric soft drinks, colas, sugar-sweetened fruit drinks, or other SSBs consumed per day; medium defined
+as the second through fourth quintile; high SSB intake defined as the highest quintile. β (SE) are for the number of serving equivalents of SSBs consumed per day, adjusting for amount of physical activity
+performed per day, age, sex, race, menarche (for female adolescents), and energy intake (in kilocalories).
+
+SI conversions: To convert total, LDL, and HDL cholesterol to millimoles per liter, multiply by 0.0259; to convert TG to millimoles per liter, multiply by 0.0113.
+
+Abbreviations: BMI, body mass index (calculated as weight in kilograms divided by height in meters squared); DBP, diastolic blood pressure; HDL-C, high-density lipoprotein cholesterol; HOMA-IR,
+homeostasis model assessment of insulin resistance; LDL-C, low-density lipoprotein cholesterol; PA, physical activity; SBP, systolic blood pressure; SE, standard error; SSB, sugar-sweetened beverage;
+TC, total cholesterol; TG, triglyceride; WC, waist circumference.
+
+0.07 (0.03)e
+
+HOMA-IRd
+
+Female
+
+SSB Intakea
+
+Sex-Specific Multivariate Linear Regression Analyses Evaluating the Relationship Between SSB Intake, PA Levels, and Their Combination With Insulin
+Resistance-Associated Metabolic Parameters and Anthropometric Measurements
+
+NIH-PA Author Manuscript
+
+Table 5
+Bremer et al.
+Page 17
+
+

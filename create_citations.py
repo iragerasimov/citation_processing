@@ -8,11 +8,13 @@ import json
 import re
 import glob
 
+from pyzotero import zotero
+
 library_id = '2395775'
 library_type = 'group'
 api_key = '0pSr6jlYcsrXlmum9RzhwW4P'
 
-from pyzotero import zotero
+
 zot = zotero.Zotero(library_id, library_type, api_key)
 
 publication_list = []
@@ -25,10 +27,11 @@ publications_file = "publications.json"
 data_set_citations_file = "data_set_citations.json"
 
 with open(os.path.join(json_folder_path, datasets_file)) as json_datasets_file:
-  dataset_list = json.load(json_datasets_file)
+    dataset_list = json.load(json_datasets_file)
 
-#with open(os.path.join(json_folder_path, publications_file)) as json_publications_file:
+#  with open(os.path.join(json_folder_path, publications_file)) as json_publications_file:
 #  publications_list = json.load(json_publications_file)
+
 
 def search(cit_list, publication_id, dataset_id):
   for citation in cit_list:
@@ -36,11 +39,13 @@ def search(cit_list, publication_id, dataset_id):
       return citation
   return False
 
+
 def search_pubs(pub_list, publication_id):
   for publication in pub_list:
     if publication['publication_id'] == publication_id:
       return publication
   return False
+
 
 for dataset in dataset_list:
   dataset_tag = "dataset:"+dataset["data_set_id"] 

@@ -1,11 +1,12 @@
 import os
 import json
+import time
+from collections import defaultdict
+import matplotlib.pyplot as plt
 import re
 import glob
 
 from Paper import *
-
-
 from pyzotero import zotero
 
 library_id = '6657757'
@@ -17,8 +18,51 @@ zot = zotero.Zotero(library_id, library_type, api_key)
 collection_id = '4HLCJQ8L'
 collection = zot.collection(collection_id)
 
-print(collection['data'])
-print(collection['meta'])
-items = zot.collection_items(collection_id)
-print(items[0])
-print(len(items))
+load_json = True
+
+if 'itemDict.txt' in list(os.listdir()) and load_json:
+    print("Loading values...")
+    with open("itemDict.txt", "r") as json_file:
+        items = json.load(json_file)
+else:
+    print("Getting Zotero data...")
+    start_time = time.time()
+    items = zot.everything(zot.collection_items(collection_id))
+    with open('itemDict.txt', "w") as outfile:
+        json.dump(items, outfile)
+    print("Data loaded. It took %s seconds to load the data." %(time.time() - start_time))
+
+count_note = 0
+count_journal = 0
+count_other = 0
+d = defaultdict(int)
+
+for item in items:
+    if item['data']['itemType'] == 'note':
+        for tag in item['data']['tags']:
+            if 'dataset' not in tag['tag']:
+                continue
+            d[tag['tag'].split(":")[1]] += 1
+        count_note += 1
+        continue
+    elif item['data']['itemType'] == 'journalArticle':
+        count_journal += 1
+    else:
+        count_other += 1
+print(count_note, count_journal, count_other)
+print(len(d.keys()))
+x = []
+y = []
+for key in d.keys():
+    if d[key] > 10:
+        x.append(key)
+        y.append(d[key])
+print(len(x))
+print(y)
+
+plt.bar(x, y)
+plt.legend()
+plt.show()
+plt.hist(d.values(), [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50], histtype='bar')
+plt.xlabel("Dataset Frequency in MLS/Aura")
+plt.show()

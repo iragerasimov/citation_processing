@@ -1,0 +1,3669 @@
+Great moderation at the firm level?
+Unconditional versus conditional output volatility
+Claudia M. Buch
+(University of Tübingen and IAW)
+
+Jörg Döpke
+(University of Applied Sciences, Merseburg)
+
+Kerstin Stahn
+(Deutsche Bundesbank)
+
+Discussion Paper
+Series 1: Economic Studies
+No 13/2008
+Discussion Papers represent the authors’ personal opinions and do not necessarily reflect the views of the
+Deutsche Bundesbank or its staff.
+
+Editorial Board:
+
+Heinz Herrmann
+Thilo Liebig
+Karl-Heinz Tödter
+
+Deutsche Bundesbank, Wilhelm-Epstein-Strasse 14, 60431 Frankfurt am Main,
+Postfach 10 06 02, 60006 Frankfurt am Main
+Tel +49 69 9566-1
+Telex within Germany 41227, telex from abroad 414431
+Please address all orders in writing to: Deutsche Bundesbank,
+Press and Public Relations Division, at the above address or via fax +49 69 9566-3077
+Internet http://www.bundesbank.de
+Reproduction permitted only if source is stated.
+ISBN 978-3–86558–435–9 (Printversion)
+ISBN 978-3–86558–436–6 (Internetversion)
+
+Abstract
+Aggregated output in industrialized countries has become less volatile over the past
+decades. Whether this “Great Moderation” can be found in firm level data as well
+remains disputed. We study the evolution of firm level output volatility using a
+balanced panel dataset on German firms that covers 35 years (1971-2005) and about
+1,500 firms per year. In contrast to earlier work using firm level data, we use the
+multifactor residual model proposed by Pesaran (2006) to isolate the idiosyncratic
+component of firms’ real sales growth from macroeconomic developments. Our paper
+has three main findings. First, time trends in unconditional firm level and aggregated
+output volatility in Germany are similar. There has been a long-run downward trend,
+which was interrupted by the unification period. Second, the conditional, idiosyncratic
+firm level volatility does not exhibit a downward trend. If anything idiosyncratic
+volatility has been on a slow trend rise. Third, we find evidence of a positive link
+between growth and volatility at the firm level.
+
+Keywords:
+
+firm level volatility, Great Moderation, multifactor residual
+model
+
+JEL-Classification:
+
+E32, D21
+
+Non-technical summary
+Aggregated output has become less volatile over the past decades in industrialized
+countries. While this stylized fact is widely accepted, the causes for the “Great
+Moderation” are still the subject of lively debate. The jury is still out on the question
+whether “Good Policy”, in particular a more stabilizing monetary policy, or “Good
+Luck”, i.e. the absence of major shocks, is the main cause of the Great Moderation.
+Yet, for individual households, it is the development of volatility at the firm level
+rather than the development of aggregate volatility that matters. If firm level volatility
+increases, households must find ways to diversify firm level risks and to shield their
+consumption against income fluctuation. Possibilities for diversification, in turn, depend
+on the relative importance of macroeconomic and idiosyncratic factors affecting
+volatility at the firm level. Idiosyncratic volatility can be diversified in developed
+financial markets. Macroeconomic factors, in contrast, affect all firms in a similar
+manner and can be diversified nationally only to the extent that some firms react
+differently to the same macroeconomic shock.
+In this paper, we thus test whether evidence of a Great Moderation can be found at
+the firm level. Earlier evidence, which mostly uses US data, has partly conflicting
+results. In fact, the link between aggregated and firm level volatility is not clear a priori.
+On the one hand, developments of growth volatility at the aggregate and the firm level
+might differ if output changes are imperfectly correlated across firms and if these
+correlations change over time. On the other hand, aggregate growth rates of GDP can be
+seen as the averaged growth rates across all firms in an economy. This makes
+differences in the time series patterns of firm level and aggregated volatility unlikely.
+Instead, volatility at different levels of aggregation moves into the same direction if the
+shares of firms in aggregated output and the responses of firms to macroeconomic
+developments remain relatively stable.
+In this paper, we go beyond earlier studies by using a comprehensive panel dataset
+for German firms. These data allow tracking individual firms for a maximum of 35
+years (1971-2005). Our data come from the Corporate Balance Sheet Statistics and the
+Financial Statements Data Pool provided by the Deutsche Bundesbank.
+
+Methodologically, we go beyond earlier literature in two regards. First, we use the
+multifactor residual model proposed by Pesaran (2006) to isolate the idiosyncratic
+growth of firms’ sales from macroeconomic factors. We control for observed and
+unobserved macroeconomic developments affecting all firms while allowing for a
+heterogeneous response of firms to these factors. We find that trends in firm level and
+aggregate volatility are similar when looking at the unconditional volatility at the firm
+level. Controlling for macroeconomic developments, firm level volatility is not only
+lower but also exhibits no downward trend. If anything, there even is some evidence of
+a very slow increase in idiosyncratic firm level volatility. Second, we employ panel
+regressions to analyze the determinants of firm level growth volatility. Results show
+that higher asset growth and lower inventory-sales ratios are associated with a higher
+volatility of firms’ sales.
+
+Nicht-technische Zusammenfassung
+Schwankungen des aggregierten Output haben in entwickelten Volkswirtschaften über
+die vergangenen Jahrzehnte hinweg abgenommen. Die Ursachen für diese „Great
+Moderation” werden in der Literatur strittig diskutiert. Sowohl eine bessere Geldpolitik
+als auch geringere makroökonomische Schocks und strukturelle Veränderungen werden
+für diese Entwicklung verantwortlich gemacht.
+Für individuelle Haushalte ist hingegen eher die Entwicklung auf Firmen- als auf
+Makroebene relevant. Steigt die Volatilität auf Firmenebene, müssen die Haushalte
+Wege finden, diese Volatilität zu diversifizieren, um ihren Konsum gegen
+Schwankungen des Einkommen abzusichern. Inwiefern das möglich ist, hängt
+wiederum von den Bestimmungsründen der einzelwirtschaftlichen Volatilität ab. Stehen
+makroökonomische Entwicklungen hinter den Schwankungen auf Firmenebene, kann
+eine Absicherung von Risiken im nationalen Rahmen nur begrenzt gelingen. Sind
+idiosynkratische, firmenspezifische Schocks ausschlaggebend, besteht hingegen die
+Möglichkeit zur Diversifizierung auf nationalen Finanzmärkten.
+In diesem Papier untersuchen wir, inwiefern auf Firmenebene ein Rückgang der
+Volatilität zu verzeichnen ist. Frühere Evidenz, die sich vorwiegend auf die USA
+bezieht, kommt hier zu widersprüchlichen Aussagen: Grundsätzlich ist der
+Zusammenhang zwischen der Volatilität auf aggregierter und auf Firmenebene nicht
+eindeutig. Einerseits können sich die Entwicklungen unterscheiden, wenn die
+Wachstumsraten auf Firmenebene unvollständig miteinander korreliert sind und sich
+diese Korrelationen über die Zeit ändern. Andererseits kann das Wachstum auf
+aggregierter Ebene als der gewichtete Durchschnitt der Wachstumsraten auf Firmebene
+aufgefasst werden. Bleiben die Anteile einzelner Firmen über die Zeit hinweg konstant
+und reagieren die Firmen ähnlich auf makroökonomische Entwicklungen, sollte sich
+somit die Entwicklung der Volatilität auf unterschiedlichen Aggregationsebenen nicht
+wesentlich unterscheiden.
+In diesem Papier nutzen wir Daten für eine repräsentative Gruppe deutscher Firmen.
+Unsere Daten erlauben es, eine Gruppe von rund 1.500 Unternehmen über einen
+Zeitraum von 35 Jahren (1971-2005) kontinuierlich zu verfolgen. Unsere Daten sind der
+
+Unternehmensbilanzstatistik
+
+und
+
+dem
+
+Jahresabschlussdatenpool
+
+der
+
+Deutschen
+
+Bundesbank entnommen.
+In methodischer Hinsicht gehen wir über frühere Arbeiten hinaus, indem wir das
+Multifaktormodell von Pesaran (2006) nutzen, um die idiosynkratische Komponente des
+Wachstums auf Firmenebene von makroökonomischen Faktoren zu isolieren. Wir
+berücksichtigen beobachtete und unbeobachtete makroökonomische Faktoren und wir
+lassen eine heterogene Reaktion der Unternehmen auf diese Faktoren zu. Unsere
+Ergebnisse zeigen, dass Trends in der firmenspezifischen und der aggregierten
+Volatilität ähnlich sind, wenn nicht um makroökonomische Faktoren bereinigt wird.
+Nachdem wir makroökonomische Faktoren herausgerechnet haben, findet sich
+allerdings kein starker Trend mehr in der firmen-spezifischen Volatilität: wenn
+überhaupt, hat diese über die Zeit hinweg leicht zugenommen. Gleichzeitig zeigen diese
+Ergebnisse, dass makroökonomische Faktoren einen starken Einfluss auf die
+Entwicklungen auf Firmenebene haben. In einem zweiten Schritt untersuchen wir die
+Determinanten
+
+der
+
+firmenspezifischen
+
+Volatilität.
+
+Höheres
+
+Wachstum
+
+auf
+
+Unternehmensebene und geringere Lagerhaltung gehen diesen Berechnungen zufolge
+mit einer stärkeren Volatilität einher.
+
+Contents
+1
+
+Introduction ..............................................................................................................1
+
+2
+
+Theoretical Background .......................................................................................... 4
+
+3
+
+Data and Descriptive Statistics .................................................................................6
+3.1 The Data .................................................................................................................6
+3.2 Computing Firm Level Volatility...........................................................................9
+
+4
+
+Computing Idiosyncratic Firm Level Volatility .....................................................10
+
+5
+
+Decomposing and Explaining Firm Level Volatility .............................................13
+5.1 First-Stage Regression: Decomposing Firm Level Volatility ..............................13
+5.2 Second-Stage Regressions: Explaining the Volatility of Sales Growth ...............16
+5.3 Robustness and Selection Issues ..........................................................................18
+
+6
+
+Summary and Conclusions .....................................................................................21
+
+7
+
+References ..............................................................................................................22
+
+8
+
+Data Appendix........................................................................................................25
+
+List of tables and figures
+Table 1: Distribution of Firms by Sector and Year .........................................................26
+Table 2: Descriptive Statistics and Correlation Matrix ...................................................28
+Table 3: Firm Level Response to Macroeconomic Factors.............................................31
+Table 4: Determinants of Firm Level Volatility of Real Sales........................................32
+Table 5: Regression Results Heteroskedastic Regression Model....................................34
+Graph 1: Unconditional Firm Level Versus Aggregated Volatility ................................35
+Graph 2: Conditional Versus Unconditional Firm Level Volatility................................36
+
+Great Moderation at the Firm Level?
+Unconditional versus Conditional Output Volatility *
+
+1 Introduction
+Aggregated output has become less volatile over the past decades in industrialized
+countries (see, among others, Blanchard and Simon 2001, Stock and Watson 2003).
+While this stylized fact is widely accepted, the causes for the “Great Moderation” are
+still the subject of lively debate. The jury is still out on the question whether “Good
+Policy”, in particular a more stabilizing monetary policy, or “Good Luck”, i.e. the
+absence of major shocks, is the main cause of the Great Moderation. (For recent
+contributions, see Benati 2007, Benati and Surico 2006, Canova 2006, or Giannone et
+al. 2007.)
+Yet, for individual households, it is the development of volatility at the firm level
+rather than the development of aggregate volatility that matters. If firm level volatility
+increases, households must find ways to diversify firm level risks and to shield their
+consumption against income fluctuation. Possibilities for diversification, in turn, depend
+on the relative importance of macroeconomic and idiosyncratic factors affecting
+volatility at the firm level. Idiosyncratic volatility can be diversified in developed
+financial markets. Macroeconomic factors, in contrast, affect all firms in a similar
+manner and can be diversified nationally only to the extent that some firms react
+differently to the same macroeconomic shock. In this paper, we thus test whether
+evidence of a Great Moderation can be found at the firm level.
+
+*
+
+Corresponding author: Claudia M. Buch (University Tübingen, Department of Economics, Mohlstrasse
+36, 72074 Tübingen, Phone: +49 7071 2972962, claudia.buch@uni-tuebingen.de). The authors thank
+the Statistics Department of the Deutsche Bundesbank and, in particular, Timm Körting, for excellent
+data assistance and discussions on the data. We would also like to thank Jörg Breitung, Heinz
+Herrmann, Thomas Phillipon as well as seminar participants at the University of Osnabrück and at the
+Annual Meeting of the Council for Monetary Economics of the German Economic Association, held at
+the Austrian National Bank in February 2008, for most helpful discussions and comments. The views
+presented in this paper are those of the authors and do not necessarily reflect the opinions of the
+Deutsche Bundesbank. All errors and inconsistencies are solely our own responsibility.
+
+1
+
+To date, there is little consensus reached how firm level output volatility has evolved
+over time, let alone the causes for changes in this volatility. For the USA, Comin and
+Philippon (2005) were the first to claim diverging patterns in firm level and aggregated
+output volatility. According to their results, firm level output volatility has increased,
+whereas aggregated output volatility has decreased (see also Comin and Mulani 2006).
+Comin et al. (2006) confirm these general patterns in the data and show that output and
+employment volatility display similar trends. Yet Davis et al. (2006) demonstrate that
+the finding of an increase in firm level output volatility crucially depends on the sample
+of firms chosen. According to their results, the increase in firm level volatility is a
+feature of large, publicly traded firms. Using information on privately-owned firms as
+well, Davis et al. (2006) find a downward trend in firm level volatility for the US,
+mirroring the macro level development.
+Evidence on firm level volatility for non-US countries is scarce (Davis and Kahn
+2007). For France, Thesmar and Thoenig (2004) show an upward trend in firm level
+volatility. For Germany, patterns at the firm level are similar to those found in
+aggregated data, and there is no evidence of an increase in volatility (Buch et al. 2006). 1
+In this paper, we go beyond earlier studies by using a comprehensive panel dataset
+for German firms. These data allow tracking individual firms for a maximum of 35
+years (1971-2005). Our data come from the Financial Statements Data Pool and the
+Corporate Balance Sheet Statistics of German firms provided by the Deutsche
+Bundesbank.
+Methodologically, we depart from earlier literature in two regards. First, we use the
+multifactor residual model proposed by Pesaran (2006) to isolate the idiosyncratic
+growth of firms’ sales from macroeconomic factors. We control for observed and
+unobserved macroeconomic developments affecting all firms while allowing for a
+heterogeneous response of firms to these factors. Our results show that differences
+between the unconditional volatility of firms’ sales growth and the idiosyncratic,
+conditional volatility are quite substantial. Without distinguishing the micro- and the
+macro-component, inference about trends in firm level versus aggregate volatility might
+thus be misleading. Second, we employ fixed effects panel regressions as well as the
+1
+
+For evidence on aggregated volatility in Germany see Aßmann et al. (2006) and Buch et al. (2004).
+
+2
+
+heteroskedastic regression model proposed by Harvey (1976) to analyze the
+determinants of firm level growth volatility. This method has the advantage that we can
+simultaneously estimate the determinants of the mean and the variance of firms’ sales
+growth. Moreover, our results do not rely on arbitrary choices of choosing a time
+window for the computation of (rolling) volatilities.
+Why would one expect firm level and aggregated volatility to differ? After all,
+aggregate growth rates of GDP can be seen as the averaged growth rates across all firms
+in an economy. Yet, this does not automatically imply that the same trends as in the
+volatility of GDP growth can be found in firm level data. Instead, developments of
+growth volatility at the aggregate level and the firm level might differ if output changes
+are imperfectly correlated across firms (Comin and Phillipon 2005). Patterns of
+correlation, in turn, may change due to differences in the process of deregulation across
+sectors, differences in R&D intensities, or different degrees of goods market
+competition. Also, advancing financial markets provide better opportunities for risksharing, which increases the ability of investors to take on risks. Depending on the
+degree of information asymmetries at the firm level, different firms might be affected
+differently. These arguments suggest that studying the development of aggregated
+volatility only may mask diverging trends at the firm level.
+Davis et al. (2006), in contrast, argue that differences in the time series patterns of
+firm level and aggregated volatility are unlikely. They argue that volatility at different
+level of aggregation moves into the same direction if the shares of firms in aggregated
+output and the responses of firms to macroeconomic developments remain relatively
+stable.
+The structure of the paper is as follows. In Part 2, we provide a brief theoretical
+background. In Parts 3 and 4, we describe our data and our empirical model. In Part 5,
+we use this model to decompose firms’ growth rates into the idiosyncratic component
+and the component driven by macroeconomic factors, and we analyze the determinants
+of firm level growth volatility. Part 6 concludes. We find that trends in firm level and
+aggregate volatility are similar when looking at the unconditional volatility at the firm
+level. This supports the view of Davis et al. (2006). Controlling for macroeconomic
+developments, we find that firm level volatility is not only lower but also exhibits no
+
+3
+
+downward trend. In fact, there even is some evidence of a very slow increase in
+idiosyncratic firm level volatility, supporting the view of Comin and Phillipon (2005).
+We also investigate the determinants of idiosyncratic volatility and find higher asset
+growth and lower inventory-sales ratios to be associated with a higher volatility of
+firms’ sales. Leverage has no significant impact.
+
+2 Theoretical Background
+In order to understand how firm level and aggregate volatility develop – and why
+time trends might differ – a theoretical framework which departs from the assumption
+of symmetric, homogenous firms is required. Using a standard Dixit-Stiglitz-type
+specification of household preferences, it can be shown that firm level prices and output
+depend on firm level and macroeconomic factors alike. As shown in Woodford (2003:
+Chapter 3), the first-order condition for the optimal pricing strategy of the supplier of
+good i is then given by:
+
+
+
+31 pt i , ptI , Pt ;Yt , [ t , [ it
+
+
+
+0
+
+(1)
+
+where 31 is the first derivative of the firm i’s profit function, pt i  is the price
+charged for good i, ptI is an index of the price charged in industry I to which firm i
+belongs, Pt is the economy-wide price index, Yt is an index of aggregate demand, [ t is
+a vector of exogenous macroeconomic disturbances, and [ it is a vector of firm-specific
+disturbances. According to equation (1), a firm’s profit maximum with the
+corresponding prices and quantities depends on firm-specific, industry-specific, and
+macroeconomic developments. These variables, by definition, also have an impact on
+the volatility of firm level variables.
+Equation (1) also implies that trends in the volatility of firm-specific and
+macroeconomic factors might differ if [ t and [ it exhibit different time trends or if the
+propagation channels between micro- and macroeconomic developments change
+systematically over time. Focusing on the micro-economic determinants of firm level
+volatility, we can think of four main reasons why volatility may change over time.
+
+4
+
+First, the process of financial market deregulation and integration may provide better
+risk-sharing possibilities for investors. Hence, ceteris paribus, more risky firms may be
+able to obtain external finance, thus raising the average risk and volatility of firms.
+Thesmar and Thoenig (2004) find evidence for France supporting the hypothesis that
+the financial market deregulation has contributed to an increase in firm level output
+volatility. We will account for the importance of financial frictions by including the
+leverage ratio of firms.
+Second, greater exposure to international competition and the deregulation of product
+markets may increase the elasticity of demand that firms are facing. This could change
+the responsiveness of firms to a given shock. 2
+Third, changes in the process of productivity growth away from the imitation of
+existing technologies towards innovative research and development may increase
+volatility. Eichengreen (2007), for instance, notes that, up until roughly the 1970s,
+growth in Europe was characterized by a catching up process to the technological
+frontier whereas in later decades innovative R&D started to dominate.
+Fourth, new information technologies have helped firms to improve their inventory
+management. During the “Great Moderation”, output volatility fell further than final
+sales volatility (Davis and Kahn 2007). This implies a change in the behavior of
+inventories in terms of lower volatility of inventories and/or a change in the covariance
+between inventories and sales. In our empirical analysis below, we will look at the
+volatility of real sales rather than output. From a theoretical point of view, we would
+expect inventories to be used to smoothen production when shocks to firms’ sales
+dominate (Hornstein 1998). If productivity shocks dominate, in contrast, inventories are
+used to stabilize sales. Hence, we use firm level information on the inventory-sales ratio
+to account for the fact that inventories should be adjusted counter-cyclically with regard
+to fluctuations in real sales.
+Our data are not rich enough to study the importance of all of these factors. However,
+we will show trends in the data and model the determinants of volatility as closely as
+
+2
+
+See Rodrik (1997) for a related argument as to why labor market volatility may increase in integrated
+markets.
+
+5
+
+possible to the above hypotheses. Our focus is on isolating micro factors and macro
+factors contributing to changes in firm level volatility.
+
+3 Data and Descriptive Statistics
+3.1 The Data
+To document long-run trends in firm level volatility, we exploit, for the first time, a
+new firm level dataset that links two datasets available at the Deutsche Bundesbank: the
+Corporate Balance Sheets Statistics (Unternehmensbilanzstatistik), which covers the
+period
+
+from
+
+1971
+
+to
+
+1996,
+
+and
+
+the
+
+Financial
+
+Statements
+
+Data
+
+Pool
+
+(Jahresabschlussdatenpool), which starts in 1997. (For methodological changes, see
+Deutsche Bundesbank (2005, 2006).) Earlier research was restricted to either of these
+statistics. For example, the Corporate Balance Sheets Statistics were used to trace the
+dynamics of firms over the cycle (Döpke and Weber 2006). The Financial Statements
+Data Pool was used to exploit the cross-section dimensions to analyze the link between
+growth and volatility at the firm level (Buch and Döpke 2007, 2008).
+The Financial Statements Data Pool replaces the Corporate Balance Sheets Statistics
+of the Deutsche Bundesbank, as the number of corporate annual financial statements
+being submitted to the Bundesbank declined after the launch of the European Monetary
+Union in 1999 and the subsequent discontinuation of the Bundesbank’s rediscount
+business. It has been compiled in a joint project of the Bundesbank and a number of
+commercial banks and other financial institutions. The Financial Statements Data Pool
+is somewhat broader than the Corporate Balance Sheet Statistics. The firms represented
+about three-quarters of the gross value added of the non-financial business sector in
+Germany in 2003 (Deutsche Bundesbank 2005). Both data sets can be used for
+statistical purposes, but under strict confidentiality on the premises of the Bundesbank
+only. The data have been made anonymous, and only Bundesbank staff is allowed to
+work with the Financial Statements Data Pool.
+The total time series dimension of our new, linked data set covers 35 years (19712005). The unit of observation is the individual firm. Generally, our dataset contains
+information on all balance sheet items and financial statements. Since we are interested
+in tracking the evolution of a large number of firms over a long time horizon, we
+
+6
+
+retrieve information on firms’ sales, assets, the legal form, the industry, and some key
+firm level control variables only. We use the following firm level variables:
+o (Real) sales: Like Comin and Phillipon (2005) or Davis et al. (2006), we use real
+sales as a proxy for firm level output. For this variable, we have relatively few
+data losses owing to incomplete and inconsistent reporting. Developments of sales
+and output differ in that the inventory growth and sales growth are imperfectly
+correlated. We use sales in order to avoid a possible bias arising from the fact that
+we have only balance sheet data on inventories. Lacking information on firm level
+prices, we convert nominal variables into real variables by deflating each firm’s
+sales with the industry-level price index obtained from the EU KLEMS database
+(see www.euklems.net) and taking the difference of the logarithm of real sales.
+o Assets: Total assets of firms, deflated with the same price index as firms' sales, are
+used as a proxy for the size of firms. The advantage of this measure over size
+measures such as the stock of fixed assets, equity capital, or external debt, is that
+it is not influenced by differences in the financing structure or the asset structure
+of firms. Also, total assets are a stock measure of firm size, which is likely to
+fluctuate less over time than sales as a flow measure.
+o Inventories: We include the inventory-sales ratio to capture possible effects of
+technological changes on the volatility of firms’ sales. This also takes into account
+that sales are an imperfect proxy of output if inventories change.
+o Leverage: We compute a measure of leverage as a firm’s debt divided by total
+equity. Leverage could be one measure of credit market friction. From a
+theoretical point of view, we expect that more severe financial friction reduce
+growth and increase the volatility of investment (Aghion and Banerjee 2005).
+Accordingly, the expected sign of leverage would be negative. 3
+Our dataset contains information on about 80,000 firms per year for the 1971-2005
+period. The unrestricted dataset has 2.8 million firm-year observations. The average
+duration in the panel is about 13 years per firm. Since our empirical method, which will
+be explained in more detail below, is partly based on time series regressions for each
+3
+
+Note that information on leverage is not available for a number of firms, which reduces the size of our
+sample from about 1,750 to 1,450 firms. However, the qualitative results that are reported in the
+following also hold for the larger panel.
+
+7
+
+individual firm, we retain only those firms which are present in the dataset for the full
+period. This reduces the total number of firms contained in the sample to 1,464 firms or
+51,240 firm-year observations.
+In the appendix, the distribution of the unrestricted sample (i.e. the unbalanced panel)
+by the number of firms and the volume of real sales by industry (Table 1a) and years
+(Table 1b) is given. We also provide comparative evidence of the balanced panel.
+One particularly interesting feature of our dataset is that it contains information on
+manufacturing and services firms. In terms of the volume of sales, services account for
+roughly 19% of sales in the balanced panel. The bulk of these sales (13%) is in the
+wholesale trade sector. In the unbalanced panel, the largest sector is wholesale trade as
+well, accounting for about 24% of total in terms of sales. The share of the wholesale
+trade sector is even higher in terms of the number of firms (21% in the unbalanced
+panel and 29% in the balanced panel). These numbers are out of proportion to the
+importance of this sector for GDP since we refer to sales rather than to value added.
+None of the remaining sectors dominates as clearly. As regards the number of firms, the
+basic metals sector (11.6%) ranks second, and machinery and equipment (10.7%) ranks
+third. In terms of the volume of real sales, the largest sector is petroleum products
+(29.6%), followed by transport equipment (15.7%), and wholesale trade (12.7%).
+A comparison of the structure of the balanced panel and the unbalanced panel shows
+that firms from manufacturing sectors are overrepresented and services firms are
+underrepresented in the balanced panel. This is not surprising since the balanced panel
+favors firms which had taken part in the Bundesbank’s rediscount business. At the same
+time, this makes our findings robust to structural changes (see, e.g., Parker 2007). The
+disadvantage, of course, is that the inflow of younger and presumably riskier firms into
+the sample as well as the exit of high volatility firms is not captured. In Section 5.3
+below, we discuss different sample splits, which take into account that the survivorship
+bias might differ across firms of different sectors, size, or legal status. Table 1b shows
+the allocation of firms over the years. Here, the selection bias due to our restriction on a
+balanced panel is less severe, as we have about 3% of all observations in each year in
+both samples.
+
+8
+
+3.2 Computing Firm Level Volatility
+As a first step towards computing firm level volatility, we compute firms’ growth
+rates as
+
+g it
+
+yit  yit 1
+yit 1
+
+(2)
+
+where g it is firm i’s sales growth rate, and yit are firm i’s real sales in t. Since our
+data contain no information on reasons for large outliers such as mergers and
+acquisitions, we drop observations which fall by more than half or more than double.
+The same restriction is applied to the growth rate of assets. Moreover, observations are
+excluded if leverage is larger than 100. Table 2a in the appendix shows the descriptive
+statistics. The mean firm level growth rate for the full sample is 3.6%, which is slightly
+higher than the growth rate of real GDP (2.2%).
+As regards the measurement of volatility, it has become relatively standard in the
+literature to compute growth volatility as the standard deviation in growth rates over a
+moving 5-year or 10-year window (see, e.g., Comin and Phillipon 2006, Davis et al.
+2006). The volatility of real sales over a 10-year window is thus defined as:
+
+V
+
+10
+it
+
+y
+
+ª1 0
+2º
+«10 ¦ g i ,t W  g it  »
+¬ W 9
+¼
+
+1/ 2
+
+(3).
+
+where g it measures the mean growth rate. Correspondingly, the volatility over a 5year window V it5  y  uses observations ranging from t = -4 to t = 0.
+Graph 1 (see the appendix) plots the mean, unconditional firm level volatility of sales
+growth against the volatility of the growth rate of GDP. The unconditional volatility has
+not been corrected for macroeconomic influences. The median standard deviation of
+firm level growth is about 12%, which is comparable to evidence found in earlier
+studies (Buch et al. 2006, Comin and Phillipon 2005) and 10 times higher than the
+volatility of aggregated GDP. Graph 1 shows that the time trends are quite similar and
+share two main features. First, there has been a trend decline in volatility over time.
+Second, volatility was temporarily higher in the period following German unification in
+
+9
+
+the early 1990s. These general patterns in the data are very similar when using the
+unbalanced panel of firms.
+The information in Graph 1 alone, however, says little about time trends in the
+idiosyncratic volatility of firms’ growth volatility though. We will therefore describe the
+methodology, in the following, how we isolate microeconomic factors from
+macroeconomic factors affecting firm level volatility.
+
+4 Computing Idiosyncratic Firm Level Volatility
+Previous empirical work on the determinants of firm level volatility uses the
+volatility of output as given by equation (3) as the dependent variable. Such regressions
+suffer from three potential problems. First, by construction, the dependent variable is
+serially correlated. Second, the choice of the 5-year or 10-year window for the
+computation of volatility is somewhat arbitrary, although it is often used in the
+empirical literature. Third, using the unconditional firm level volatility does not allow
+distinguishing idiosyncratic, firm level, from macroeconomic factors. The parallel
+evolution of firm level and aggregated volatility documented in Graph 1 could be the
+result of similar developments at different levels of aggregation, but it could also cloud
+diverging patterns at the firm level. Simply including observable macroeconomic
+volatilities as regressors may not fully isolate the idiosyncratic component because only
+observed factors are included. Also, in a pooled regression, the impact of
+macroeconomic factors is assumed to be homogenous across firms.
+Hence, in this section, we describe the multifactor residual model recently proposed
+by Pesaran (2006). This model allows us to filter observed and unobserved
+macroeconomic factors out of the firm level data. It provides us with a measure of the
+conditional, idiosyncratic firm level real sales growth. To see the logic of the
+multifactor residual model, assume that firm level sales growth is given by
+g it
+
+D 'i d t  E 'i xit  H it
+
+(4)
+
+where i 1,2,..., N is the number of firms and t
+
+1,2,..., T the number of years.
+
+D and E are parameters to be estimated. Equation (4) states that firm level growth
+depends on a k u 1 vector of observable macroeconomic factors ( d t ) and a vector of
+
+10
+
+observed firm-specific regressors ( xit ). The errors are assumed to have a multifactor
+structure:
+
+H it
+
+J 'i f t  u it
+
+(5)
+
+where f t is an m u 1 vector of unobserved macroeconomic factors and uit the
+individual-specific (idiosyncratic) errors, which are assumed to be distributed
+independently of d t and xit . In Pesaran (2006), the observed and unobserved factors d t
+and f t are assumed to be covariance stationary. Generally, the unobserved factors can
+be correlated with ( d t , xit ); the individual-specific regressors are modelled according
+to:
+xit
+
+A'i d t  *'i f t  vit
+
+(6)
+
+where Ai and *i are factor loading matrices and vit those components of xit which
+are independent of the macroeconomic factors.
+In most applications, the interest is in the slope coefficients E i in equation (4). The
+factor loadings D i and J i are not the main interest, but they can be estimated
+consistently when both N and T are large. Since our panel has a time series dimension of
+T = 35, we can analyze the firm level responses to the macroeconomic factors.
+However, our main interest is in the variance of the idiosyncratic term uit . With an
+estimate of uit at hand, we can compute the variance of the idiosyncratic component of
+firm level growth for each firm i. This variance can be proxied through the variance of
+the first-stage residuals:
+
+1 T 2
+1 T
+ˆ
+,
+which
+converges
+to
+u
+
+i
+V uit T  j 2 .
+¦
+¦
+it  T  j
+T 1 j 0
+T 1 j 1
+
+(See e.g. Gorbachev (2007) for a similar specification using household consumption
+data.)
+The key challenge is to isolate developments at the firm level from aggregate
+developments while taking into account the fact that some of the macroeconomic
+factors affecting all firms alike are unobserved. Hence, we isolate factors which affect
+all firms ( d t , f t ) from those firm-specific variables, which are independent from the
+
+11
+
+macroeconomic factors, i.e. the residual of equation (6) ( vit ). We perform this
+decomposition in two steps.
+In a first step, we run time-series regressions for sales growth of each firm in the
+sample on observed and unobserved macroeconomic factors. Following Pesaran (2006),
+the unobserved macroeconomic factors can be proxied through the sample means of
+firm-specific variables. We therefore take advantage of the fact that the model described
+by equations (4)-(6) is quite general as it allows the unobserved common factors f t to
+be correlated with the individual-specific regressors xit via a multifactor structure with
+heterogeneous factor loadings over the cross-section units. We run these regressions for
+each of the firms in our balanced panel and for each of the firm level variables
+separately and retain the residuals from these regressions. 4
+In a second step, we use the squared residuals from these time series regressions,
+which are the growth rates of firm level variables cleaned of the observed and
+unobserved factors, in a pooled firm level panel regression:
+
+u it2
+
+D 0  D '1 vit  D ' 2 G i  D '3 G t  D ' 4 G s  D '5 G l  K it
+
+(7)
+
+where uit2 is the squared residual of the first-stage regression of sales growth on
+macroeconomic factors, G i , G t , G s , G l are firm-, time-, sector-, and legal fixed effects,
+and vit is a set of firm-specific regressors, i.e. the first-stage residuals from equation
+(6). We use time fixed effects as a general specification of the time trend as well as a
+linear time trend. Note that the time trend also captures the fact that firm level volatility
+is related to firm age. Typically, older and more established firms are less volatile than
+younger firms. Taken in isolation, this should lead to a negative impact of the time trend
+on volatility but, of course, the trend also captures other factors that vary systematically
+over time.
+To check whether there is a time trend in the variance of the idiosyncratic,
+conditional firm level growth rates, we also use graphical as well as regression-based
+evidence. We employ equation (3) above and compute the rolling standard deviation of
+4
+
+Note that the individual-specific coefficients are consistently estimated. They are also asymptotically
+unbiased for N o f for both T fixed and T o f as long as the rank condition concerning the
+factor loadings is satisfied (Pesaran 2006).
+
+12
+
+the idiosyncratic volatility. In addition, we use fixed effects panel regressions and the
+heteroskedastic regression model suggested by Harvey (1976) to check whether the
+squared residuals as a proxy for the idiosyncratic volatility of firm level sales growth
+follow a systematic process. Note that the first-stage regressions account for the
+observed and unobserved macroeconomic factors in the mean growth of firm level
+sales. This does not preclude finding that macroeconomic factors and time trends to
+have an impact on the idiosyncratic variance of firm level growth.
+
+5 Decomposing and Explaining Firm Level Volatility
+Results for the unconditional volatility of firm level sales growth reported in Graph 1
+provide evidence of a decline in firm level volatility, which largely resembles the drop
+in macroeconomic volatility. To what extent does this decline in firm level volatility
+result from lower volatility at the macro-level and to what extent does it reflect smaller
+idiosyncratic volatility? In this section, we report the results of the first- and secondstage regressions described above.
+5.1 First-Stage Regression: Decomposing Firm Level Volatility
+The goal of the first-stage regressions is to clean the growth of firm level variables of
+observed and unobserved macroeconomic factors. Our set of observed macroeconomic
+factors includes domestic and foreign as well as price and quantity measures. To capture
+the domestic macroeconomic environment, we include the growth rate of domestic
+absorption, short-term interest rates, and domestic inflation. To capture the international
+macroeconomic environment, we include the annual changes in the real exchange rate,
+world demand, and raw material prices. (Details on the data definitions are given in the
+Appendix.)
+Table 2a in the appendix reports the growth rate of other macroeconomic factors, i.e.
+domestic real absorption (mean growth rate of 1.9%), world import volume (4.0%), raw
+material prices (6.7%), and the real effective exchange rate of the German economy
+against its 23 most important trading partners (-0.1%). An increase in this indicator
+implies a real appreciation. The average short-term interest rate and the inflation rate
+over this period were 5.7% and 2.7%, respectively.
+
+13
+
+We use four means of firm-specific variables as proxies for unobserved
+macroeconomic factors. The mean growth rate of firms’ sales captures structural shifts
+in firm level growth. The growth rate of firms’ assets captures changes in the size
+structure of firms. The mean inventory-sales ratio captures changes in the importance of
+inventories due to technological progress, and mean leverage across firms captures
+changing financial frictions. As expected, the inventory-sales ratio shows a downward
+trend over time, reflecting improvements in inventory management. Leverage, in
+contrast, has been increasing up until the early 1990s and falling thereafter, reflecting
+legislative changes affecting the financing of firms in Germany as well as the increase
+in stock market valuation during the 1990s.
+Table 2b in the appendix shows the correlations between the observed macro-factors
+and the unobserved factors. All correlations are below 0.9, and most are below 0.5. We
+find the highest correlations between GDP growth and the growth rate of domestic
+absorption as well as between some firm level variables. Since domestic absorption is
+less correlated with the mean firm level factors than GDP growth, we use domestic
+absorption as our domestic demand component. In addition, the changes in the real
+exchange rate and in world imports as well as the interest rate and inflation show
+relatively high pairwise correlations. The same holds for the mean firm level variables.
+However, we include a full set of observed and unobserved macro-factors as these may
+still pick up some orthogonal component of the macroeconomic environment.
+The advantage of running the first-stage regressions firm-by-firm is that we allow for
+the largest possible heterogeneity across firms. At the same time, results of these
+regressions are difficult to visualize. Therefore, we regress the firm level coefficients
+obtained from the time series regressions on a set of dummy variables. To account for
+the fact that the coefficients are measured with uncertainty, we weight these
+observations with the inverse of their standard deviation.
+The aim of this exercise is to see whether, for instance, large and small firms react
+differently to the macroeconomic environment. Results reported in Table 3 (see the
+appendix) show some differences in the response of firms to macroeconomic factors.
+Generally, larger firms grow faster than smaller firms when domestic and world market
+demand increases and the real exchange rate appreciates. Also, an increase in raw
+
+14
+
+materials prices and in the real interest rate increases the growth of large firms relative
+to that of small firms. This would be consistent with large firms being oriented more
+towards the international market and less affected by financial constraints. Listed firms,
+in contrast, do not differ significantly from the rest of the sample. An increase in the
+real interest rate lowers growth of firms in the sectors manufacturing, services, and
+construction in comparison to growth in the remaining sectors (agriculture, mining,
+energy). Higher world import demand increases growth in the manufacturing and
+construction sector, while higher raw materials prices lower growth in manufacturing
+and services.
+To assess the importance of the macroeconomic factors for firm level sales growth,
+we also compute the partial R²s for these factors. This partial R² indicates how much a
+particular macroeconomic factor contributes to explaining the variance of firm level
+sales growth.
+On average, the macroeconomic factors individually explain about 5-6% of the
+variance in sales growth across firms (Table 2c). However, the explanatory power
+varies widely with the highest partial R²s being in the range of 0.45 for domestic
+absorption and 0.59 for the real exchange rate. Hence, for some of the firms in the
+sample, individual macroeconomic factors explain more than 50% of the variance in
+real sales over time.
+Generally, the exact specification of the first-stage regressions should not be
+overemphasized. Essentially, these regressions serve the purpose of filtering
+macroeconomic information out of the firm level time series and to retain the
+idiosyncratic component of sales growth. In this sense, they are similar to the mean
+equations in an ARCH or GARCH setting, which serve the purpose of providing an
+estimate of the variance of the variable at hand.
+The most interesting outcome of the first-stage regressions are perhaps the plots of
+the residual standard deviations. Graph 2 in the appendix shows the conditional
+volatility of firms’ sales growth. As before, we use a 5-year rolling window. There are
+two striking observations that immediately meet the eye.
+First, the conditional firm level volatility is substantially lower than the
+unconditional volatility. During the turbulent 1970s, in particular, macroeconomic
+
+15
+
+factors accounted for more than 50% of the volatility of firm level sales growth. In
+subsequent periods, the importance of macroeconomic factors has been less
+pronounced, but the gap between the conditional and the unconditional volatility series
+was still substantial. Hence, even though the impact of individual macroeconomic
+factors on firm level sales growth has, on average, been small, the overall impact of the
+macro-economy on firm level developments has been quite substantial.
+Second, the downward trend in firm level volatility reported in Graph 1 is not visible
+once macroeconomic factors are taken into consideration. Instead, the time profile of
+firm level volatility is rather flat and even shows a slight upward trend. In this sense,
+our results confirm the conclusion reached by Davis et al. (2006) that (unconditional)
+firm level and aggregate volatility can be expected to behave similarly. However, our
+findings for the conditional volatility are also consistent with Comin and Phillipon
+(2006) who argue that the time trends of aggregate and firm level volatility differ.
+5.2 Second-Stage Regressions: Explaining the Volatility of Sales Growth
+Which are the firm-specific factors that determine the volatility of growth at the firm
+level? Do size and sector effects matter? Do we find support for different hypothesis as
+to the causes of the Great Moderation at the firm level? These are questions we will
+now turn to.
+In Table 4 (see the appendix), we report results of firm level regressions using the
+squared residuals of the first-stage regressions as a measure of the volatility of the
+conditional firm level growth rates of sales as a dependent variable (cf. equation (7)).
+We use fixed-effects panel regressions with robust standard errors. In contrast to the
+first-stage regressions, we now estimate homogenous coefficients.
+Generally, our model explains less than 5% of the variation in the volatility of sales
+growth across firms. In similar (unreported) regressions using the growth rate of firms’
+sales as a dependent variable, we obtain higher R²s ranging from 0.13 to 0.19. It does
+not come as a surprise to find that the explanatory power of the idiosyncratic, firm level
+volatility is relatively low, since we have stripped the variables off macroeconomic
+developments and since we consider only the idiosyncratic variation in the data.
+Moreover, these results are strongly driven by the very large amount of cross-sectional
+heterogeneity, which is typical for large micro-data sets like the one at hand.
+
+16
+
+(Gorbachev (2007), for instance, analyzes the determinants of household-level
+consumption risk for the US and reports R²s in a similar range.)
+We find a very consistent pattern of sales volatility to be positively related to growth
+of total assets. The estimated coefficient is about 0.03, and it is quite robust across
+different specifications with regard to other control variables and the inclusion of fixed
+effects. Moreover, the impact of asset growth on firm level volatility builds up gradually
+over time. We include up to three lags of asset growth, and the first lag is significant
+throughout. In terms of economic significance, asset growth is the most important
+variable, with a beta coefficient of 8%. Hence, variation in sales growth across firms
+accounts for about 8% in the variation of volatility across firms.
+The finding that faster-growing firms also have more volatile sales growth is
+consistent with earlier findings at the firm level or industry level concerning the growthvolatility nexus. It is at odds with some findings for a negative relationship between
+growth and volatility using aggregated data. However, it would not come as a surprise
+to find that the growth rates of firms are imperfectly correlated. Imbs (2007), for
+example, shows that the correlation between growth and volatility depends on the level
+of aggregation of the data. He finds a positive correlation between growth and volatility
+at the industry level. One explanation is that growth rates are imperfectly correlated
+across sectors. Our firm level data suggest a similar positive relationship.
+Firms with a high inventory-sales ratio have a low volatility of real sales. The beta
+coefficient is –1.3%. Leverage as a measure of the financial constraints that firms are
+facing is insignificant, in contrast. At first sight, the negative coefficient on inventories
+seems at odds with the hypothesis that improved inventory management helps firms to
+reduce the volatility of sales. According to this explanation, technological innovations
+help firms to reduce the desired inventory-sales ratio. A lower inventory-sales ratio, in
+turn, would weaken the destabilizing, pro-cyclical impact that inventories have for final
+sales via a positive covariance between inventories and sales (Ramey and Vine 2004).
+Our results would be consistent though with inventories serving as a buffer against
+productivity shocks. According to this interpretation, higher inventory-sales ratios
+would smoothen the impact of volatile production on sales.
+
+17
+
+Generally, however, standard models of inventory management often fail to find
+support in the macro-data. Prominent theories such as the production smoothing model
+(Holt et al. 1960) predict a negative correlation between inventory investment and
+overall production, which was not found in the data. (See Blinder (1986) and the
+literature cited therein.) Rather, most macro studies find a positive correlation between
+inventory investment and GDP. Possible explanations of these findings point, inter alia,
+to the fact that inventories are still treated at a too aggregated level. In particular, a
+distinction between inventories of inputs and the inventories of finished goods is
+warranted. However, we lack such information in our dataset.
+To test whether there are time trends in firm level volatility, we include a time trend
+and a unification dummy. The unification dummy and the time trend are insignificant if
+lagged dynamics are accounted for. This shows that our macroeconomic factors have
+filtered out impacts of the unification process on firm level volatility. The time trend is
+significant but relatively small, thus indicating only a relatively slow increase in
+volatility. Moreover, the beta coefficient is only 0.26%. In contrast to unconditional
+firm level volatility and aggregated volatility, the idiosyncratic volatility of firms has
+thus been on a slow trend rise.
+In unreported regressions, we include a full set of time-fixed effects as a more
+flexible way to capture time trends in the data. Results for the remaining control
+variables are unchanged. We also interact the time trend with a dummy variable for
+listed firms to test the hypothesis put forward by Davis et al. (2006) that firm level
+volatility has increased because of an upward trend in the volatility of large, publicly
+listed firms. However, this interaction term is insignificant.
+5.3 Robustness and Selection Issues
+To check the robustness of our results, we split the sample along different
+dimensions, we use a heteroskedastic regression model to simultaneously model the
+mean and the variance of idiosyncratic sales growth, and we correct for the bias arising
+from the fact that we estimate our model on a reduced sample of firms.
+Sample splits: The descriptive statistics reported in Tables 1a and 1b show
+differences between the full and the reduced sample. Hence, sample selection may
+affect our results since only firms which have data for the full sample are included. This
+
+18
+
+sample selection could affect our results if the residuals from the regression of the
+determinants of firm level output volatility were correlated with residuals from a latent
+regression determining the survival of firms. These survival probabilities, in turn, may
+be related to firm size, the sector in which firms are active, or access to the capital
+market. To account for such differences, we split the sample into manufacturing and
+services, listed and unlisted, and small and large firms (Table 4a). The cut-off for small
+and large firms is the median level of real sales. To test whether time trends in firm
+level volatility have changed over time, we break down the sample further into the
+1970s, the 1980s, the 1990s, and the current decade (Table 4b). We also split the sample
+in 1985, the year which is often taken as the start of the Great Moderation period.
+Perhaps the most interesting finding is that the qualitative results for the control
+variables are generally not affected by the different sample compositions. There are a
+few exceptions though. In the 1970s, none of our control variables is significant.
+Instead, there has been a positive and significant upward time trend in firm level
+volatility. Moreover, the inventory-sales ratio is insignificant for the sub-samples of
+listed firms (although the negative sign is retained). Inventories have a negative and
+significant effect for services firms, which would seem surprising for services which are
+non-storable. However, since the sector “services” also includes retail and wholesale
+trade firms and since these firms carry inventories, this effect seems quite plausible.
+Selection bias: In unreported regressions, we have also estimated the volatility
+regression applying the correction for sample selection proposed by Heckman (1976).
+The selection equation shows that large firms, firms with lower sales growth, and firms
+with lower leverage are more likely to be in the balanced panel. The Mills ratio is
+significant, indicating that sample selection is indeed an issue. Results for the equation
+explaining the volatility of firm level output show very similar results with regard to the
+coefficient estimates and significance as regressions not accounting for the selection
+bias. More specifically, firms that grow faster, that have a higher inventory sales ratio,
+and that have lower leverage have a lower volatility. The linear time trend is again
+positive and significant.
+Heteroskedastic regression model: To check the robustness of our results for the
+variance equation, we alternatively use a regression model with multiplicative
+
+19
+
+heteroskedasticity as proposed by Harvey (1976). The advantage of this model is that
+we can simultaneously specify a “mean” equation – explaining the growth of sales – as
+well as a “variance” equation – explaining the residual variance.
+The heteroskedastic regression model has, to the best of our knowledge, not been
+applied to an analysis of firm level volatility so far. Earlier applications use it to model
+heteroskedasticity in the residuals, yet most papers do not focus on estimates of the
+variance equation. There are two exceptions. A recent paper by Cerqueiro et al. (2007)
+studies banks’ loan pricing decisions. Ang and Peterson (1985) estimate a capital asset
+pricing model and study the determinants of rates of returns as well as the variance of
+returns.
+The mean equation of the heteroskedastic regression model gives the level of sales
+growth as a function of a set of explanatory variables X: g~it ~
+x 'it E  H it where H it is
+the residual with E >H it | ~
+xit @ 0 and VAR>H it | ~
+xit @ V it2
+equation is given by V it2
+
+exp^Z 'ij I ` . The variance
+
+Z 'it I . The coefficients E and I can be obtained by
+
+maximizing the log-likelihood function. One advantage of this methodology is that the
+parameters of the mean and of the variance equation are uncorrelated. We essentially
+estimate the same model as before but we now include dummies for the different types
+of firms (large versus small, listed versus unlisted) in lieu of a full set of firm fixed
+effects.
+Results are reported in Table 5 (see the appendix). Turning to the results of the mean
+equation first, we find that asset growth is positively correlated with the growth rate of
+firm level sales. There is evidence that larger firms grow faster than average. Large
+inventory-sales ratios are associated with lower sales growth, indicating that inventories
+contain mainly finished products. Since the specification of the mean equation is
+certainly a bit ad hoc, we also use a specification using a linear time trend and the
+unification dummy only.
+The results for the variance equation by and large confirm the findings reported
+above considering the positive impact of higher asset growth and the positive impact of
+the time trend. The firm size dummy is negative and significant. The negative impact of
+
+20
+
+the inventory-sales ratio is significant only in the specification using a very lean
+specification of the mean equation (Column 2 of Table 5).
+
+6 Summary and Conclusions
+This paper has tested whether evidence of a “Great Moderation” can be found in firm
+level data of German firms. To answer this question, we have used a unique firm level
+dataset which allows a large sample of German firms to be tracked across 35 years. Our
+paper has three main findings.
+First, the unconditional firm level volatility and aggregate volatility have developed
+quite similarly. This confirms Davis et al. (2006) who use US data and differs from the
+findings of Comin and Phillipon (2005) who find diverging trends of firm level and
+aggregated volatility.
+Second, we show that inference about the evolution of firm level volatility requires
+us to take account of macroeconomic factors. Using the multifactor panel model
+proposed by Pesaran (2006), we have decomposed firm level sales growth and volatility
+into the idiosyncratic component and the component driven by observed and
+unobserved macroeconomic developments. Results from this disaggregation show that
+the overall time trends in unconditional firm level volatility are driven by
+macroeconomic factors. Once we take this into account and extract the idiosyncratic
+component of firm level volatility, we not only find volatility to be lower but also to
+exhibit a flat and, if anything, slightly increasing pattern.
+Third, we use different panel models to analyze the determinants of the idiosyncratic
+component of firm level volatility. Faster-growing firms also exhibit a higher volatility
+of real sales growth. In this sense, higher idiosyncratic volatility could have a positive
+impact on overall growth and thus economic welfare. If anything, the time trend in firm
+level volatility has been positive. However, the time trend explains only a very small
+share of the variation in idiosyncratic volatility across firms and time.
+Our results show the importance of a stable macroeconomic environment for firm
+level stability. High macroeconomic volatility such as was observed during the 1970s
+has roughly doubled firm level volatility. In later periods, the decline in firm level
+volatility was driven largely by the decline in macroeconomic volatility. To the extent
+
+21
+
+that “Good Policy” is behind the decline in aggregate volatility, this has also contributed
+to lower volatility at the firm level. Idiosyncratic, firm level volatility exhibits no
+particular time trend. Studying whether similar patterns can be found in other indicators
+such as the volatility of employment, income, and consumption, remains an important
+topic for future research.
+Finally, our paper has implications for the potential to diversify risks across German
+firms. Whereas a substantial part of volatility at the firm level is driven by common
+macroeconomic factors, which limits the diversification potential across domestic firms,
+the relative importance of idiosyncratic risks has increased over time. These risks,
+however, can be diversified in developed financial markets.
+
+7 References
+Aghion, P., and A. Banerjee (2005). Volatility and Growth. Oxford University Press.
+Oxford.
+Ang, J.S., and D.R. Peterson (1985). Return, Risk, and Yield: Evidence from Ex Ante
+Data. Journal of Finance 40(2): 537-548.
+Aßmann, C., J. Hogrefe, and R. Liesenfeld (2006). The Decline in German Output
+Volatility: A Baysian Analysis. Christian-Albrechts-Universität Kiel. Working
+Paper 2006-02. Kiel.
+Benati, L. (2007). The “Great Moderation” in the United Kingdom. European Central
+Bank. Working Paper 769. Frankfurt a.M.
+Benati, L., and P. Surico (2006). VAR Analysis and the Great Moderation: A Reply to
+Fabio Canova. Bank of England. Mimeo.
+Blanchard, O.J. and Simon, J.A. (2001). The Long and Large Decline in U.S. Output
+Volatility. Brookings Papers on Economic Activity: 165-173.
+Blinder, A. S. (1986). Can the Production Smoothing Model of Inventory Behaviour be
+Saved? Quarterly Journal of Economics: 431-453.
+Buch, C.M., and J. Döpke (2007). Growth and Volatility: Firm level Evidence and the
+Impact of Openness. In: W. Franz, H. J. Ramser, and M. Stadler: Arbeitsverträge
+Buch, C.M., and J. Döpke (2008). Growth, Volatility, and Credit Market Imperfections:
+Evidence from German Firms. Journal of Economic Studies (forthcoming)
+
+22
+
+Buch, C.M., J. Döpke, and C. Pierdzioch (2004). Business Cycle Volatility in Germany.
+German Economic Review 5(4): 451-479.
+Buch, C.M., J. Döpke, and H. Strotmann (2006). Does Export Openness Increase Firm
+level Volatility? Deutsche Bundesbank. Discussion Paper 40/2006. Frankfurt a.M.
+Canova, F. (2006). You can use VAR for structural analyses. A comment to VARs and
+the Great Moderation. ICREA, Universitat Pompeu Fabra, CREI and CEPR.
+Mimeo.
+Cerqueiro, G., H. Degryse, and S. Ongena (2007). Rules versus Discretion in Loan Rate
+Setting. CentER Tilburg University. Mimeo.
+Comin, D., and S. Mulani (2006). Diverging Trends in Aggregate and Firm Volatility.
+Review of Economics and Statistics 88(2): 374-383.
+Comin, D., and T. Philippon (2005). The rise in firm level volatility: causes and
+consequences. National Bureau of Economic Research. NBER Working Paper
+11388. Cambridge MA.
+Comin, D., E.L. Groshen, and B. Rabin (2006). Turbulent Firms, Turbulent Wages?
+National Bureau of Economic Research (NBER). Working Paper 12032.
+Cambridge, MA.
+Davis, S.J., J. Haltiwanger, R. Jarmin, and J. Miranda (2006). Volatility and Dispersion
+in Business Growth Rates: Public Traded versus Privately Held Firms. National
+Bureau of Economic Research. NBER Working Paper 12354. Cambridge MA.
+Davis, S.J., and J.A. Kahn (2007). Changes in the Volatility of Economic Activity at the
+Macro and Micro Levels. University of Chicago, Stern School, and NBER.
+Mimeo.
+Deutsche Bundesbank (2005). German enterprises” profitability and financing – an
+analysis based on a new dataset. Deutsche Bundesbank Monthly Report. Frankfurt
+a.M.. October 2005: 31-67.
+Deutsche Bundesbank (2006). Extrapolated results from financial statements of German
+enterprises 1994 to 2003. Deutsche Bundesbank Special Statistical Publication 5.
+Frankfut a. M. March 2006: 5-19.
+Döpke, J. and S. Weber (2006), The within-distribution business cycle dynamics of
+German firms. Deutsche Bundesbank. Discussion Paper 29/2006. Frankurt a.M.
+Eichengreen, B. (2007). The European Economy since 1945: Coordinated Capitalism
+and Beyond. Princeton University Press.
+
+23
+
+Giannone, D., M. Lenza, and L. Reichlin (2007). Explaining The Great Moderation: It
+Is Not The Shocks. CEPR Discussion Paper 6600. London.
+Gorbachev, O. (2007). Did Household Consumption Become More Volatile?
+Department of Economics, Columbia University. Mimeo.
+Harvey, A. (1976). Estimating Regression
+Heteroskedasticity. Econometrica 44: 461-465.
+
+Models
+
+with
+
+Multiplicative
+
+Heckman, J. (1976). The common structure of statistical models of truncation, sample
+selection, and limited dependent variables and a simple estimator for such models.
+Annals of Economic and Social Measurement 5: 475-492.
+Holt, C. et al. (1960). Planning production, inventories, and workforce. Engelwood
+Cliffs.
+Hornstein, A. (1998). Inventory Investment and the Business Cycle. Federal Reserve
+Bank of Richmond. Economic Quarterly 84/2: 49-71.
+Imbs, J. (2007). Growth and Volatility. Journal of Monetary Economics 54 (2007)
+1848-1862.
+Parker, M. (2007). Diverging Trends in Aggregate and Firm–Level Volatility in the UK.
+Bank of England. External MPC Unit. Discussion Paper 16. London.
+Pesaran, M.H. (2006). Estimation and Inference in Large Heterogeneous Panels with
+Multifactor Error Structure. Econometrica 74(4): 967-1012.
+Rodrik, D. (1997). Has Globalization Gone Too Far? Institute for International
+Economics, Washington D.C. 51.
+Stock, J.H., and M.W. Watson (2003). Has the Business Cycle Changed? Evidence and
+Explanations. Harvard University, Princeton University, and NBER. Mimeo
+Thesmar, D., and M. Thoenig (2004). Financial Market Development and the Rise in
+Firm Level Uncertainty. ENSAE-CREST, CERAS-CNRS, and CEPR. Mimeo.
+
+24
+
+8 Data Appendix
+Firm Level Data
+All firm level data are taken from the Corporate Balance Sheet Statistics and the
+Financial Statements Data Pool provided by the Deutsche Bundesbank (Deutsche
+Bundesbank 2005). The data are confidential firm level data, and the Financial
+Statements Data Pool can be used by the staff of the Deutsche Bundesbank only.
+Sales growth: Annual growth rate of a firm’s real sales.
+Asset growth: Annual growth rate of a firm’s total real assets.
+Inventory-sales-ratio: Ratio of a firm’s inventory over total sales.
+Large/small firms: Firms with real sales above (below) the sample median.
+Leverage: Ratio of a firm’s total debt to total equity.
+Listed/unlisted firms: Incorporated (not incorporated) companies (Aktiengesellschaften).
+Manufacturing firms: Chemicals, Basic metals, Machinery, Transport equipment,
+Electrical equipment, Wood, Pulp and paper, Textiles, Food, Computers, Non-metallic
+mineral products, Plastic products, Petroleum products, Furniture.
+Services firms: Wholesale trade, Hotels, Transport & communication, Financial
+intermediation, Real estate, Public services, Retail trade, Firm-related services.
+
+Macroeconomic Data and Sources
+GDP growth: Annual growth rate of German real GDP (German Federal Statistical
+Office).
+Growth rate of domestic absorption: Annual growth rate of German real absorption
+(German Federal Statistical Office).
+Growth rate of world imports: Annual growth rate of world import volumes
+(International Monetary Fund).
+Change in real exchange rate: Annual rate of change in Germany’s real effective
+exchange rate against 23 countries in quantity notation. An increase indicates a real
+appreciation (European Central Bank).
+Change in raw material prices: Annual rate of change in the HWWA index of raw
+material prices (overall index).
+Short-term interest rate: Average short-term interest rate (3 months, Frankfurt money
+market rate; Deutsche Bundesbank).
+
+25
+
+Table 1: Distribution of Firms by Sector and Year
+This table gives the distribution of firms in the sample by sector (Table 1a) and year (Table 1b). We
+report the distribution of the number of firms and of the volume of real sales (in million euro). The
+balanced panel includes all firms; the unbalanced panel includes only firms which are in the sample for
+the full period.
+
+(a) Distribution of Firms by Sector
+
+Agriculture
+Basic Metals
+Chemicals
+Computers
+Construction
+Electrical equipment
+Energy
+Financial intermediation
+Firm related services
+Food
+Furniture
+Hotels
+Machinery
+Mining
+Non-metallic
+mineral products
+Petroleum products
+Plastic products
+Public services
+Pulp and paper
+Real estate
+Retail trade
+Textiles
+Transport
+& communication
+Transport equipment
+Wholesale trade
+Wood
+Unallocated
+Total
+
+Number of firms
+Unbalanced
+Balanced
+Number Percent Number Percent
+75,905
+2.66
+70
+0.14
+162,012
+5.67
+5,922
+11.56
+32,498
+1.14
+2,119
+4.14
+4,315
+0.15
+24
+0.05
+256,831
+8.99
+1,710
+3.34
+84,587
+2.96
+1,995
+3.89
+17,316
+0.61
+997
+1.95
+2,037
+0.07
+n.a.
+n.a.
+141,704
+4.96
+126
+0.25
+90,483
+3.17
+2,993
+5.84
+28,801
+1.01
+633
+1.24
+n.a.
+n.a.
+19,952
+0.7
+152,390
+5.34
+5,498
+10.73
+23,341
+0.82
+443
+0.86
+
+Real sales
+Unbalanced
+Balanced
+Mil. euro Percent Mil. euro Percent
+136.96
+0.2
+5.21
+0.04
+3715.76
+5.5
+554.64
+4.72
+3007.83
+4.45
+709.93
+6.04
+467.71
+0.69
+7.72
+0.07
+2257.61
+3.34
+176.54
+1.5
+3339.02
+4.94
+530.11
+4.51
+2805.73
+4.15
+389.37
+3.31
+79.72
+0.12
+n.a.
+n.a.
+1171.98
+1.73
+2.71
+0.02
+3416.93
+5.06
+307.85
+2.62
+306.31
+0.45
+20.42
+0.17
+84.67
+0.13
+n.a
+n.a.
+3846.20
+5.69
+473.37
+4.03
+826.85
+1.22
+267.23
+2.27
+
+48,739
+1,728
+56,767
+64,973
+72,340
+184,257
+432,062
+92,461
+
+1.71
+0.06
+1.99
+2.27
+2.53
+6.45
+15.13
+3.24
+
+1,712
+209
+1,312
+62
+1,844
+137
+2,872
+3,238
+
+3.34
+0.41
+2.56
+0.12
+3.6
+0.27
+5.6
+6.32
+
+783.03
+6217.74
+1080.94
+837.19
+1406.65
+1187.24
+5688.73
+1174.39
+
+1.16
+9.2
+1.6
+1.24
+2.08
+1.76
+8.42
+1.74
+
+147.25
+3479.59
+186.90
+15.74
+154.83
+4.69
+571.69
+133.50
+
+1.25
+29.6
+1.59
+0.13
+1.32
+0.04
+4.86
+1.14
+
+107,160
+22,795
+590,360
+78,183
+12,009
+2,856,006
+
+3.75
+0.8
+20.67
+2.74
+0.42
+100
+
+458
+862
+14,965
+1,019
+20
+51,240
+
+0.89
+1.68
+29.21
+1.99
+0.04
+100
+
+2302.19
+4733.33
+16031.16
+656.98
+
+3.41
+7.01
+23.73
+0.97
+
+239.76
+1848.69
+1498.17
+30.29
+
+2.04
+15.73
+12.74
+0.26
+
+67562.86
+
+100
+
+11756.18
+
+100
+
+26
+
+(b) Distribution of Firms by Year
+
+Year
+1971
+1972
+1973
+1974
+1975
+1976
+1977
+1978
+1979
+1980
+1981
+1982
+1983
+1984
+1985
+1986
+1987
+1988
+1989
+1990
+1991
+1992
+1993
+1994
+1995
+1996
+1997
+1998
+1999
+2000
+2001
+2002
+2003
+2004
+2005
+Total
+
+Number of firms
+Unbalanced
+Balanced
+Number Percent Number Percent
+47,081
+1.65
+1,464
+2.86
+47,649
+1.67
+1,464
+2.86
+47,983
+1.68
+1,464
+2.86
+50,057
+1.75
+1,464
+2.86
+61,034
+2.14
+1,464
+2.86
+70,758
+2.48
+1,464
+2.86
+78,006
+2.73
+1,464
+2.86
+84,658
+2.96
+1,464
+2.86
+87,734
+3.07
+1,464
+2.86
+83,461
+2.92
+1,464
+2.86
+77,945
+2.73
+1,464
+2.86
+78,270
+2.74
+1,464
+2.86
+79,905
+2.8
+1,464
+2.86
+80,632
+2.82
+1,464
+2.86
+79,846
+2.8
+1,464
+2.86
+79,273
+2.78
+1,464
+2.86
+78,328
+2.74
+1,464
+2.86
+76,000
+2.66
+1,464
+2.86
+73,296
+2.57
+1,464
+2.86
+71,734
+2.51
+1,464
+2.86
+72,123
+2.53
+1,464
+2.86
+71,819
+2.51
+1,464
+2.86
+71,246
+2.49
+1,464
+2.86
+71,651
+2.51
+1,464
+2.86
+68,442
+2.4
+1,464
+2.86
+66,430
+2.33
+1,464
+2.86
+104,157
+3.65
+1,464
+2.86
+97,194
+3.4
+1,464
+2.86
+98,674
+3.45
+1,464
+2.86
+100,916
+3.53
+1,464
+2.86
+106,080
+3.71
+1,464
+2.86
+111,348
+3.9
+1,464
+2.86
+123,129
+4.31
+1,464
+2.86
+134,397
+4.71
+1,464
+2.86
+124,750
+4.37
+1,464
+2.86
+2,856,007
+100
+51,240
+100
+
+27
+
+Real sales
+Unbalanced
+Mil. euro
+Percent
+1126.02
+1.67
+1211.66
+1.79
+1235.05
+1.83
+1338.98
+1.98
+1389.46
+2.06
+1547.38
+2.29
+1643.88
+2.43
+1588.63
+2.35
+1694.85
+2.51
+1714.93
+2.54
+1809.99
+2.68
+1783.21
+2.64
+1775.05
+2.63
+1859.23
+2.75
+1866.91
+2.76
+1707.83
+2.53
+1819.53
+2.69
+1861.77
+2.76
+1947.44
+2.88
+2032.62
+3.01
+2112.71
+3.13
+1862.75
+2.76
+1715.33
+2.54
+1839.71
+2.72
+1887.40
+2.79
+1789.63
+2.65
+2329.22
+3.45
+2154.85
+3.19
+2297.06
+3.4
+2605.32
+3.86
+2761.53
+4.09
+2699.09
+3.99
+2735.96
+4.05
+2850.51
+4.22
+2967.38
+4.39
+67562.86
+100
+
+Balanced
+Mil. euro
+Percent
+237.63
+2.02
+274.21
+2.33
+236.49
+2.01
+251.58
+2.14
+275.13
+2.34
+297.35
+2.53
+345.54
+2.94
+302.41
+2.57
+313.94
+2.67
+313.84
+2.67
+347.65
+2.96
+357.54
+3.04
+350.66
+2.98
+379.22
+3.23
+378.69
+3.22
+328.64
+2.8
+423.13
+3.6
+408.70
+3.48
+467.55
+3.98
+480.62
+4.09
+461.08
+3.92
+324.80
+2.76
+283.22
+2.41
+283.91
+2.41
+278.82
+2.37
+229.48
+1.95
+333.35
+2.84
+288.02
+2.45
+301.90
+2.57
+333.83
+2.84
+345.94
+2.94
+338.89
+2.88
+351.22
+2.99
+406.53
+3.46
+424.69
+3.61
+11756.18
+100
+
+Table 2: Descriptive Statistics and Correlation Matrix
+This table reports descriptive statistics for the data used in the regressions. Panel (c) provides the
+descriptive statistics for the partial R²s.
+
+(a) Descriptive Statistics
+Variable
+GDP growth
+Growth rate of domestic absorption
+Growth rate of world imports
+Change in real exchange rate
+Change in raw material prices
+Short-term interest rate
+Inflation
+Mean firm level growth real sales
+Mean firm level growth of assets
+Mean inventory-sales ratio
+Mean leverage
+Growth rate of firm level real sales
+Growth rate of firm level assets
+Inventory-sales ratio
+Leverage
+Residual growth firm level real sales
+Residual growth firm level assets
+Residual inventory-sales ratio
+Residual leverage
+
+Obs
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+49,183
+
+Mean
+0.022
+0.019
+0.040
+-0.001
+0.067
+0.057
+0.028
+0.036
+0.037
+0.162
+6.835
+0.036
+0.037
+0.162
+6.836
+0.000
+0.000
+0.000
+0.000
+
+28
+
+Std. dev.
+0.017
+0.021
+0.113
+0.048
+0.239
+0.027
+0.019
+0.043
+0.037
+0.007
+0.866
+0.162
+0.172
+0.147
+9.663
+0.121
+0.134
+0.053
+4.074
+
+Min
+-0.009
+-0.022
+-0.211
+-0.099
+-0.474
+0.021
+-0.007
+-0.067
+-0.045
+0.147
+5.365
+-0.498
+-0.499
+0.000
+-0.052
+-0.763
+-0.836
+-1.327
+-44.065
+
+Max
+0.052
+0.052
+0.305
+0.113
+0.943
+0.121
+0.073
+0.157
+0.107
+0.173
+8.428
+1.950
+1.892
+7.970
+99.931
+1.566
+1.612
+3.109
+66.140
+
+29
+
+Change in raw
+material prices
+Short-term
+interest rate
+Inflation
+Mean firm level
+growth in real
+sales
+Mean firm level
+growth in assets
+Mean inventorysales ratio
+Mean leverage
+
+Growth rate of
+world imports
+Change in real
+exchange rate
+
+GDP growth
+Growth rate of
+domestic
+absorption
+
+1.00
+
+-0.1934
+
+-0.0319
+0.0467
+
+0.5927
+0.6261
+0.0448
+0.0179
+
+0.185
+0.0692
+
+0.7958
+
+0.7329
+
+0.1043
+-0.0629
+
+0.241
+
+0.1004
+
+0.0604
+
+-0.2373
+
+1.00
+
+Growth rate
+of domestic
+absorption
+
+0.0218
+
+0.8431
+
+GDP
+growth
+
+(b) Correlation Matrix
+
+0.0551
+0.2551
+
+0.3318
+
+0.2383
+
+0.013
+
+0.3447
+
+-0.7115
+
+1.00
+
+Growth rate
+of world
+imports
+
+-0.2241
+-0.0115
+
+-0.2735
+
+-0.1727
+
+0.0469
+0.2075
+
+-0.3028
+
+1.00
+
+Change in
+real
+exchange
+rate
+
+0.0427
+-0.189
+
+0.2887
+
+0.415
+
+0.2413
+0.2064
+
+1.00
+
+Change in
+raw
+material
+prices
+
+0.6296
+-0.101
+
+-0.1098
+
+0.0562
+
+1.00
+0.7664
+
+Short-term
+interest rate
+
+0.511
+-0.4194
+
+-0.1615
+
+0.0353
+
+1.00
+
+Inflation
+
+0.0767
+-0.2212
+
+0.8729
+
+1.00
+
+Mean firm
+level
+growth in
+real sales
+
+-0.0178
+-0.0147
+
+1.00
+
+Mean firm
+level
+growth in
+assets
+
+1.00
+-0.1517
+
+Mean
+inventorysales ratio
+
+(c) Descriptive Statistics: Partial R²
+Observations
+
+Mean
+
+Standard
+deviation
+
+Minimum
+
+Maximum
+
+Domestic
+absorption
+
+56,179
+
+0.054
+
+0.069
+
+0.00
+
+0.453
+
+World imports
+
+56,179
+
+0.057
+
+0.074
+
+0.00
+
+0.519
+
+Real exchange
+rate
+
+56,179
+
+0.076
+
+0.094
+
+0.00
+
+0.595
+
+Raw material
+prices
+
+56,179
+
+0.053
+
+0.073
+
+0.00
+
+0.579
+
+Short-term
+interest rate
+
+56,179
+
+0.048
+
+0.066
+
+0.00
+
+0.549
+
+Inflation
+
+56,179
+
+0.061
+
+0.079
+
+0.00
+
+0.507
+
+30
+
+Table 3: Firm Level Response to Macroeconomic Factors
+The panel reports results of cross-section regressions using the first-stage coefficient estimates as the
+dependent variable. Observations are weighted by the inverse of the first-stage regression standard errors.
+The sectors not captured by the sector dummies are agriculture, energy, and mining. All regressions
+include a full set of legal fixed effects (unreported). The explanatory variables are 0-1-dummy variables.
+Residuals are adjusted for heteroskedasticity. ***, **, * = significant at the 1%, 5%, 10%-level.
+Domestic
+absorption
+Large (0/1)
+Listed (0/1)
+Manufacturing (0/1)
+Services (0/1)
+Construction (0/1)
+Constant
+Observations
+R-squared
+
+0.233*
+(1.67)
+0.421
+(0.84)
+-0.277
+(0.77)
+-0.569
+(1.50)
+1.048
+(1.41)
+-0.075
+(0.13)
+1,446
+0.02
+
+World
+import
+demand
+
+Real
+exchange
+rate
+
+0.055**
+(2.45)
+-0.004
+(0.04)
+0.105**
+(2.55)
+0.029
+(0.64)
+0.195*
+(1.84)
+-0.095
+(0.86)
+1,446
+0.02
+
+0.105**
+(2.06)
+-0.111
+(0.51)
+-0.005
+(0.04)
+0.029
+(0.21)
+0.029
+(0.12)
+-0.045
+(0.19)
+1,446
+0.01
+
+31
+
+Raw
+material
+prices
+0.018**
+(2.26)
+0.012
+(0.30)
+-0.037*
+(1.88)
+-0.071***
+(3.39)
+-0.034
+(0.79)
+0.023
+(0.52)
+1,446
+0.03
+
+Short-term
+interest rate
+0.220**
+(2.23)
+0.629*
+(1.73)
+-0.639***
+(2.91)
+-0.520**
+(2.24)
+-1.303***
+(2.88)
+0.071
+(0.18)
+1,446
+0.02
+
+Inflation
+-0.302*
+(1.89)
+-0.828
+(1.23)
+1.235***
+(4.62)
+0.856***
+(2.92)
+3.016***
+(4.15)
+-0.212
+(0.31)
+1,446
+0.03
+
+Table 4: Determinants of Firm Level Volatility of Real Sales
+This table reports results of panel fixed effects regressions. The dependent variable is the squared residual
+of a regression of firm level real sales growth on macroeconomic factors. Asset growth, the inventorysales ratio, and leverage are residuals of first-stage regressions as well. “Year” is a linear time trend,
+“Unification” dummy is a dummy variable which is set to “One” for the years 1991-1995 and “Zero”
+otherwise. ***, **, * = significant at the 1%, 5%, 10%-level.
+
+(a) Baseline Regressions and Sample Splits by Type of Firm
+Full
+sample
+Asset growth
+0.036***
+(6.01)
+Asset growth (t-1)
+0.016***
+(4.82)
+Asset growth (t-2)
+0.002
+(0.62)
+Asset growth (t-3)
+-0.002
+(0.99)
+Inventory-sales ratio
+-0.073***
+(3.76)
+0.00
+Leverage
+(0.74)
+0.00
+Unification
+(0.31)
+Year
+0.000**
+(2.05)
+Constant
+-0.142**
+(2.13)
+Sector dummies
+yes
+Legal dummies
+yes
+Year dummies
+no
+Observations
+43,799
+Number of cross-sections
+1,464
+R-squared
+0.02
+
+Manufacturing Services
+Listed
+Unlisted
+Small
+Large
+0.028*** 0.045*** 0.110*** 0.028*** 0.027*** 0.048***
+(3.32)
+(5.16)
+(2.66)
+(5.70)
+(4.28)
+(4.34)
+0.014*** 0.011*** 0.040*** 0.013*** 0.012*** 0.021***
+(3.03)
+(2.78)
+(2.70)
+(4.08)
+(3.45)
+(3.47)
+0.002
+0.003
+0.024
+0.00
+0.002
+0.001
+(0.36)
+(1.02)
+(1.37)
+(0.16)
+(0.86)
+(0.22)
+-0.004
+0.004
+0.00
+-0.002
+-0.003
+-0.002
+(1.17)
+(1.45)
+(0.03)
+(1.25)
+(0.94)
+(0.56)
+-0.061** -0.072***
+-0.062 -0.075*** -0.071*** -0.076**
+(1.98)
+(3.34)
+(1.30)
+(3.54)
+(3.90)
+(2.42)
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+(0.54)
+(0.34)
+(0.41)
+(0.48)
+(0.78)
+(0.17)
+0.00
+0.00 -0.003*
+0.001
+0.00
+0.00
+(0.11)
+(0.08)
+(1.79)
+(0.78)
+(0.10)
+(0.29)
+0.00
+0.00 0.000**
+0.00
+0.00 0.000**
+(1.12)
+(1.15)
+(2.46)
+(1.20)
+(0.55)
+(1.96)
+-0.032
+-0.109 -0.673**
+-0.067
+0.015
+-0.145
+(0.43)
+(1.11)
+(2.59)
+(1.06)
+(0.20)
+(1.34)
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+yes
+no
+no
+no
+no
+no
+no
+25,291
+15,550
+4,857
+38,942
+21,930
+21,869
+884
+579
+212
+1337
+731
+733
+0.01
+0.03
+0.06
+0.02
+0.02
+0.02
+
+32
+
+(b) Sample Splits by Time
+
+Asset growth
+Asset growth (t-1)
+Asset growth (t-2)
+Asset growth (t-3)
+Inventory-sales ratio
+Leverage
+
+1970s
+0.001
+(0.08)
+0.012
+(1.39)
+0.002
+(0.25)
+-0.002
+(0.46)
+-0.002
+(0.09)
+0.00
+(0.30)
+
+1980s
+0.033***
+(2.77)
+0.027***
+(3.76)
+0.003
+(0.43)
+-0.002
+(0.31)
+-0.085**
+(2.21)
+0.00
+(0.51)
+
+0.001***
+(3.79)
+-2.002***
+(3.73)
+yes
+yes
+no
+7,088
+1,459
+0.02
+
+0.00
+(0.30)
+-0.102
+(0.29)
+yes
+yes
+no
+14,245
+1,461
+0.03
+
+Unification
+Year
+Constant
+Sector dummies
+Legal dummies
+Year dummies
+Observations
+Number of cross-sections
+R-squared
+
+33
+
+1990s
+0.050***
+(4.35)
+0.016***
+(2.69)
+0.004
+(0.76)
+-0.002
+(0.37)
+-0.125
+(1.63)
+0.00
+(0.21)
+0.005***
+(3.80)
+0.001***
+(4.15)
+-1.710***
+(4.15)
+yes
+yes
+no
+14,097
+1,461
+0.05
+
+2000s
+0.049***
+(4.07)
+0.009*
+(1.80)
+0.005
+(1.00)
+0.00
+(0.06)
+-0.048
+(0.85)
+0.00
+(1.54)
+
+0.001**
+(2.12)
+-1.122**
+(2.01)
+yes
+yes
+no
+8,369
+1,453
+0.03
+
+Pre-1985 Post-1985
+0.018** 0.045***
+(2.15)
+(5.74)
+0.025*** 0.014***
+(3.78)
+(3.73)
+0.003
+0.002
+(0.84)
+(0.67)
+-0.004
+-0.001
+(0.91)
+(0.45)
+-0.089**
+-0.080*
+(2.05)
+(1.88)
+0.00
+0.00
+(0.37)
+(0.47)
+0.00
+(0.34)
+0.001***
+0.00
+(3.13)
+(1.28)
+-1.135***
+-0.128
+(3.11)
+(1.18)
+yes
+yes
+yes
+yes
+no
+no
+14,221
+29,578
+1,462
+1,464
+0.02
+0.03
+
+Table 5: Regression Results Heteroskedastic Regression Model
+This table reports results of the heteroskedastic regression model proposed by Harvey (1976). The
+dependent variable is the mean firm level volatility of sales for firms in each sector. Year is a linear time
+trend, Unification dummy is a dummy variable which is set to “One” for the years 1991-1995 and “Zero”
+otherwise. ***, **, * = significant at the 1%, 5%, 10%-level.
+Mean equation
+Asset growth (t)
+Asset growth (t–1)
+Asset growth (t–2)
+Listed (0/1)
+Inventory–sales ratio (%)
+Leverage
+Large (0/1)
+Manufacturing (0/1)
+Services (0/1)
+Construction (0/1)
+Year
+Unification (0/1)
+Variance equation
+Asset growth (t)
+Asset growth (t–1)
+Asset growth (t–2)
+Listed (0/1)
+Inventory–sales ratio (%)
+Leverage
+Large (0/1)
+Manufacturing (0/1)
+Services (0/1)
+Construction (0/1)
+Year
+Unification
+
+34
+
+(1)
+
+(2)
+
+0.32***
+(51.24)
+0.09***
+(18.55)
+–0.02***
+(–3.53)
+–0.0004
+(–0.26)
+–0.46***
+(–11.52)
+–0.00
+(–0.98)
+0.001
+(1.22)
+–0.001
+(–0.57)
+–0.001
+(–0.39)
+0.005
+(0.73)
+–0.00
+(–0.08)
+–0.001
+(–0.08)
+
+–0.00
+(–0.69)
+0.00
+(0.09)
+
+0.86***
+(8.22)
+0.57***
+(5.38)
+0.15
+(1.44)
+0.13**
+(2.17)
+0.23
+(1.03)
+
+1.01***
+(9.32)
+0.50***
+(4.64)
+0.08
+(0.78)
+0.08
+(1.42)
+–0.95***
+(–4.66)
+
+–0.18***
+(–5.77)
+–0.03
+(–0.42)
+0.001
+(0.01)
+1.32***
+(11.52)
+0.001
+(0.97)
+–0.05
+(–0.90)
+
+–0.14***
+(–5.10)
+–0.02
+(–0.30)
+0.04
+(0.49)
+1.25***
+(11.75)
+0.003*
+(1.98)
+–0.04
+(–0.85)
+
+Graph 1: Unconditional Firm Level Versus Aggregated Volatility
+Unconditional firm level output volatility is the median volatility of firm level sales growth over a fiveyear window. Aggregated output volatility is the corresponding volatility of GDP growth.
+
+.08
+
+.005
+
+.01
+.015
+.02
+S.d. of GDP growth (5 yrs)
+
+Unconditional volatility (5 yrs.)
+.09
+.1
+.11
+.12
+
+.13
+
+.025
+
+Firm-level versus aggregated 5-year volatility
+
+1970
+
+1980
+
+1990
+years
+
+Unconditional volatility (5 yrs.)
+
+35
+
+2000
+
+2010
+
+S.d. of GDP growth (5 yrs)
+
+Graph 2: Conditional Versus Unconditional Firm Level Volatility
+Unconditional firm level output volatility is the median volatility of firm level sales growth over a fiveyear window. Conditional firm level output volatility is the corresponding volatility of the residual sales
+growth using the method proposed by Pesaran (2006) to control for macroeconomic developments.
+
+.06
+
+.08
+
+.1
+
+.12
+
+Idiosyncratic versus unconditional 5-year firm-level volatility
+
+1970
+
+1980
+
+1990
+years
+
+Idiosyncratic volatility (5 yrs.)
+
+36
+
+2000
+
+2010
+
+Unconditional volatility (5 yrs.)
+
+The following Discussion Papers have been published since 2007:
+Series 1: Economic Studies
+01
+
+2007
+
+The effect of FDI on job separation
+
+Sascha O. Becker
+Marc-Andreas Mündler
+
+02
+
+2007
+
+Threshold dynamics of short-term interest rates:
+empirical evidence and implications for the
+Theofanis Archontakis
+term structure
+Wolfgang Lemke
+
+03
+
+2007
+
+Price setting in the euro area:
+some stylised facts from individual
+producer price data
+
+Dias, Dossche, Gautier
+Hernando, Sabbatini
+Stahl, Vermeulen
+
+04
+
+2007
+
+Unemployment and employment protection
+in a unionized economy with search frictions
+
+Nikolai Stähler
+
+05
+
+2007
+
+End-user order flow and exchange rate dynamics S. Reitz, M. A. Schmidt
+M. P. Taylor
+
+06
+
+2007
+
+Money-based interest rate rules:
+lessons from German data
+
+C. Gerberding
+F. Seitz, A. Worms
+
+07
+
+2007
+
+Moral hazard and bail-out in fiscal federations:
+evidence for the German Länder
+
+Kirsten H. Heppke-Falk
+Guntram B. Wolff
+
+08
+
+2007
+
+An assessment of the trends in international
+price competitiveness among EMU countries
+
+Christoph Fischer
+
+Reconsidering the role of monetary indicators
+for euro area inflation from a Bayesian
+perspective using group inclusion probabilities
+
+Michael Scharnagl
+Christian Schumacher
+
+09
+
+10
+
+2007
+
+2007
+
+A note on the coefficient of determination in
+Jeong-Ryeol Kurz-Kim
+regression models with infinite-variance variables Mico Loretan
+
+37
+
+11
+
+2007
+
+Exchange rate dynamics in a target zone a heterogeneous expectations approach
+
+Christian Bauer
+Paul De Grauwe, Stefan Reitz
+
+12
+
+2007
+
+Money and housing evidence for the euro area and the US
+
+Claus Greiber
+Ralph Setzer
+
+13
+
+2007
+
+An affine macro-finance term structure model
+for the euro area
+
+Wolfgang Lemke
+
+14
+
+2007
+
+Does anticipation of government spending matter? Jörn Tenhofen
+Evidence from an expectation augmented VAR Guntram B. Wolff
+
+15
+
+2007
+
+On-the-job search and the cyclical dynamics
+of the labor market
+
+Michael Krause
+Thomas Lubik
+
+16
+
+2007
+
+Heterogeneous expectations, learning and
+European inflation dynamics
+
+Anke Weber
+
+17
+
+2007
+
+Does intra-firm bargaining matter for
+business cycle dynamics?
+
+Michael Krause
+Thomas Lubik
+
+18
+
+2007
+
+Uncertainty about perceived inflation target
+and monetary policy
+
+Kosuke Aoki
+Takeshi Kimura
+
+19
+
+2007
+
+The rationality and reliability of expectations
+reported by British households: micro evidence James Mitchell
+from the British household panel survey
+Martin Weale
+
+20
+
+2007
+
+Money in monetary policy design under
+uncertainty: the Two-Pillar Phillips Curve
+versus ECB-style cross-checking
+
+21
+
+2007
+
+Günter W. Beck
+Volker Wieland
+
+Corporate marginal tax rate, tax loss carryforwards
+and investment functions – empirical analysis
+using a large German panel data set
+Fred Ramb
+
+38
+
+22
+
+2007
+
+Volatile multinationals? Evidence from the
+labor demand of German firms
+
+Claudia M. Buch
+Alexander Lipponer
+
+23
+
+2007
+
+International investment positions and
+Michael Binder
+exchange rate dynamics: a dynamic panel analysis Christian J. Offermanns
+
+24
+
+2007
+
+Testing for contemporary fiscal policy discretion
+with real time data
+
+Ulf von Kalckreuth
+Guntram B. Wolff
+
+25
+
+2007
+
+Quantifying risk and uncertainty
+in macroeconomic forecasts
+
+Malte Knüppel
+Karl-Heinz Tödter
+
+26
+
+2007
+
+Taxing deficits to restrain government
+spending and foster capital accumulation
+
+Nikolai Stähler
+
+27
+
+2007
+
+Spill-over effects of monetary policy – a progress
+report on interest rate convergence in Europe
+Michael Flad
+
+28
+
+2007
+
+The timing and magnitude of exchange rate
+overshooting
+
+29
+
+2007
+
+The timeless perspective vs. discretion: theory and
+monetary policy implications for an open economy Alfred V. Guender
+
+30
+
+2007
+
+International cooperation on innovation: empirical Pedro Faria
+evidence for German and Portuguese firms
+Tobias Schmidt
+
+31
+
+2007
+
+Simple interest rate rules with a role for money
+
+M. Scharnagl
+C. Gerberding, F. Seitz
+
+32
+
+2007
+
+Does Benford’s law hold in economic
+research and forecasting?
+
+Stefan Günnel
+Karl-Heinz Tödter
+
+33
+
+2007
+
+The welfare effects of inflation:
+a cost-benefit perspective
+
+Karl-Heinz Tödter
+Bernhard Manzke
+
+39
+
+Hoffmann
+Sondergaard, Westelius
+
+34
+
+2007
+
+Factor-MIDAS for now- and forecasting with
+ragged-edge data: a model comparison for
+German GDP
+
+Massimiliano Marcellino
+Christian Schumacher
+
+35
+
+2007
+
+Monetary policy and core inflation
+
+Michele Lenza
+
+01
+
+2008
+
+Can capacity constraints explain
+asymmetries of the business cycle?
+
+Malte Knüppel
+
+Communication, decision-making and the
+optimal degree of transparency of monetary
+policy committees
+
+Anke Weber
+
+02
+
+2008
+
+03
+
+2008
+
+The impact of thin-capitalization rules on
+Buettner, Overesch
+multinationals’ financing and investment decisions Schreiber, Wamser
+
+04
+
+2008
+
+Comparing the DSGE model with the factor model:
+an out-of-sample forecasting experiment
+Mu-Chun Wang
+
+05
+
+2008
+
+Financial markets and the current account –
+emerging Europe versus emerging Asia
+
+Sabine Herrmann
+Adalbert Winkler
+
+06
+
+2008
+
+The German sub-national government bond
+market: evolution, yields and liquidity
+
+Alexander Schulz
+Guntram B. Wolff
+
+07
+
+2008
+
+Integration of financial markets and national
+price levels: the role of exchange rate volatility
+
+Mathias Hoffmann
+Peter Tillmann
+
+08
+
+2008
+
+Business cycle evidence on firm entry
+
+Vivien Lewis
+
+09
+
+2008
+
+Panel estimation of state dependent adjustment
+when the target is unobserved
+
+Ulf von Kalckreuth
+
+Nonlinear oil price dynamics –
+a tale of heterogeneous speculators?
+
+Stefan Reitz
+Ulf Slopek
+
+10
+
+2008
+
+40
+
+11
+
+2008
+
+Financing constraints, firm level adjustment
+of capital and aggregate implications
+
+Ulf von Kalckreuth
+
+12
+
+2008
+
+Sovereign bond market integration:
+the euro, trading platforms and globalization
+
+Alexander Schulz
+Guntram B. Wolff
+
+13
+
+2008
+
+Great moderation at the firm level?
+Unconditional versus conditional output
+volatility
+
+Claudia M. Buch
+Jörg Döpke
+Kerstin Stahn
+
+41
+
+Series 2: Banking and Financial Studies
+01
+
+2007
+
+Granularity adjustment for Basel II
+
+Michael B. Gordy
+Eva Lütkebohmert
+
+02
+
+2007
+
+Efficient, profitable and safe banking:
+an oxymoron? Evidence from a panel
+VAR approach
+
+Michael Koetter
+Daniel Porath
+
+03
+
+2007
+
+Slippery slopes of stress: ordered failure
+events in German banking
+
+Thomas Kick
+Michael Koetter
+
+04
+
+2007
+
+Open-end real estate funds in Germany –
+genesis and crisis
+
+C. E. Bannier
+F. Fecht, M. Tyrell
+
+05
+
+2007
+
+Diversification and the banks’
+risk-return-characteristics – evidence from
+loan portfolios of German banks
+
+A. Behr, A. Kamp
+C. Memmel, A. Pfingsten
+
+06
+
+2007
+
+How do banks adjust their capital ratios?
+Evidence from Germany
+
+Christoph Memmel
+Peter Raupach
+
+07
+
+2007
+
+Modelling dynamic portfolio risk using
+risk drivers of elliptical processes
+
+Rafael Schmidt
+Christian Schmieder
+
+08
+
+2007
+
+Time-varying contributions by the corporate bond
+and CDS markets to credit risk price discovery Niko Dötz
+
+09
+
+2007
+
+Banking consolidation and small business
+finance – empirical evidence for Germany
+
+K. Marsch, C. Schmieder
+K. Forster-van Aerssen
+
+10
+
+2007
+
+The quality of banking and regional growth
+
+Hasan, Koetter, Wedow
+
+11
+
+2007
+
+Welfare effects of financial integration
+
+Fecht, Grüner, Hartmann
+
+12
+
+2007
+
+The marketability of bank assets and managerial Falko Fecht
+rents: implications for financial stability
+Wolf Wagner
+
+42
+
+13
+
+2007
+
+Asset correlations and credit portfolio risk –
+an empirical analysis
+
+K. Düllmann, M. Scheicher
+C. Schmieder
+
+14
+
+2007
+
+Relationship lending – empirical evidence
+for Germany
+
+C. Memmel
+C. Schmieder, I. Stein
+
+15
+
+2007
+
+Creditor concentration: an empirical investigation S. Ongena, G.Tümer-Alkan
+N. von Westernhagen
+
+16
+
+2007
+
+Endogenous credit derivatives and bank behaviour Thilo Pausch
+
+17
+
+2007
+
+Profitability of Western European banking
+systems: panel evidence on structural and
+cyclical determinants
+
+Rainer Beckmann
+
+18
+
+2007
+
+Estimating probabilities of default with
+support vector machines
+
+W. K. Härdle
+R. A. Moro, D. Schäfer
+
+01
+
+2008
+
+Analyzing the interest rate risk of banks
+using time series of accounting-based data:
+evidence from Germany
+
+O. Entrop, C. Memmel
+M. Wilkens, A. Zeisler
+
+02
+
+2008
+
+Bank mergers and the dynamics of
+deposit interest rates
+
+Ben R. Craig
+Valeriya Dinger
+
+03
+
+2008
+
+Monetary policy and bank distress:
+an integrated micro-macro approach
+
+F. de Graeve
+T. Kick, M. Koetter
+
+04
+
+2008
+
+Estimating asset correlations from stock prices K. Düllmann
+or default rates – which method is superior?
+J. Küll, M. Kunisch
+
+05
+
+2008
+
+Rollover risk in commercial paper markets
+and firms’ debt maturity choice
+
+Felix Thierfelder
+
+The success of bank mergers revisited –
+an assessment based on a matching strategy
+
+Andreas Behr
+Frank Heid
+
+06
+
+2008
+
+43
+
+07
+
+2008
+
+Which interest rate scenario is the worst one for
+a bank? Evidence from a tracking bank approach
+for German savings and cooperative banks
+
+Christoph Memmel
+
+08
+
+2008
+
+Market conditions, default risk and
+credit spreads
+
+Dragon Yongjun Tang
+Hong Yan
+
+09
+
+2008
+
+The pricing of correlated default risk:
+evidence from the credit derivatives market
+
+Nikola Tarashev
+Haibin Zhu
+
+10
+
+2008
+
+Determinants of European banks’
+engagement in loan securitization
+
+Christina E. Bannier
+Dennis N. Hänsel
+
+11
+
+2008
+
+Interaction of market and credit risk: an analysis Klaus Böcker
+of inter-risk correlation and risk aggregation
+Martin Hillebrand
+
+12
+
+2008
+
+A value at risk analysis of credit default swaps B. Raunig, M. Scheicher
+
+13
+
+2008
+
+Systemic bank risk in Brazil: an assessment of
+correlated market, credit, sovereign and interbank risk in an environment with stochastic
+Theodore M. Barnhill, Jr.
+volatilities and correlations
+Marcos Rietti Souto
+
+14
+
+2008
+
+Regulatory capital for market and credit risk inter- T. Breuer, M. Jandačka
+action: is current regulation always conservative? K. Rheinberger, M. Summer
+
+15
+
+2008
+
+The implications of latent technology regimes
+for competition and efficiency in banking
+
+Michael Koetter
+Tigran Poghosyan
+
+16
+
+2008
+
+The impact of downward rating momentum
+on credit portfolio risk
+
+André Güttler
+Peter Raupach
+
+44
+
+Visiting researcher at the Deutsche Bundesbank
+
+The Deutsche Bundesbank in Frankfurt is looking for a visiting researcher. Among others
+under certain conditions visiting researchers have access to a wide range of data in the
+Bundesbank. They include micro data on firms and banks not available in the public.
+Visitors should prepare a research project during their stay at the Bundesbank. Candidates
+must hold a PhD and be engaged in the field of either macroeconomics and monetary
+economics, financial markets or international economics. Proposed research projects
+should be from these fields. The visiting term will be from 3 to 6 months. Salary is
+commensurate with experience.
+Applicants are requested to send a CV, copies of recent papers, letters of reference and a
+proposal for a research project to:
+
+Deutsche Bundesbank
+Personalabteilung
+Wilhelm-Epstein-Str. 14
+60431 Frankfurt
+GERMANY
+
+45
+
+
