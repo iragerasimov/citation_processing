@@ -7,44 +7,87 @@ from nltk.tokenize import word_tokenize
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 from collections import OrderedDict
-
-class bcolors:
-    PINK = '\033[95m'
-    BLUE = '\033[94m'
-    GREEN = '\033[92m'          # '\033[42 green background
-    YELLOW = '\033[93m'		# '\033[43 brownish background
-    RED = '\033[91m'
-    GREY = '\033[90m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
+from colored import fg, style
 
 json_folder_path = 'data'
 terms_file = 'terms.json'
 zot_pubs_file = 'zot_pubs_joshua.json' #zot_pubs_scopus+wos.json'
+csv_sks_path = "data/sciencekeywords.csv"
+csv_instr_path = "data/instruments.csv"
+csv_missions_path = "data/missions.csv"
+csv_locs_path = "data/locations.csv"
+
 ps = PorterStemmer()
 stop_words = set(stopwords.words('english'))
 new_stopwords = ['lead', 'leading']
 stop_words.update(new_stopwords)
 new_stop_words = set(stop_words)
-#print(new_stop_words)
 
 variables = []
-cvs_wos_path = "data/sciencekeywords.csv"
-wos_dois = {}
-with open(cvs_wos_path, newline='') as csvfile:
-  reader = csv.reader(csvfile, delimiter=',') #, quotechar='|')
+with open(csv_sks_path, newline='') as csvfile:
+  reader = csv.reader(csvfile, delimiter=',') 
   for row in reader:
-    for i in range (3, 6, 1):
+    for i in range (3, 7, 1):
       if row[i] and not re.search(r"(/|\()", row[i]):
         variables.append(row[i].lower())
 variables = sorted(set(variables), key=len, reverse = True)
+
+instruments = []
+with open(csv_instr_path, newline='') as csvfile:
+  reader = csv.reader(csvfile, delimiter=',') 
+  for row in reader:
+    for i in range (4, 6, 1):
+      if row[i]: # and not re.search(r"(/|\()", row[i]):
+        instruments.append(row[i].lower())
+instruments = sorted(set(instruments), key=len, reverse = True)
+
+missions = []
+with open(csv_missions_path, newline='') as csvfile:
+  reader = csv.reader(csvfile, delimiter=',')
+  for row in reader:
+    for i in range (1, 4, 1):
+      if row[i]: # and not re.search(r"(/|\()", row[i]):
+        missions.append(row[i].lower())
+missions = sorted(set(missions), key=len, reverse = True)
+
+locations = []
+with open(csv_locs_path, newline='') as csvfile:
+  reader = csv.reader(csvfile, delimiter=',')
+  for row in reader:
+    for i in range (1, 4, 1):
+      if row[i]: # and not re.search(r"(/|\()", row[i]):
+        locations.append(row[i].lower())
+locations = sorted(set(locations), key=len, reverse = True)
 
 with open(os.path.join(json_folder_path, terms_file)) as json_publications_file:
   terms = json.load(json_publications_file)
 
 with open(os.path.join(json_folder_path, zot_pubs_file)) as json_publications_file:
   zot_list = json.load(json_publications_file)
+
+def extract_gcmd_terms (all_terms, abstract_tokens, term_array):
+  gcmd_terms = []
+  for var in all_terms:
+    tokens = []
+    for a in word_tokenize(var):
+      tokens.append(ps.stem(a))
+    tocken_cnt = len(tokens)
+    for i in range(0, len(abstract_tokens) - tocken_cnt):
+      present = False
+      for j in range(0, tocken_cnt):
+        if var_array[i+j]:
+          present = False
+          break
+        if abstract_tokens[i+j] != tokens[j]:
+          present = False
+          break
+        present = True
+      if present:
+        for j in range(0, tocken_cnt):
+          term_array[i+j] = 1
+        gcmd_terms.append(var)
+  return gcmd_terms
+
 
 sweet_cats = {'Phenomena': 1, 'Realm': 2, 'Material': 3, 'Materials': 3, 'Property': 4, 'State': 5, 'Human': 6, 'Process': 7, 'Representation': 8, 'Relationships': 9}
 cnt = 0
@@ -60,12 +103,14 @@ for pub_item in zot_list:
   abstract_tokens1 = word_tokenize(abstract)
   abstract_array = [0] * len(abstract_tokens1)
   var_array = [0] * len(abstract_tokens1)
+  instr_array = [0] * len(abstract_tokens1)
+  miss_array = [0] * len(abstract_tokens1)
+  locs_array = [0] * len(abstract_tokens1)
   #abstract_tokens2 = [w for w in abstract_tokens1 if not w in new_stop_words]
   for a in abstract_tokens1:
     abstract_tokens.append(ps.stem(a))
   #print(abstract_tokens)
   #print(' '.join(abstract_tokens1))
-  #break
   categories = {}
   sweet_terms = {}
   found_terms = []
@@ -94,26 +139,10 @@ for pub_item in zot_list:
           abstract_array[i+j] = sweet_cats[(terms[term][0].split())[0]]
         found_terms.append(term)
 
-  found_vars = []
-  for var in variables:
-    var_tokens = []
-    for a in word_tokenize(var):
-      var_tokens.append(ps.stem(a))
-    tocken_cnt = len(var_tokens)
-    for i in range(0, len(abstract_tokens) - tocken_cnt):
-      for j in range(0, tocken_cnt):
-        if var_array[i+j]:
-          var_present = False
-          break
-        if abstract_tokens[i+j] != var_tokens[j]:
-          var_present = False
-          break
-        #print(abstract_tokens[i+j]+' '+var_tokens[j])
-        var_present = True
-      if var_present:
-        for j in range(0, tocken_cnt):
-          var_array[i+j] = 10
-        found_vars.append(var)
+  found_vars = extract_gcmd_terms (variables, abstract_tokens, var_array)
+  found_instr = extract_gcmd_terms (instruments, abstract_tokens, instr_array)
+  found_miss = extract_gcmd_terms (missions, abstract_tokens, miss_array)
+  found_locs = extract_gcmd_terms (locations, abstract_tokens, locs_array)
 
   for term in set(found_terms):
     for category in terms[term]:
@@ -127,40 +156,30 @@ for pub_item in zot_list:
       else:
         categories[category] = [term]
 
+  # list of colors is in https://pypi.org/project/colored/
   for cat in sweet_terms.keys():
-    if sweet_cats[cat] == 1:
-      print(cat+': ', bcolors.GREEN, ', '.join(sweet_terms[cat]),bcolors.ENDC)
-    elif sweet_cats[cat] == 2:
-      print(cat+': ', bcolors.BLUE, ', '.join(sweet_terms[cat]),bcolors.ENDC)
-    else:
-      print(cat+': ', bcolors.BOLD,', '.join(sweet_terms[cat]),bcolors.ENDC)
-  print('Science Keywords: ',bcolors.RED, set(found_vars),bcolors.ENDC)
+    print(cat+': ', fg(sweet_cats[cat]+5), ', '.join(set(sweet_terms[cat])),bcolors.ENDC)
+  print('Science Keywords: ', fg(1), set(found_vars), style.RESET)
+  print('Instruments: ', fg(2), set(found_instr), style.RESET)
+  print('Missions: ', fg(4), set(found_miss), style.RESET)
+  print('Locations: ', fg(5), set(found_locs), style.RESET)
 
   for i in range(0, len(abstract_tokens)):
-    if var_array[i] == 10:  # science keyword
-      abstract_tokens1[i] = bcolors.RED+abstract_tokens1[i]+bcolors.ENDC
-    elif abstract_array[i] == 1:  # phenomena
-     abstract_tokens1[i] = bcolors.GREEN+abstract_tokens1[i]+bcolors.ENDC
-    elif abstract_array[i] == 2:  # realm
-      abstract_tokens1[i] = bcolors.BLUE+abstract_tokens1[i]+bcolors.ENDC
-    elif abstract_array[i] > 2:  # other
-      abstract_tokens1[i] = bcolors.BOLD+abstract_tokens1[i]+bcolors.ENDC
-
-#    if abstract_array[i] + var_array[i] == 1:  # phenomena
-#      abstract_tokens1[i] = bcolors.GREEN+abstract_tokens1[i]+bcolors.ENDC
-#    elif abstract_array[i] + var_array[i] == 2:  # realm
-#      abstract_tokens1[i] = bcolors.GREY+abstract_tokens1[i]+bcolors.ENDC
-#    elif abstract_array[i] + var_array[i] == 3:  # science keyword
-#      abstract_tokens1[i] = bcolors.RED+abstract_tokens1[i]+bcolors.ENDC
-#    elif abstract_array[i] + var_array[i] == 4:  # phenomena and science keyword
-#      abstract_tokens1[i] = bcolors.PINK+abstract_tokens1[i]+bcolors.ENDC
-#    elif abstract_array[i] + var_array[i] == 5:  # phenomena and science keyword
-#      abstract_tokens1[i] = bcolors.BLUE+abstract_tokens1[i]+bcolors.ENDC
+    if var_array[i]:  # science keyword
+      abstract_tokens1[i] = fg(1)+abstract_tokens1[i]+style.RESET
+    elif instr_array[i]:   # instruments
+      abstract_tokens1[i] = fg(2)+abstract_tokens1[i]+style.RESET
+    elif miss_array[i]:   # instruments
+      abstract_tokens1[i] = fg(4)+abstract_tokens1[i]+style.RESET
+    elif locs_array[i]:   # instruments
+      abstract_tokens1[i] = fg(5)+abstract_tokens1[i]+style.RESET
+    elif abstract_array[i]:  # sweet terms
+     abstract_tokens1[i] = fg(abstract_array[i]+5)+abstract_tokens1[i]+style.RESET
   abstract = ' '.join(abstract_tokens1)
   categories1 = OrderedDict(sorted(categories.items()))
   categories1['abstract'] = Abstract
   all_titles.append(categories1)
-  print('\n'+abstract)
+  print('\n'+abstract+'\n')
   #break
 
 with open(os.path.join(json_folder_path, "title_terms_joshua.json"), "w") as fp:
