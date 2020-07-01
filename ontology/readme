@@ -1,5 +1,12 @@
 SWEET git is at https://github.com/ESIPFed/sweet/
 
+https://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/sciencekeywords?format=csv
+
+https://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/platforms?format=csv
+
+https://gcmdservices.gsfc.nasa.gov/kms/concepts/concept_scheme/instruments?format=csv
+
+
 get_sweet_labels.py takes sweet/src directory as input and outputs terms.json
 
 get_zot_pubs_and_notes.py outputs zotero_pubs*.json (it has to pount to Zotero collection that you need abstracts from)
