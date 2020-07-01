@@ -21,7 +21,7 @@ class bcolors:
 
 json_folder_path = 'data'
 terms_file = 'terms.json'
-zot_pubs_file = 'zot_pubs_gio.2017.json' #zot_pubs_scopus+wos.json'
+zot_pubs_file = 'zot_pubs_joshua.json' #zot_pubs_scopus+wos.json'
 ps = PorterStemmer()
 stop_words = set(stopwords.words('english'))
 new_stopwords = ['lead', 'leading']
@@ -46,12 +46,13 @@ with open(os.path.join(json_folder_path, terms_file)) as json_publications_file:
 with open(os.path.join(json_folder_path, zot_pubs_file)) as json_publications_file:
   zot_list = json.load(json_publications_file)
 
-sweet_cats = {'Phenomena': 1, 'Realm': 2, 'Material': 3, 'Property': 4, 'State': 5, 'Human': 6, 'Process': 7, 'Representation': 8, 'Relationships': 9}
+sweet_cats = {'Phenomena': 1, 'Realm': 2, 'Material': 3, 'Materials': 3, 'Property': 4, 'State': 5, 'Human': 6, 'Process': 7, 'Representation': 8, 'Relationships': 9}
 cnt = 0
 all_titles = []
 for pub_item in zot_list:
   abstract = pub_item['data'].get('abstractNote', '')
   title = pub_item['data'].get('title', '')
+  Abstract = title + '. '+abstract
   abstract = title.lower() + '. ' + abstract.lower()
   abstract = re.sub(r'\n|\t', '', abstract) 
   #print(abstract)
@@ -157,12 +158,12 @@ for pub_item in zot_list:
 #      abstract_tokens1[i] = bcolors.BLUE+abstract_tokens1[i]+bcolors.ENDC
   abstract = ' '.join(abstract_tokens1)
   categories1 = OrderedDict(sorted(categories.items()))
-  categories1['abstract'] = abstract
+  categories1['abstract'] = Abstract
   all_titles.append(categories1)
   print('\n'+abstract)
-  break
+  #break
 
-with open(os.path.join(json_folder_path, "title_terms_gio.2017_colored.json"), "w") as fp:
+with open(os.path.join(json_folder_path, "title_terms_joshua.json"), "w") as fp:
   json.dump(all_titles, fp, indent=4)
 
 
