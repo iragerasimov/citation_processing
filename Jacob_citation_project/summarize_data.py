@@ -6,16 +6,17 @@ import matplotlib.pyplot as plt
 import re
 import glob
 
-from Paper import *
 from pyzotero import zotero
 
-library_id = '6657757'
-library_type = 'user'
-api_key = 'ZUtqoDZaIFDZTZoTt83hoId7'
+# library_id = '6657757' # Personal Library ID
+library_id = '2395775' # Group Library ID
+library_type = 'group'
+api_key = 'tB3q3dduZDZR1xXOXGw9ngvV'
 
 zot = zotero.Zotero(library_id, library_type, api_key)
 
-collection_id = '4HLCJQ8L'
+# collection_id = '4HLCJQ8L' # Individual collection id
+collection_id = 'F3P68PWK'
 collection = zot.collection(collection_id)
 
 load_json = True
@@ -51,6 +52,7 @@ for item in items:
         count_other += 1
 print(count_note, count_journal, count_other)
 print(len(d.keys()))
+print(sum(d.values()))
 x = []
 y = []
 for key in d.keys():
@@ -60,9 +62,9 @@ for key in d.keys():
 print(len(x))
 print(y)
 
-plt.bar(x, y)
-plt.legend()
-plt.show()
-plt.hist(d.values(), [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50], histtype='bar')
-plt.xlabel("Dataset Frequency in MLS/Aura")
-plt.show()
+# plt.bar(x, y)
+# plt.legend()
+# plt.show()
+# plt.hist(d.values(), [0, 5, 10, 15, 20, 25, 30, 35, 40, 45, 50], histtype='bar')
+# plt.xlabel("Dataset Frequency in MLS/Aura")
+# plt.show()
