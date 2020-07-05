@@ -1,5 +1,1493 @@
 [
     {
+        "key": "CW63SG5Z",
+        "version": 12052,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/CW63SG5Z",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/CW63SG5Z",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Mill\u00e1n et al.",
+            "parsedDate": "2012-07-20",
+            "numChildren": 5
+        },
+        "data": {
+            "key": "CW63SG5Z",
+            "version": 12052,
+            "itemType": "journalArticle",
+            "title": "New Aura Microwave Limb Sounder observations of BrO and implications for Br<sub>y</sub>",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Mill\u00e1n"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "N.",
+                    "lastName": "Livesey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "W.",
+                    "lastName": "Read"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Froidevaux"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D.",
+                    "lastName": "Kinnison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "R.",
+                    "lastName": "Harwood"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "I. A.",
+                    "lastName": "MacKenzie"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. P.",
+                    "lastName": "Chipperfield"
+                }
+            ],
+            "abstractNote": "<p><strong>Abstract.</strong> This paper introduces a new inversion algorithm for retrievals of stratospheric BrO from the Aura Microwave Limb Sounder. This version is based on the algorithm described by Livesey et al. (2006a) but uses a more realistic atmospheric state to constrain the retrieval. A description of the methodology and an error analysis are presented. Single daily profile precision uncertainty, when taking the ascending-descending (day-night) difference, was found to be up to 40 pptv while systematic error biases were estimated to be less than about 3 pptv. Monthly mean comparisons show broad agreement with other measurements as well as with state-of-the-art numerical models. We infer a 2005 yearly total inorganic Br<sub>y</sub> using the measured MLS BrO to be 20.3 &amp;plusmn; 4.5 pptv, which implies a contribution from very short lived substances to the stratospheric bromine budget of 5 &amp;plusmn; 4.5 pptv.</p>",
+            "publicationTitle": "Atmospheric Measurement Techniques",
+            "volume": "5",
+            "issue": "7",
+            "pages": "1741-1751",
+            "date": "2012-07-20",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Meas. Tech.",
+            "language": "en",
+            "DOI": "10/gb8r5k",
+            "ISSN": "1867-8548",
+            "shortTitle": "",
+            "url": "https://www.atmos-meas-tech.net/5/1741/2012/",
+            "accessDate": "2019-10-25T01:06:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: NoCitationData[s0]",
+            "tags": [
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "J6IBQ424",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {},
+            "dateAdded": "2019-10-25T15:44:41Z",
+            "dateModified": "2020-07-05T14:54:21Z"
+        }
+    },
+    {
+        "key": "XG5MYP73",
+        "version": 12051,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/XG5MYP73",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/XG5MYP73",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Khosravi et al.",
+            "parsedDate": "2013-08-06",
+            "numChildren": 6
+        },
+        "data": {
+            "key": "XG5MYP73",
+            "version": 12051,
+            "itemType": "journalArticle",
+            "title": "Diurnal variation of stratospheric and lower mesospheric HOCl, ClO and HO2   at the equator: comparison of 1-D model calculations with measurements by satellite instruments",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Khosravi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "P.",
+                    "lastName": "Baron"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J.",
+                    "lastName": "Urban"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "L.",
+                    "lastName": "Froidevaux"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "A. I.",
+                    "lastName": "Jonsson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Y.",
+                    "lastName": "Kasai"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K.",
+                    "lastName": "Kuribayashi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "C.",
+                    "lastName": "Mitsuda"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "D. P.",
+                    "lastName": "Murtagh"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "H.",
+                    "lastName": "Sagawa"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M. L.",
+                    "lastName": "Santee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T. O.",
+                    "lastName": "Sato"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Shiotani"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "M.",
+                    "lastName": "Suzuki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "T.",
+                    "lastName": "von Clarmann"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "K. A.",
+                    "lastName": "Walker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "S.",
+                    "lastName": "Wang"
+                }
+            ],
+            "abstractNote": "Abstract. The diurnal variation of HOCl and the related species ClO, HO2 and HCl measured by satellites has been compared with the results of a one-dimensional photochemical model. The study compares the data from various limb-viewing instruments with model simulations from the middle stratosphere to the lower mesosphere. Data from three sub-millimetre instruments and two infrared spectrometers are used, namely from the Sub-Millimetre Radiometer (SMR) on board Odin, the Microwave Limb Sounder (MLS) on board Aura, the Superconducting Submillimeter-wave Limb-Emission Sounder (SMILES) on the International Space Station, the Michelson Interferometer for Passive Atmospheric Sounding (MIPAS) on board ENVISAT, and the Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) on board SCISAT. Inter-comparison of the measurements from instruments on sun-synchronous satellites (SMR, MLS, MIPAS) and measurements from solar occultation instruments (ACE-FTS) is challenging since the measurements correspond to different solar zenith angles (or local times). However, using a model which covers all solar zenith angles and data from the SMILES instrument which measured at all local times over a period of several months provides the possibility to verify the model and to indirectly compare the diurnally variable species. The satellite data were averaged for latitudes of 20\u00b0 S to 20\u00b0 N for the SMILES observation period from November 2009 to April 2010 and were compared at three altitudes: 35, 45 and 55 km. Besides presenting the SMILES data, the study also shows a first comparison of the latest MLS data (version 3.3) of HOCl, ClO, and HO2 with other satellite observations, as well as a first evaluation of HO2 observations made by Odin/SMR. The MISU-1D model has been carefully initialised and run for conditions and locations of the observations. The diurnal cycle features for the species investigated here are generally well reproduced by the model. The satellite observations and the model agree well in terms of absolute mixing ratios. The differences between the day and night values of the model are in good agreement with the observations although the amplitude of the HO2 diurnal variation is 10\u201320% lower in the model than in the observations. In particular, the data offered the opportunity to study the reaction ClO+HO2 \u2192 HOCl+O2 in the lower mesosphere at 55 km. At this altitude the HOCl night-time variation depends only on this reaction. The result of this analysis points towards a value of the rate constant within the range of the JPL 2006 recommendation and the upper uncertainty limit of the JPL 2011 recommendation at 55 km.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "13",
+            "issue": "15",
+            "pages": "7587-7606",
+            "date": "2013-08-06",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-13-7587-2013",
+            "ISSN": "1680-7324",
+            "shortTitle": "Diurnal variation of stratospheric and lower mesospheric HOCl, ClO and HO <sub>2</sub> at the equator",
+            "url": "https://www.atmos-chem-phys.net/13/7587/2013/",
+            "accessDate": "2020-02-22T13:40:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: NoCitationData[s0]",
+            "tags": [
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "E2L2G468",
+                "E2SQG6S6",
+                "PHMBQSYB",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/2395775/items/IXI4S8TV",
+                    "http://zotero.org/groups/2395775/items/INQNY6W8"
+                ]
+            },
+            "dateAdded": "2020-02-22T13:40:22Z",
+            "dateModified": "2020-07-05T14:53:44Z"
+        }
+    },
+    {
+        "key": "E3J8WWZT",
+        "version": 12050,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/E3J8WWZT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/E3J8WWZT",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Froidevaux et al.",
+            "parsedDate": "2019-04-10",
+            "numChildren": 18
+        },
+        "data": {
+            "key": "E3J8WWZT",
+            "version": 12050,
+            "itemType": "journalArticle",
+            "title": "Evaluation of CESM1 (WACCM) free-running and specified dynamics atmospheric composition simulations using global multispecies satellite data records",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Lucien",
+                    "lastName": "Froidevaux"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Douglas E.",
+                    "lastName": "Kinnison"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ray",
+                    "lastName": "Wang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ryan A.",
+                    "lastName": "Fuller"
+                }
+            ],
+            "abstractNote": "We have analyzed near-global stratospheric data (and mesospheric data as well for H2O) in terms of absolute abundances, variability, and trends for O3, H2O, HCl, N2O, and HNO3, based on Aura Microwave Limb Sounder (MLS) data, as well as longer-term series from the Global OZone Chemistry And Related trace gas Data records for the Stratosphere (GOZCARDS). While we emphasize the evaluation of stratospheric models via data comparisons through 2014 to free-running (FR-WACCM) and specified dynamics (SD-WACCM) versions of the Community Earth System Model version 1 (CESM1) Whole Atmosphere Community Climate Model (WACCM), we also highlight observed stratospheric changes, using the most recent data from MLS.\nRegarding highlights from the satellite data, we have used multiple linear regression to derive trends based on zonal mean time series from Aura MLS data alone, between 60\u2218\u2009S and 60\u2218\u2009N. In the upper stratosphere, MLS O3 shows increases over 2005\u20132018 at \u223c0.1\u20130.3\u2009%\u2009yr\u22121 (depending on altitude and latitude) with 2\u03c3 errors of \u223c0.2\u2009%\u2009yr\u22121. For the lower stratosphere (LS), GOZCARDS O3 data for 1998\u20132014 point to small decreases between 60\u2218\u2009S and 60\u2218\u2009N, but the trends are more positive if the starting year is 2005. Southern midlatitudes (30\u201360\u2218\u2009S) exhibit near-zero or slightly positive LS trends for 1998\u20132018. The LS O3 trends based on 2005\u20132018 MLS data are most positive (0.1\u20130.2\u2009%\u2009yr\u22121) at these southern midlatitudes, although marginally statistically significant, in contrast to slightly negative or near-zero trends for 2005\u20132014. Given the high variability in LS O3, and the high sensitivity of trends to the choice of years used, especially for short periods, further studies are required for a robust longer-term LS trend result. For H2O, upper-stratospheric and mesospheric trends from GOZCARDS 1992\u20132010 data are near zero (within \u223c0.2\u2009%\u2009yr\u22121) and significantly smaller than trends (within \u223c0.4\u20130.7\u2009%\u2009yr\u22121) from MLS for 2005\u20132014 or 2005\u20132018. The latter short-term positive H2O trends are larger than expected from changes resulting from long-term increases in methane. We note that the very shallow solar flux maximum of solar cycle 24 has contributed to fairly large short-term mesospheric and upper-stratospheric H2O trends since 2005. However, given known drifts in the MLS H2O time series, MLS H2O trend results, especially after 2010, should be viewed as upper limits. The MLS data also show regions and periods of small HCl increases in the lower stratosphere, within the context of the longer-term stratospheric decrease in HCl, as well as interhemispheric\u2013latitudinal differences in short-term HCl tendencies. We observe similarities in such short-term tendencies, and interhemispheric asymmetries therein, for lower-stratospheric HCl and HNO3, while N2O trend profiles exhibit anti-correlated patterns.\nIn terms of the model evaluation, climatological averages for 2005\u20132014 from both FR-WACCM and SD-WACCM for O3, H2O, HCl, N2O, and HNO3 compare favorably with Aura MLS data averages over this period. However, the models at mid- to high latitudes overestimate mean MLS LS O3 values and seasonal amplitudes by as much as 50\u2009%\u201360\u2009%; such differences appear to implicate, in part, a transport-related model issue. At lower-stratospheric high southern latitudes, variations in polar winter and spring composition observed by MLS are well matched by SD-WACCM, with the main exception being for the early winter rate of decrease in HCl, which is too slow in the model. In general, we find that the latitude\u2013pressure distributions of annual and semiannual oscillation amplitudes derived from MLS data are properly captured by the model amplitudes. In terms of closeness of fit diagnostics for model\u2013data anomaly series, not surprisingly, SD-WACCM (driven by realistic dynamics) generally matches the observations better than FR-WACCM does. We also use root mean square variability as a more valuable metric to evaluate model\u2013data differences. We find, most notably, that FR-WACCM underestimates observed interannual variability for H2O; this has implications for the time period needed to detect small trends, based on model predictions.\n\nThe WACCM O3 trends generally agree (within 2\u03c3 uncertainties) with the MLS data trends, although LS trends are typically not statistically different from zero. The MLS O3 trend dependence on latitude and pressure is matched quite well by the SD-WACCM results. For H2O, MLS and SD-WACCM positive trends agree fairly well, but FR-WACCM shows significantly smaller increases; this discrepancy for FR-WACCM is even more pronounced for longer-term GOZCARDS H2O records. The larger discrepancies for FR-WACCM likely arise from its poorer correlations with cold point temperatures and with quasi-biennial oscillation (QBO) variability. For HCl, while some expected decreases in the global LS are seen in the observations, there are interhemispheric differences in the trends, and increasing tendencies are suggested in tropical MLS data at 68\u2009hPa, where there is only a slight positive trend in SD-WACCM. Although the vertical gradients in MLS HCl trends are well duplicated by SD-WACCM, the model trends are always somewhat more negative; this deserves further investigation. The original MLS N2O product time series yield small positive LS tropical trends (2005\u20132012), consistent with models and with rates of increase in tropospheric N2O. However, longer-term series from the more current MLS N2O standard product are affected by instrument-related drifts that have also impacted MLS H2O. The LS short-term trend profiles from MLS N2O and HNO3 at midlatitudes in the two hemispheres have different signs; these patterns are well matched by SD-WACCM trends for these species.\nThese model\u2013data comparisons provide a reminder that the QBO and other dynamical factors affect decadal variability in a major way, notably in the lower stratosphere, and can thus significantly hinder the goals of robustly extracting (and explaining) small underlying long-term trends. The data sets and tools discussed here for model evaluation could be expanded to comparisons of species or regions not included here, as well as to comparisons between a variety of chemistry\u2013climate models.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "19",
+            "issue": "7",
+            "pages": "4783-4821",
+            "date": "2019-04-10",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-19-4783-2019",
+            "ISSN": "1680-7324",
+            "shortTitle": "",
+            "url": "https://www.atmos-chem-phys.net/19/4783/2019/",
+            "accessDate": "2019-10-24T23:54:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: 0000010",
+            "tags": [
+                {
+                    "tag": "chemistry",
+                    "type": 1
+                },
+                {
+                    "tag": "interannual variability",
+                    "type": 1
+                },
+                {
+                    "tag": "layer",
+                    "type": 1
+                },
+                {
+                    "tag": "limb",
+                    "type": 1
+                },
+                {
+                    "tag": "model",
+                    "type": 1
+                },
+                {
+                    "tag": "ozone trends",
+                    "type": 1
+                },
+                {
+                    "tag": "reviewed:igerasim"
+                },
+                {
+                    "tag": "sage ii",
+                    "type": 1
+                },
+                {
+                    "tag": "solar proton events",
+                    "type": 1
+                },
+                {
+                    "tag": "source:scopus"
+                },
+                {
+                    "tag": "source:wos"
+                },
+                {
+                    "tag": "stratospheric water-vapor",
+                    "type": 1
+                },
+                {
+                    "tag": "tropical tropopause",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "TSXVF4P5",
+                "E2L2G468",
+                "Q8FUUTCA",
+                "Z93EVFE7",
+                "6F3YD9LV",
+                "CIQKAU2P",
+                "48XLCAWQ",
+                "QJR2GCH8",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/2395775/items/BHHS9JD7",
+                    "http://zotero.org/groups/2395775/items/4CUFE5NE",
+                    "http://zotero.org/groups/2395775/items/9RPXFID2",
+                    "http://zotero.org/groups/2395775/items/NQZEZGKV",
+                    "http://zotero.org/groups/2395775/items/4ZXISGFZ",
+                    "http://zotero.org/groups/2395775/items/TL9H96XG"
+                ]
+            },
+            "dateAdded": "2019-10-25T15:45:01Z",
+            "dateModified": "2020-07-05T00:07:54Z"
+        }
+    },
+    {
+        "key": "3WCNDG6E",
+        "version": 12049,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/3WCNDG6E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/3WCNDG6E",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Nakajima et al.",
+            "parsedDate": "2020-01-27",
+            "numChildren": 8
+        },
+        "data": {
+            "key": "3WCNDG6E",
+            "version": 12049,
+            "itemType": "journalArticle",
+            "title": "Chlorine partitioning near the polar vortex edge observed with ground-based FTIR and satellites at Syowa Station, Antarctica, in 2007 and 2011",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Hideaki",
+                    "lastName": "Nakajima"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Isao",
+                    "lastName": "Murata"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yoshihiro",
+                    "lastName": "Nagahama"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hideharu",
+                    "lastName": "Akiyoshi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kosuke",
+                    "lastName": "Saeki"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Takeshi",
+                    "lastName": "Kinase"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Masanori",
+                    "lastName": "Takeda"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yoshihiro",
+                    "lastName": "Tomikawa"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Eric",
+                    "lastName": "Dupuy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Nicholas B.",
+                    "lastName": "Jones"
+                }
+            ],
+            "abstractNote": "Abstract. We retrieved lower stratospheric vertical profiles of O3, HNO3, and HCl from solar spectra taken with a ground-based Fourier transform infrared spectrometer (FTIR) installed at Syowa Station, Antarctica (69.0\u2218\u2009S, 39.6\u2218\u2009E), from March to December\u00a02007 and September to November\u00a02011. This was the first continuous measurement of chlorine species throughout the ozone hole period from the ground in Antarctica. We analyzed temporal variation of these species combined with ClO, HCl, and HNO3 data taken with the Aura MLS (Microwave Limb Sounder) satellite sensor and ClONO2 data taken with the Envisat MIPAS (the Michelson Interferometer for Passive Atmospheric Sounding) satellite sensor at 18 and 22\u2009km over Syowa Station. An HCl and ClONO2 decrease occurred from the end of May at both 18 and 22\u2009km, and eventually, in early winter, both HCl and ClONO2 were almost depleted. When the sun returned to Antarctica in spring, enhancement of ClO and gradual O3 destruction were observed. During the ClO-enhanced period, a negative correlation between ClO and ClONO2 was observed in the time series of the data at Syowa Station. This negative correlation was associated with the relative distance between Syowa Station and the edge of the polar vortex. We used MIROC3.2 chemistry\u2013climate model (CCM) results to investigate the behavior of whole chlorine and related species inside the polar vortex and the boundary region in more detail. From CCM model results, the rapid conversion of chlorine reservoir species (HCl and ClONO2) into Cl2, gradual conversion of Cl2 into Cl2O2, increase in HOCl in the winter period, increase in ClO when sunlight became available, and conversion of ClO into HCl were successfully reproduced. The HCl decrease in the winter polar vortex core continued to occur due to both transport of ClONO2 from the subpolar region to higher latitudes, providing a flux of ClONO2 from more sunlit latitudes into the polar vortex, and the heterogeneous reaction of HCl with HOCl. The temporal variation of chlorine species over Syowa Station was affected by both heterogeneous chemistries related to polar stratospheric cloud (PSC) occurrence inside the polar vortex and transport of a NOx-rich air mass from the polar vortex boundary region, which can produce additional ClONO2 by reaction of ClO with NO2. The deactivation pathways from active chlorine into reservoir species (HCl and/or ClONO2) were confirmed to be highly dependent on the availability of ambient O3. At 18\u2009km, where most ozone was depleted, most ClO was converted to HCl. At 22\u2009km where some O3 was available, an additional increase in ClONO2 from the prewinter value occurred, similar to the Arctic.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "20",
+            "issue": "2",
+            "pages": "1043-1074",
+            "date": "2020-01-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-20-1043-2020",
+            "ISSN": "1680-7324",
+            "shortTitle": "",
+            "url": "https://www.atmos-chem-phys.net/20/1043/2020/",
+            "accessDate": "2020-02-22T13:40:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: NoCitationData[s0]",
+            "tags": [
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "E2L2G468",
+                "Q8FUUTCA",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2395775/items/ERX4QWWF"
+            },
+            "dateAdded": "2020-02-22T13:40:22Z",
+            "dateModified": "2020-07-04T23:02:39Z"
+        }
+    },
+    {
+        "key": "FMI9M272",
+        "version": 12049,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/FMI9M272",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/FMI9M272",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Livesey et al.",
+            "parsedDate": "2006-10-31",
+            "numChildren": 7
+        },
+        "data": {
+            "key": "FMI9M272",
+            "version": 12049,
+            "itemType": "journalArticle",
+            "title": "EOS Microwave Limb Sounder observations of upper stratospheric BrO: Implications for total bromine",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nathaniel J.",
+                    "lastName": "Livesey"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Laurie J.",
+                    "lastName": "Kovalenko"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ross J.",
+                    "lastName": "Salawitch"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ian A.",
+                    "lastName": "MacKenzie"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Martyn P.",
+                    "lastName": "Chipperfield"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "William G.",
+                    "lastName": "Read"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Robert F.",
+                    "lastName": "Jarnot"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Joe W.",
+                    "lastName": "Waters"
+                }
+            ],
+            "abstractNote": "This paper describes new total stratospheric inorganic bromine (Bry) abundance estimates inferred from the first global observations of upper stratospheric BrO, made by the EOS Microwave Limb Sounder on the Aura satellite. Our \u2018best estimate\u2019 of total upper stratospheric bromine loading (based on JPL\u20102002 kinetics with the addition of a BrONO2 + O reaction) is 18.6 \u00b1 5.5 pptv, for the period September 2004 to August 2005, from 55\u00b0 S to 55\u00b0 N. This implies a contribution of 3.0 \u00b1 5.5 pptv from sources other than long lived CH3Br and halons. The possibility of such other sources has been raised by balloon, aircraft and satellite observations of BrO in the lower and middle stratosphere. These upper stratospheric observations provide new information to help resolve the current uncertainty in stratospheric bromine loading. The abundance of bromine, particularly in the lower stratosphere, is a significant factor in the budget of stratospheric O3.",
+            "publicationTitle": "Geophysical Research Letters",
+            "volume": "33",
+            "issue": "20",
+            "pages": "L20817",
+            "date": "2006-10-31",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Geophys. Res. Lett.",
+            "language": "en",
+            "DOI": "10/cr7mpg",
+            "ISSN": "0094-8276",
+            "shortTitle": "EOS Microwave Limb Sounder observations of upper stratospheric BrO",
+            "url": "http://doi.wiley.com/10.1029/2006GL026930",
+            "accessDate": "2019-10-25T01:06:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: 0000016",
+            "tags": [
+                {
+                    "tag": "reviewed:igerasim"
+                }
+            ],
+            "collections": [
+                "J6IBQ424",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {},
+            "dateAdded": "2019-10-25T15:44:41Z",
+            "dateModified": "2020-07-04T23:02:25Z"
+        }
+    },
+    {
+        "key": "S92WKVRW",
+        "version": 12043,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/S92WKVRW",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/S92WKVRW",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Li et al.",
+            "parsedDate": "2017",
+            "numChildren": 5
+        },
+        "data": {
+            "key": "S92WKVRW",
+            "version": 12043,
+            "itemType": "journalArticle",
+            "title": "Resolving the Model-Observation Discrepancy in the Mesospheric and Stratospheric HOx Chemistry: Resolving the Discrepancy in HO <sub>x</sub>",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "King-Fai",
+                    "lastName": "Li"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Qiong",
+                    "lastName": "Zhang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Shuhui",
+                    "lastName": "Wang"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stanley P.",
+                    "lastName": "Sander"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Yuk L.",
+                    "lastName": "Yung"
+                }
+            ],
+            "abstractNote": "We examine the middle atmospheric odd\u2010hydrogen (HOx ) chemistry by comparing the Aura Microwave Limb Sounder (MLS) OH and HO2 measurements with a photochemical model simulation. The model underestimates mesospheric OH and HO2 concentrations if the standard chemical kinetic rates are used, whether the model H2O and O3 are constrained with observations or not. To resolve the discrepancies, we adjust the kinetic rate coefficients of three key reactions (O + OH \u2192 O2 + H, OH + HO2 \u2192 H2O + O2, and H + O2 + M \u2192 HO2 + M) and the O2 photo absorption cross section at Lyman \u03b1 (121.57 nm) using the Bayesian optimal estimation. A much better model\u2010observation agreement can be achieved if the kinetic rate coefficients for H + O2 + M \u2192 HO2 + M is increased by 134\u2013310%, and the O2 photo absorption cross section at Lyman \u03b1 is reduced by 33\u201354%, while the kinetic rate coefficients for O + OH \u2192 O2 + H and OH + HO2 \u2192 H2O + O2 remain consistent with the current laboratory values. The kinetic rate coefficient for H + O2 + M \u2192 HO2 + M requires a very large adjustment beyond the uncertainty limits recommended in the NASA Data Evaluation, suggesting the need for future laboratory measurements. An alternative explanation is that the radiative association reaction, H + O2 \u2192 HO2 + h \u03bd, plays a significant role, which has never been measured. Our results demonstrate that high\u2010quality satellite observations can be used to constrain photochemical parameters and help improve our understanding of atmospheric chemistry.",
+            "publicationTitle": "Earth and Space Science",
+            "volume": "4",
+            "issue": "9",
+            "pages": "607-624",
+            "date": "09/2017",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Earth and Space Science",
+            "language": "en",
+            "DOI": "10.1002/2017EA000283",
+            "ISSN": "23335084",
+            "shortTitle": "Resolving the Model-Observation Discrepancy in the Mesospheric and Stratospheric HO <sub> <i>x</i> </sub> Chemistry",
+            "url": "http://doi.wiley.com/10.1002/2017EA000283",
+            "accessDate": "2020-02-22T14:12:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "reviewed:jhatkins"
+                }
+            ],
+            "collections": [
+                "YJYI2RIH",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {},
+            "dateAdded": "2020-02-22T14:12:21Z",
+            "dateModified": "2020-07-04T20:12:23Z"
+        }
+    },
+    {
+        "key": "5YHDUBAK",
+        "version": 12042,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/5YHDUBAK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/5YHDUBAK",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Anderson et al.",
+            "parsedDate": "2017-06-20",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "5YHDUBAK",
+            "version": 12042,
+            "itemType": "journalArticle",
+            "title": "Stratospheric ozone over the United States in summer linked to observations of convection and temperature via chlorine and bromine catalysis",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "James G.",
+                    "lastName": "Anderson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Debra K.",
+                    "lastName": "Weisenstein"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kenneth P.",
+                    "lastName": "Bowman"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Cameron R.",
+                    "lastName": "Homeyer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jessica B.",
+                    "lastName": "Smith"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David M.",
+                    "lastName": "Wilmouth"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "David S.",
+                    "lastName": "Sayres"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J. Eric",
+                    "lastName": "Klobas"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Stephen S.",
+                    "lastName": "Leroy"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "John A.",
+                    "lastName": "Dykema"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Steven C.",
+                    "lastName": "Wofsy"
+                }
+            ],
+            "abstractNote": "We present observations defining the frequency and depth of convective penetration of water into the stratosphere over the United States in summer using the Next-Generation Radar system; the altitude-dependent distribution of inorganic chlorine established in the same coordinate system as the radar observations; the high resolution temperature structure in the stratosphere over the United States in summer that resolves spatial and structural variability, including the impact of gravity waves; and the resulting amplification in the catalytic loss rates of ozone for the dominant halogen, hydrogen, and nitrogen catalytic cycles. The weather radar observations of \u223c2,000 storms, on average, each summer that reach the altitude of rapidly increasing available inorganic chlorine, coupled with observed temperatures, portend a risk of initiating rapid heterogeneous catalytic conversion of inorganic chlorine to free radical form on ubiquitous sulfate\u2212water aerosols; this, in turn, engages the element of risk associated with ozone loss in the stratosphere over the central United States in summer based upon the same reaction network that reduces stratospheric ozone over the Arctic. The summertime development of the upper-level anticyclonic flow over the United States, driven by the North American Monsoon, provides a means of retaining convectively injected water, thereby extending the time for catalytic ozone loss over the Great Plains. Trusted decadal forecasts of UV dosage over the United States in summer require understanding the response of this dynamical and photochemical system to increased forcing of the climate by increasing levels of CO2 and CH4.",
+            "publicationTitle": "Proceedings of the National Academy of Sciences",
+            "volume": "114",
+            "issue": "25",
+            "pages": "E4905-E4913",
+            "date": "2017-06-20",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Proc Natl Acad Sci USA",
+            "language": "en",
+            "DOI": "10.1073/pnas.1619318114",
+            "ISSN": "0027-8424, 1091-6490",
+            "shortTitle": "",
+            "url": "http://www.pnas.org/lookup/doi/10.1073/pnas.1619318114",
+            "accessDate": "2020-02-22T13:40:21Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "ontology2"
+                }
+            ],
+            "collections": [
+                "E2L2G468",
+                "6F3YD9LV",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": "http://zotero.org/groups/2395775/items/N484DQQD"
+            },
+            "dateAdded": "2020-02-22T13:40:22Z",
+            "dateModified": "2020-07-04T20:09:57Z"
+        }
+    },
+    {
+        "key": "74E6Z8ZN",
+        "version": 12041,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/74E6Z8ZN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/74E6Z8ZN",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kulikov et al.",
+            "parsedDate": "2018-05-29",
+            "numChildren": 3
+        },
+        "data": {
+            "key": "74E6Z8ZN",
+            "version": 12041,
+            "itemType": "journalArticle",
+            "title": "Technical note: Evaluation of the simultaneous measurements of mesospheric OH, HO <sub>2</sub> , and O <sub>3</sub> under a photochemical equilibrium assumption \u2013 a statistical approach",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Mikhail Y.",
+                    "lastName": "Kulikov"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anton A.",
+                    "lastName": "Nechaev"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Mikhail V.",
+                    "lastName": "Belikovich"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Tatiana S.",
+                    "lastName": "Ermakova"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexander M.",
+                    "lastName": "Feigin"
+                }
+            ],
+            "abstractNote": "Abstract. This Technical Note presents a statistical approach to evaluating simultaneous measurements of several atmospheric components under the assumption of photochemical equilibrium. We consider simultaneous measurements of OH, HO2, and O3 at the altitudes of the mesosphere as a specific example and their daytime photochemical equilibrium as an evaluating relationship. A simplified algebraic equation relating local concentrations of these components in the 50\u2013100\u2009km altitude range has been derived. The parameters of the equation are temperature, neutral density, local zenith angle, and the rates of eight reactions. We have performed a one-year simulation of the mesosphere and lower thermosphere using a 3-D chemical-transport model. The simulation shows that the discrepancy between the calculated evolution of the components and the equilibrium value given by the equation does not exceed 3\u20134\u2009% in the full range of altitudes independent of season or latitude. We have developed a statistical Bayesian evaluation technique for simultaneous measurements of OH, HO2, and O3 based on the equilibrium equation taking into account the measurement error. The first results of the application of the technique to MLS/Aura data (Microwave Limb Sounder) are presented in this Technical Note. It has been found that the satellite data of the HO2 distribution regularly demonstrate lower altitudes of this component's mesospheric maximum.\nThis has also been confirmed by model HO2 distributions and comparison with offline retrieval of HO2 from\nthe daily zonal means MLS radiance.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "18",
+            "issue": "10",
+            "pages": "7453-7471",
+            "date": "2018-05-29",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-18-7453-2018",
+            "ISSN": "1680-7324",
+            "shortTitle": "Technical note",
+            "url": "https://www.atmos-chem-phys.net/18/7453/2018/",
+            "accessDate": "2020-02-22T14:00:45Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "algorithm   theoretical basis",
+                    "type": 1
+                },
+                {
+                    "tag": "atomic oxygen density",
+                    "type": 1
+                },
+                {
+                    "tag": "complicated dynamic-behavior",
+                    "type": 1
+                },
+                {
+                    "tag": "in-situ measurements",
+                    "type": 1
+                },
+                {
+                    "tag": "measurement uncertainty",
+                    "type": 1
+                },
+                {
+                    "tag": "mesopause   region",
+                    "type": 1
+                },
+                {
+                    "tag": "middle atmosphere",
+                    "type": 1
+                },
+                {
+                    "tag": "nitrogen-oxides",
+                    "type": 1
+                },
+                {
+                    "tag": "nonlinear nature",
+                    "type": 1
+                },
+                {
+                    "tag": "solar proton events",
+                    "type": 1
+                },
+                {
+                    "tag": "source:wos"
+                }
+            ],
+            "collections": [
+                "YJYI2RIH",
+                "6F3YD9LV",
+                "48XLCAWQ",
+                "QJR2GCH8",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/2395775/items/CF97L4FF",
+                    "http://zotero.org/groups/2395775/items/WPCAPRK3"
+                ]
+            },
+            "dateAdded": "2020-02-22T14:00:47Z",
+            "dateModified": "2020-07-04T20:09:03Z"
+        }
+    },
+    {
+        "key": "XNJGHGTQ",
+        "version": 12040,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/XNJGHGTQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/XNJGHGTQ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Johansson et al.",
+            "parsedDate": "2019-06-27",
+            "numChildren": 13
+        },
+        "data": {
+            "key": "XNJGHGTQ",
+            "version": 12040,
+            "itemType": "journalArticle",
+            "title": "Unusual chlorine partitioning in the 2015/16 Arctic winter lowermost stratosphere: observations and simulations",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "S\u00f6ren",
+                    "lastName": "Johansson"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michelle L.",
+                    "lastName": "Santee"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jens-Uwe",
+                    "lastName": "Groo\u00df"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Michael",
+                    "lastName": "H\u00f6pfner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Marleen",
+                    "lastName": "Braun"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Felix",
+                    "lastName": "Friedl-Vallon"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Farahnaz",
+                    "lastName": "Khosrawi"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Oliver",
+                    "lastName": "Kirner"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Erik",
+                    "lastName": "Kretschmer"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Hermann",
+                    "lastName": "Oelhaf"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Johannes",
+                    "lastName": "Orphal"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Bj\u00f6rn-Martin",
+                    "lastName": "Sinnhuber"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Ines",
+                    "lastName": "Tritscher"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "J\u00f6rn",
+                    "lastName": "Ungermann"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Kaley A.",
+                    "lastName": "Walker"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Wolfgang",
+                    "lastName": "Woiwode"
+                }
+            ],
+            "abstractNote": "Abstract. The Arctic winter 2015/16 was characterized by cold stratospheric temperatures. Here we present a comprehensive view of the temporal evolution of chlorine in the lowermost stratosphere over the course of the studied winter. We utilize two-dimensional vertical cross sections of ozone (O3) and chlorine nitrate (ClONO2), measured by the airborne limb imager GLORIA (Gimballed Limb Observer for Radiance Imaging of the Atmosphere) during the POLSTRACC/GW-LCYCLE\u00a0II/GWEX/SALSA campaigns, to investigate the tropopause region in detail. Observations from three long-distance flights in January, February, and March\u00a02016 are discussed. ClONO2 volume mixing ratios up to 1100\u2009pptv were measured at 380\u2009K potential temperature in mesoscale structures. Similar mesoscale structures are also visible in O3 measurements. Both trace gas measurements are applied to evaluate simulation results from the chemistry transport model CLaMS (Chemical Lagrangian Model of the Stratosphere) and the chemistry\u2013climate model EMAC (ECHAM5/MESSy Atmospheric Chemistry). These comparisons show agreement within the expected performance of these models.\nSatellite measurements from Aura/MLS (Microwave Limb Sounder) and SCISAT/ACE-FTS (Atmospheric Chemistry Experiment \u2013 Fourier Transform Spectrometer) provide an overview over the whole winter and information about the stratospheric situation above the flight altitude. Time series of these satellite measurements reveal unusually low hydrochloric acid (HCl) and ClONO2 at 380\u2009K from the beginning of January to the end of February\u00a02016, while chlorine monoxide (ClO) is strongly enhanced. In March\u00a02016, unusually rapid chlorine deactivation into HCl is observed instead of deactivation into ClONO2, the more typical pathway for deactivation in the Arctic. Chlorine deactivation observed in the satellite time series is well reproduced by CLaMS. Sensitivity simulations with CLaMS demonstrate the influence of low abundances of O3 and reactive nitrogen (NOy) due to ozone depletion and sedimentation of NOy-containing particles, respectively. On the basis of the different altitude and time ranges of these effects, we conclude that the substantial chlorine deactivation into HCl at 380\u2009K arose as a result of very low ozone abundances together with low temperatures. Additionally, CLaMS estimates ozone depletion of at least 0.4\u2009ppmv at 380\u2009K and 1.75\u2009ppmv at 490\u2009K, which is comparable to other extremely cold Arctic winters. We have used CLaMS trajectories to analyze the history of enhanced ClONO2 measured by GLORIA. In February, most of the enhanced ClONO2 is traced back to chlorine deactivation that had occurred within the past few days prior to the GLORIA measurement. In March, after the final warming, air masses in which chlorine has previously been deactivated into ClONO2 have been transported in the remnants of the polar vortex towards the location of measurement for at least\u00a011\u2009d.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "19",
+            "issue": "12",
+            "pages": "8311-8338",
+            "date": "2019-06-27",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-19-8311-2019",
+            "ISSN": "1680-7324",
+            "shortTitle": "Unusual chlorine partitioning in the 2015/16 Arctic winter lowermost stratosphere",
+            "url": "https://www.atmos-chem-phys.net/19/8311/2019/",
+            "accessDate": "2020-02-22T13:29:20Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: 0000004",
+            "tags": [
+                {
+                    "tag": "chemistry",
+                    "type": 1
+                },
+                {
+                    "tag": "climate",
+                    "type": 1
+                },
+                {
+                    "tag": "clono2",
+                    "type": 1
+                },
+                {
+                    "tag": "denitrification",
+                    "type": 1
+                },
+                {
+                    "tag": "hcl",
+                    "type": 1
+                },
+                {
+                    "tag": "hno3",
+                    "type": 1
+                },
+                {
+                    "tag": "microwave limb sounder",
+                    "type": 1
+                },
+                {
+                    "tag": "mipas-b",
+                    "type": 1
+                },
+                {
+                    "tag": "ozone loss",
+                    "type": 1
+                },
+                {
+                    "tag": "reviewed:igerasim"
+                },
+                {
+                    "tag": "source:scopus"
+                },
+                {
+                    "tag": "source:wos"
+                },
+                {
+                    "tag": "validation",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "8Q78NPPR",
+                "E2L2G468",
+                "Q8FUUTCA",
+                "QHCEFQD9",
+                "6F3YD9LV",
+                "CIQKAU2P",
+                "48XLCAWQ",
+                "QJR2GCH8",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/2395775/items/2S7S35AS",
+                    "http://zotero.org/groups/2395775/items/T8JHKDQ7",
+                    "http://zotero.org/groups/2395775/items/24EZ6VJ4",
+                    "http://zotero.org/groups/2395775/items/AL8VW9Q9",
+                    "http://zotero.org/groups/2395775/items/V98WY4JK",
+                    "http://zotero.org/groups/2395775/items/T2SVKZC8"
+                ]
+            },
+            "dateAdded": "2020-02-22T13:29:20Z",
+            "dateModified": "2020-07-04T20:08:10Z"
+        }
+    },
+    {
+        "key": "665IQ2PK",
+        "version": 12039,
+        "library": {
+            "type": "group",
+            "id": 2395775,
+            "name": "GES DISC",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/ges_disc",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/2395775/items/665IQ2PK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/ges_disc/items/665IQ2PK",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 6097628,
+                "username": "igerasim",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/igerasim",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Stolarski et al.",
+            "parsedDate": "2018-04-24",
+            "numChildren": 3
+        },
+        "data": {
+            "key": "665IQ2PK",
+            "version": 12039,
+            "itemType": "journalArticle",
+            "title": "Using satellite measurements of N <sub>2</sub> O to remove dynamical variability from HCl measurements",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Richard S.",
+                    "lastName": "Stolarski"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Anne R.",
+                    "lastName": "Douglass"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Susan E.",
+                    "lastName": "Strahan"
+                }
+            ],
+            "abstractNote": "Abstract. Column HCl measurements show deviations from the expected slow decline following the regulation of chlorine-containing compounds by the Montreal Protocol. We use the simultaneous measurements of N2O and HCl by the Microwave Limb Sounder\u00a0(MLS) instrument on the Aura satellite to examine this problem. We find that the use of N2O measurements at a specific altitude to represent the impact of dynamical variability on HCl results in a derived linear trend in HCl that is negative (ranging from \u22122.5 to 5.3\u2009%\u2009decade\u22121) at all altitudes between 68 and 10\u2009hPa. These trends are at or near 2\u03c3 statistical significance at all pressure levels between 68 and 10\u2009hPa. This shows that analysis of simultaneous measurements of several constituents is a useful approach to identify small trends from data records that are strongly influenced by dynamical interannual variability.",
+            "publicationTitle": "Atmospheric Chemistry and Physics",
+            "volume": "18",
+            "issue": "8",
+            "pages": "5691-5697",
+            "date": "2018-04-24",
+            "series": "",
+            "seriesTitle": "",
+            "seriesText": "",
+            "journalAbbreviation": "Atmos. Chem. Phys.",
+            "language": "en",
+            "DOI": "10.5194/acp-18-5691-2018",
+            "ISSN": "1680-7324",
+            "shortTitle": "",
+            "url": "https://www.atmos-chem-phys.net/18/5691/2018/",
+            "accessDate": "2020-02-22T13:57:32Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "DOI.org (Crossref)",
+            "callNumber": "",
+            "rights": "",
+            "extra": "ZSCC: NoCitationData[s0]",
+            "tags": [
+                {
+                    "tag": "chlorine",
+                    "type": 1
+                },
+                {
+                    "tag": "limb",
+                    "type": 1
+                },
+                {
+                    "tag": "source:scopus"
+                },
+                {
+                    "tag": "source:wos"
+                },
+                {
+                    "tag": "trends",
+                    "type": 1
+                }
+            ],
+            "collections": [
+                "Z93EVFE7",
+                "CIQKAU2P",
+                "48XLCAWQ",
+                "QJR2GCH8",
+                "F3P68PWK",
+                "CAM8AXXZ"
+            ],
+            "relations": {
+                "dc:replaces": [
+                    "http://zotero.org/groups/2395775/items/J2H5XLM4",
+                    "http://zotero.org/groups/2395775/items/QEFY2WEV"
+                ]
+            },
+            "dateAdded": "2020-02-22T13:57:32Z",
+            "dateModified": "2020-07-04T20:07:41Z"
+        }
+    },
+    {
         "key": "NIGNE4MX",
         "version": 11811,
         "library": {
@@ -519,115 +2007,6 @@
             "relations": {},
             "dateAdded": "2020-02-22T14:00:47Z",
             "dateModified": "2020-07-01T01:46:20Z"
-        }
-    },
-    {
-        "key": "S92WKVRW",
-        "version": 11806,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/S92WKVRW",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/S92WKVRW",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Li et al.",
-            "parsedDate": "2017",
-            "numChildren": 5
-        },
-        "data": {
-            "key": "S92WKVRW",
-            "version": 11806,
-            "itemType": "journalArticle",
-            "title": "Resolving the Model-Observation Discrepancy in the Mesospheric and Stratospheric HO <sub> <i>x</i> </sub> Chemistry: Resolving the Discrepancy in HO <sub> <i>x</i> </sub>",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "King-Fai",
-                    "lastName": "Li"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Qiong",
-                    "lastName": "Zhang"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Shuhui",
-                    "lastName": "Wang"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Stanley P.",
-                    "lastName": "Sander"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Yuk L.",
-                    "lastName": "Yung"
-                }
-            ],
-            "abstractNote": "We examine the middle atmospheric odd\u2010hydrogen (HOx ) chemistry by comparing the Aura Microwave Limb Sounder (MLS) OH and HO2 measurements with a photochemical model simulation. The model underestimates mesospheric OH and HO2 concentrations if the standard chemical kinetic rates are used, whether the model H2O and O3 are constrained with observations or not. To resolve the discrepancies, we adjust the kinetic rate coefficients of three key reactions (O + OH \u2192 O2 + H, OH + HO2 \u2192 H2O + O2, and H + O2 + M \u2192 HO2 + M) and the O2 photo absorption cross section at Lyman \u03b1 (121.57 nm) using the Bayesian optimal estimation. A much better model\u2010observation agreement can be achieved if the kinetic rate coefficients for H + O2 + M \u2192 HO2 + M is increased by 134\u2013310%, and the O2 photo absorption cross section at Lyman \u03b1 is reduced by 33\u201354%, while the kinetic rate coefficients for O + OH \u2192 O2 + H and OH + HO2 \u2192 H2O + O2 remain consistent with the current laboratory values. The kinetic rate coefficient for H + O2 + M \u2192 HO2 + M requires a very large adjustment beyond the uncertainty limits recommended in the NASA Data Evaluation, suggesting the need for future laboratory measurements. An alternative explanation is that the radiative association reaction, H + O2 \u2192 HO2 + h \u03bd, plays a significant role, which has never been measured. Our results demonstrate that high\u2010quality satellite observations can be used to constrain photochemical parameters and help improve our understanding of atmospheric chemistry.",
-            "publicationTitle": "Earth and Space Science",
-            "volume": "4",
-            "issue": "9",
-            "pages": "607-624",
-            "date": "09/2017",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Earth and Space Science",
-            "language": "en",
-            "DOI": "10.1002/2017EA000283",
-            "ISSN": "23335084",
-            "shortTitle": "Resolving the Model-Observation Discrepancy in the Mesospheric and Stratospheric HO <sub> <i>x</i> </sub> Chemistry",
-            "url": "http://doi.wiley.com/10.1002/2017EA000283",
-            "accessDate": "2020-02-22T14:12:20Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "reviewed:jhatkins"
-                }
-            ],
-            "collections": [
-                "YJYI2RIH",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {},
-            "dateAdded": "2020-02-22T14:12:21Z",
-            "dateModified": "2020-07-01T01:45:44Z"
         }
     },
     {
@@ -2422,159 +3801,6 @@
         }
     },
     {
-        "key": "5YHDUBAK",
-        "version": 11013,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/5YHDUBAK",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/5YHDUBAK",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Anderson et al.",
-            "parsedDate": "2017-06-20",
-            "numChildren": 2
-        },
-        "data": {
-            "key": "5YHDUBAK",
-            "version": 11013,
-            "itemType": "journalArticle",
-            "title": "Stratospheric ozone over the United States in summer linked to observations of convection and temperature via chlorine and bromine catalysis",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "James G.",
-                    "lastName": "Anderson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Debra K.",
-                    "lastName": "Weisenstein"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kenneth P.",
-                    "lastName": "Bowman"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Cameron R.",
-                    "lastName": "Homeyer"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Jessica B.",
-                    "lastName": "Smith"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "David M.",
-                    "lastName": "Wilmouth"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "David S.",
-                    "lastName": "Sayres"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J. Eric",
-                    "lastName": "Klobas"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Stephen S.",
-                    "lastName": "Leroy"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "John A.",
-                    "lastName": "Dykema"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Steven C.",
-                    "lastName": "Wofsy"
-                }
-            ],
-            "abstractNote": "We present observations defining (\n              i\n              ) the frequency and depth of convective penetration of water into the stratosphere over the United States in summer using the Next-Generation Radar system; (\n              ii\n              ) the altitude-dependent distribution of inorganic chlorine established in the same coordinate system as the radar observations; (\n              iii\n              ) the high resolution temperature structure in the stratosphere over the United States in summer that resolves spatial and structural variability, including the impact of gravity waves; and (\n              iv\n              ) the resulting amplification in the catalytic loss rates of ozone for the dominant halogen, hydrogen, and nitrogen catalytic cycles. The weather radar observations of \u223c2,000 storms, on average, each summer that reach the altitude of rapidly increasing available inorganic chlorine, coupled with observed temperatures, portend a risk of initiating rapid heterogeneous catalytic conversion of inorganic chlorine to free radical form on ubiquitous sulfate\u2212water aerosols; this, in turn, engages the element of risk associated with ozone loss in the stratosphere over the central United States in summer based upon the same reaction network that reduces stratospheric ozone over the Arctic. The summertime development of the upper-level anticyclonic flow over the United States, driven by the North American Monsoon, provides a means of retaining convectively injected water, thereby extending the time for catalytic ozone loss over the Great Plains. Trusted decadal forecasts of UV dosage over the United States in summer require understanding the response of this dynamical and photochemical system to increased forcing of the climate by increasing levels of CO\n              2\n              and CH\n              4\n              .",
-            "publicationTitle": "Proceedings of the National Academy of Sciences",
-            "volume": "114",
-            "issue": "25",
-            "pages": "E4905-E4913",
-            "date": "2017-06-20",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Proc Natl Acad Sci USA",
-            "language": "en",
-            "DOI": "10.1073/pnas.1619318114",
-            "ISSN": "0027-8424, 1091-6490",
-            "shortTitle": "",
-            "url": "http://www.pnas.org/lookup/doi/10.1073/pnas.1619318114",
-            "accessDate": "2020-02-22T13:40:21Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "ontology2"
-                }
-            ],
-            "collections": [
-                "E2L2G468",
-                "6F3YD9LV",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/2395775/items/N484DQQD"
-            },
-            "dateAdded": "2020-02-22T13:40:22Z",
-            "dateModified": "2020-06-16T01:53:44Z"
-        }
-    },
-    {
         "key": "KK2IYBSY",
         "version": 11013,
         "library": {
@@ -3523,624 +4749,6 @@
         }
     },
     {
-        "key": "FMI9M272",
-        "version": 11016,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/FMI9M272",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/FMI9M272",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Livesey et al.",
-            "parsedDate": "2006-10-31",
-            "numChildren": 7
-        },
-        "data": {
-            "key": "FMI9M272",
-            "version": 11016,
-            "itemType": "journalArticle",
-            "title": "EOS Microwave Limb Sounder observations of upper stratospheric BrO: Implications for total bromine",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Nathaniel J.",
-                    "lastName": "Livesey"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Laurie J.",
-                    "lastName": "Kovalenko"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Ross J.",
-                    "lastName": "Salawitch"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Ian A.",
-                    "lastName": "MacKenzie"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Martyn P.",
-                    "lastName": "Chipperfield"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "William G.",
-                    "lastName": "Read"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Robert F.",
-                    "lastName": "Jarnot"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Joe W.",
-                    "lastName": "Waters"
-                }
-            ],
-            "abstractNote": "This paper describes new total stratospheric inorganic\nbromine (Br y ) abundance estimates inferred from the first\nglobal observations of upper stratospheric BrO, made by the\nEOS Microwave Limb Sounder on the Aura satellite. Our\n\u2018best estimate\u2019 of total upper stratospheric bromine loading\n(based on JPL-2002 kinetics with the addition of a BrONO 2 +\nO reaction) is 18.6 \u00b1 5.5 pptv, for the period September\n2004 to August 2005, from 55\u00b0 S to 55\u00b0 N. This implies a\ncontribution of 3.0 \u00b1 5.5 pptv from sources other than long\nlived CH 3 Br and halons. The possibility of such other\nsources has been raised by balloon, aircraft and satellite\nobservations of BrO in the lower and middle stratosphere.\nThese upper stratospheric observations provide new\ninformation to help resolve the current uncertainty in\nstratospheric bromine loading. The abundance of bromine,\nparticularly in the lower stratosphere, is a significant factor\nin the budget of stratospheric O 3 .",
-            "publicationTitle": "Geophysical Research Letters",
-            "volume": "33",
-            "issue": "20",
-            "pages": "L20817",
-            "date": "2006-10-31",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Geophys. Res. Lett.",
-            "language": "en",
-            "DOI": "10/cr7mpg",
-            "ISSN": "0094-8276",
-            "shortTitle": "EOS Microwave Limb Sounder observations of upper stratospheric BrO",
-            "url": "http://doi.wiley.com/10.1029/2006GL026930",
-            "accessDate": "2019-10-25T01:06:05Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: 0000016",
-            "tags": [
-                {
-                    "tag": "reviewed:igerasim"
-                }
-            ],
-            "collections": [
-                "J6IBQ424",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {},
-            "dateAdded": "2019-10-25T15:44:41Z",
-            "dateModified": "2020-05-26T13:59:28Z"
-        }
-    },
-    {
-        "key": "E3J8WWZT",
-        "version": 11016,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/E3J8WWZT",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/E3J8WWZT",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Froidevaux et al.",
-            "parsedDate": "2019-04-10",
-            "numChildren": 18
-        },
-        "data": {
-            "key": "E3J8WWZT",
-            "version": 11016,
-            "itemType": "journalArticle",
-            "title": "Evaluation of CESM1 (WACCM) free-running and specified dynamics atmospheric composition simulations using global multispecies satellite data records",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Lucien",
-                    "lastName": "Froidevaux"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Douglas E.",
-                    "lastName": "Kinnison"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Ray",
-                    "lastName": "Wang"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "John",
-                    "lastName": "Anderson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Ryan A.",
-                    "lastName": "Fuller"
-                }
-            ],
-            "abstractNote": "Abstract. We have analyzed near-global stratospheric data (and mesospheric data as well\nfor H2O) in terms of absolute abundances, variability, and trends for\nO3, H2O, HCl, N2O, and HNO3, based on Aura\nMicrowave Limb Sounder (MLS) data, as well as longer-term series from the\nGlobal OZone Chemistry And Related trace gas Data records for the\nStratosphere (GOZCARDS). While we emphasize the evaluation of stratospheric\nmodels via data comparisons through 2014 to free-running (FR-WACCM) and\nspecified dynamics (SD-WACCM) versions of the Community Earth System Model\nversion 1 (CESM1) Whole Atmosphere Community Climate Model (WACCM), we also\nhighlight observed stratospheric changes, using the most recent data from\nMLS. Regarding highlights from the satellite data, we have used multiple linear\nregression to derive trends based on zonal mean time series from Aura MLS\ndata alone, between 60\u2218\u2009S and 60\u2218\u2009N. In the upper\nstratosphere, MLS O3 shows increases over 2005\u20132018 at \u223c0.1\u20130.3\u2009%\u2009yr\u22121 (depending on altitude and latitude) with 2\u03c3 errors of\n\u223c0.2\u2009%\u2009yr\u22121. For the lower stratosphere (LS), GOZCARDS O3\ndata for 1998\u20132014 point to small decreases between 60\u2218\u2009S and\n60\u2218\u2009N, but the trends are more positive if the starting year is\n2005. Southern midlatitudes (30\u201360\u2218\u2009S) exhibit\nnear-zero or slightly positive LS trends for 1998\u20132018. The LS O3 trends\nbased on 2005\u20132018 MLS data are most positive (0.1\u20130.2\u2009%\u2009yr\u22121) at these\nsouthern midlatitudes, although marginally statistically significant, in\ncontrast to slightly negative or near-zero trends for 2005\u20132014. Given the high\nvariability in LS O3, and the high sensitivity of trends to the choice\nof years used, especially for short periods, further studies are required for\na robust longer-term LS trend result. For H2O, upper-stratospheric\nand mesospheric trends from GOZCARDS 1992\u20132010 data are near zero (within\n\u223c0.2\u2009%\u2009yr\u22121) and significantly smaller than trends (within\n\u223c0.4\u20130.7\u2009%\u2009yr\u22121) from MLS for 2005\u20132014 or 2005\u20132018. The\nlatter short-term positive H2O trends are larger than expected from\nchanges resulting from long-term increases in methane. We note that the very\nshallow solar flux maximum of solar cycle 24 has contributed to fairly large\nshort-term mesospheric and upper-stratospheric H2O trends since 2005.\nHowever, given known drifts in the MLS H2O time series, MLS\nH2O trend results, especially after 2010, should be viewed as upper\nlimits. The MLS data also show regions and periods of small HCl increases in\nthe lower stratosphere, within the context of the longer-term stratospheric\ndecrease in HCl, as well as interhemispheric\u2013latitudinal differences in\nshort-term HCl tendencies. We observe similarities in such short-term\ntendencies, and interhemispheric asymmetries therein, for lower-stratospheric\nHCl and HNO3, while N2O trend profiles exhibit anti-correlated\npatterns. In terms of the model evaluation, climatological averages for 2005\u20132014 from\nboth FR-WACCM and SD-WACCM for O3, H2O, HCl, N2O, and\nHNO3 compare favorably with Aura MLS data averages over this period.\nHowever, the models at mid- to high latitudes overestimate mean MLS LS\nO3 values and seasonal amplitudes by as much as 50\u2009%\u201360\u2009%;\nsuch differences appear to implicate, in part, a transport-related model\nissue. At lower-stratospheric high southern latitudes, variations in polar\nwinter and spring composition observed by MLS are well matched by SD-WACCM, with the main\nexception being for the early winter rate of decrease in HCl, which is too\nslow in the model. In general, we find that the latitude\u2013pressure\ndistributions of annual and semiannual oscillation amplitudes derived from\nMLS data are properly captured by the model amplitudes. In terms of closeness\nof fit diagnostics for model\u2013data anomaly series, not surprisingly, SD-WACCM\n(driven by realistic dynamics) generally matches the observations better than\nFR-WACCM does. We also use root mean square variability as a more valuable\nmetric to evaluate model\u2013data differences. We find, most notably, that\nFR-WACCM underestimates observed interannual variability for H2O;\nthis has implications for the time period needed to detect small trends,\nbased on model predictions. The WACCM O3 trends generally agree (within 2\u03c3 uncertainties)\nwith the MLS data trends, although LS trends are typically not statistically\ndifferent from zero. The MLS O3 trend dependence on latitude and\npressure is matched quite well by the SD-WACCM results. For H2O, MLS\nand SD-WACCM positive trends agree fairly well, but FR-WACCM shows\nsignificantly smaller increases; this discrepancy for FR-WACCM is even more\npronounced for longer-term GOZCARDS H2O records. The larger\ndiscrepancies for FR-WACCM likely arise from its poorer correlations with\ncold point temperatures and with quasi-biennial oscillation (QBO) variability. For HCl, while some\nexpected decreases in the global LS are seen in the observations, there are\ninterhemispheric differences in the trends, and increasing tendencies are\nsuggested in tropical MLS data at 68\u2009hPa, where there is only a slight\npositive trend in SD-WACCM. Although the vertical gradients in MLS HCl trends\nare well duplicated by SD-WACCM, the model trends are always somewhat more\nnegative; this deserves further investigation. The original MLS N2O\nproduct time series yield small positive LS tropical trends (2005\u20132012),\nconsistent with models and with rates of increase in tropospheric N2O.\nHowever, longer-term series from the more current MLS N2O standard\nproduct are affected by instrument-related drifts that have also impacted MLS\nH2O. The LS short-term trend profiles from MLS N2O and\nHNO3 at midlatitudes in the two hemispheres have different signs;\nthese patterns are well matched by SD-WACCM trends for these species. These model\u2013data comparisons provide a reminder that the QBO and other\ndynamical factors affect decadal variability in a major way, notably in the\nlower stratosphere, and can thus significantly hinder the goals of robustly\nextracting (and explaining) small underlying long-term trends. The data sets\nand tools discussed here for model evaluation could be expanded to\ncomparisons of species or regions not included here, as well as to\ncomparisons between a variety of chemistry\u2013climate models.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "19",
-            "issue": "7",
-            "pages": "4783-4821",
-            "date": "2019-04-10",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-19-4783-2019",
-            "ISSN": "1680-7324",
-            "shortTitle": "",
-            "url": "https://www.atmos-chem-phys.net/19/4783/2019/",
-            "accessDate": "2019-10-24T23:54:09Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: 0000010",
-            "tags": [
-                {
-                    "tag": "chemistry",
-                    "type": 1
-                },
-                {
-                    "tag": "interannual variability",
-                    "type": 1
-                },
-                {
-                    "tag": "layer",
-                    "type": 1
-                },
-                {
-                    "tag": "limb",
-                    "type": 1
-                },
-                {
-                    "tag": "model",
-                    "type": 1
-                },
-                {
-                    "tag": "ozone trends",
-                    "type": 1
-                },
-                {
-                    "tag": "reviewed:igerasim"
-                },
-                {
-                    "tag": "sage ii",
-                    "type": 1
-                },
-                {
-                    "tag": "solar proton events",
-                    "type": 1
-                },
-                {
-                    "tag": "source:scopus"
-                },
-                {
-                    "tag": "source:wos"
-                },
-                {
-                    "tag": "stratospheric water-vapor",
-                    "type": 1
-                },
-                {
-                    "tag": "tropical tropopause",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "TSXVF4P5",
-                "E2L2G468",
-                "Q8FUUTCA",
-                "Z93EVFE7",
-                "6F3YD9LV",
-                "CIQKAU2P",
-                "48XLCAWQ",
-                "QJR2GCH8",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/2395775/items/BHHS9JD7",
-                    "http://zotero.org/groups/2395775/items/4CUFE5NE",
-                    "http://zotero.org/groups/2395775/items/9RPXFID2",
-                    "http://zotero.org/groups/2395775/items/NQZEZGKV",
-                    "http://zotero.org/groups/2395775/items/4ZXISGFZ",
-                    "http://zotero.org/groups/2395775/items/TL9H96XG"
-                ]
-            },
-            "dateAdded": "2019-10-25T15:45:01Z",
-            "dateModified": "2020-04-09T12:39:20Z"
-        }
-    },
-    {
-        "key": "74E6Z8ZN",
-        "version": 11019,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/74E6Z8ZN",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/74E6Z8ZN",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Kulikov et al.",
-            "parsedDate": "2018-05-29",
-            "numChildren": 3
-        },
-        "data": {
-            "key": "74E6Z8ZN",
-            "version": 11019,
-            "itemType": "journalArticle",
-            "title": "Technical note: Evaluation of the simultaneous measurements of mesospheric OH, HO <sub>2</sub> , and O <sub>3</sub> under a photochemical equilibrium assumption \u2013 a statistical approach",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Mikhail Y.",
-                    "lastName": "Kulikov"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Anton A.",
-                    "lastName": "Nechaev"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Mikhail V.",
-                    "lastName": "Belikovich"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Tatiana S.",
-                    "lastName": "Ermakova"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Alexander M.",
-                    "lastName": "Feigin"
-                }
-            ],
-            "abstractNote": "Abstract. This Technical Note presents a statistical approach to evaluating simultaneous\nmeasurements of several atmospheric components under the assumption of\nphotochemical equilibrium. We consider simultaneous measurements of OH,\nHO2, and O3 at the altitudes of the mesosphere as a specific\nexample and their daytime photochemical equilibrium as an evaluating\nrelationship. A simplified algebraic equation relating local concentrations\nof these components in the 50\u2013100\u2009km altitude range has been derived. The\nparameters of the equation are temperature, neutral density, local zenith\nangle, and the rates of eight reactions. We have performed a one-year simulation\nof the mesosphere and lower thermosphere using a 3-D chemical-transport model.\nThe simulation shows that the discrepancy between the calculated evolution of\nthe components and the equilibrium value given by the equation does not\nexceed 3\u20134\u2009% in the full range of altitudes independent of season or\nlatitude. We have developed a statistical Bayesian evaluation technique for\nsimultaneous measurements of OH, HO2, and O3 based on the\nequilibrium equation taking into account the measurement\nerror.\nThe first results of the application of the technique to\nMLS/Aura data (Microwave Limb Sounder) are presented in\nthis Technical Note. It has been found that the satellite data of the HO2\ndistribution regularly demonstrate lower altitudes of this\ncomponent's mesospheric maximum.\nThis has also been confirmed by model\nHO2 distributions and comparison with offline retrieval of HO2 from\nthe daily zonal means MLS radiance.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "18",
-            "issue": "10",
-            "pages": "7453-7471",
-            "date": "2018-05-29",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-18-7453-2018",
-            "ISSN": "1680-7324",
-            "shortTitle": "Technical note",
-            "url": "https://www.atmos-chem-phys.net/18/7453/2018/",
-            "accessDate": "2020-02-22T14:00:45Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "algorithm   theoretical basis",
-                    "type": 1
-                },
-                {
-                    "tag": "atomic oxygen density",
-                    "type": 1
-                },
-                {
-                    "tag": "complicated dynamic-behavior",
-                    "type": 1
-                },
-                {
-                    "tag": "in-situ measurements",
-                    "type": 1
-                },
-                {
-                    "tag": "measurement uncertainty",
-                    "type": 1
-                },
-                {
-                    "tag": "mesopause   region",
-                    "type": 1
-                },
-                {
-                    "tag": "middle atmosphere",
-                    "type": 1
-                },
-                {
-                    "tag": "nitrogen-oxides",
-                    "type": 1
-                },
-                {
-                    "tag": "nonlinear nature",
-                    "type": 1
-                },
-                {
-                    "tag": "solar proton events",
-                    "type": 1
-                },
-                {
-                    "tag": "source:wos"
-                }
-            ],
-            "collections": [
-                "YJYI2RIH",
-                "6F3YD9LV",
-                "48XLCAWQ",
-                "QJR2GCH8",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/2395775/items/CF97L4FF",
-                    "http://zotero.org/groups/2395775/items/WPCAPRK3"
-                ]
-            },
-            "dateAdded": "2020-02-22T14:00:47Z",
-            "dateModified": "2020-04-08T21:18:45Z"
-        }
-    },
-    {
-        "key": "665IQ2PK",
-        "version": 11018,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/665IQ2PK",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/665IQ2PK",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Stolarski et al.",
-            "parsedDate": "2018-04-24",
-            "numChildren": 3
-        },
-        "data": {
-            "key": "665IQ2PK",
-            "version": 11018,
-            "itemType": "journalArticle",
-            "title": "Using satellite measurements of N <sub>2</sub> O to remove dynamical variability from HCl measurements",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Richard S.",
-                    "lastName": "Stolarski"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Anne R.",
-                    "lastName": "Douglass"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Susan E.",
-                    "lastName": "Strahan"
-                }
-            ],
-            "abstractNote": "Abstract. Column HCl measurements show deviations from the expected slow decline\nfollowing the regulation of chlorine-containing compounds by the Montreal\nProtocol. We use the simultaneous measurements of N2O and HCl by the Microwave Limb Sounder\u00a0(MLS)\ninstrument on the Aura satellite to examine this problem. We find that the\nuse of N2O measurements at a specific altitude to represent the impact\nof dynamical variability on HCl results in a derived linear trend in HCl that\nis negative (ranging from \u22122.5 to 5.3\u2009%\u2009decade\u22121) at all\naltitudes between 68 and 10\u2009hPa. These trends are at or near 2\u03c3\nstatistical significance at all pressure levels between 68 and 10\u2009hPa. This\nshows that analysis of simultaneous measurements of several constituents is a\nuseful approach to identify small trends from data records that are strongly\ninfluenced by dynamical interannual variability.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "18",
-            "issue": "8",
-            "pages": "5691-5697",
-            "date": "2018-04-24",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-18-5691-2018",
-            "ISSN": "1680-7324",
-            "shortTitle": "",
-            "url": "https://www.atmos-chem-phys.net/18/5691/2018/",
-            "accessDate": "2020-02-22T13:57:32Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: NoCitationData[s0]",
-            "tags": [
-                {
-                    "tag": "chlorine",
-                    "type": 1
-                },
-                {
-                    "tag": "limb",
-                    "type": 1
-                },
-                {
-                    "tag": "source:scopus"
-                },
-                {
-                    "tag": "source:wos"
-                },
-                {
-                    "tag": "trends",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "Z93EVFE7",
-                "CIQKAU2P",
-                "48XLCAWQ",
-                "QJR2GCH8",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/2395775/items/J2H5XLM4",
-                    "http://zotero.org/groups/2395775/items/QEFY2WEV"
-                ]
-            },
-            "dateAdded": "2020-02-22T13:57:32Z",
-            "dateModified": "2020-04-08T21:15:42Z"
-        }
-    },
-    {
         "key": "5X46TVX3",
         "version": 11015,
         "library": {
@@ -4304,243 +4912,6 @@
             },
             "dateAdded": "2020-02-22T13:29:20Z",
             "dateModified": "2020-04-08T21:00:27Z"
-        }
-    },
-    {
-        "key": "XNJGHGTQ",
-        "version": 11015,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/XNJGHGTQ",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/XNJGHGTQ",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Johansson et al.",
-            "parsedDate": "2019-06-27",
-            "numChildren": 13
-        },
-        "data": {
-            "key": "XNJGHGTQ",
-            "version": 11015,
-            "itemType": "journalArticle",
-            "title": "Unusual chlorine partitioning in the 2015/16 Arctic winter lowermost stratosphere: observations and simulations",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "S\u00f6ren",
-                    "lastName": "Johansson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Michelle L.",
-                    "lastName": "Santee"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Jens-Uwe",
-                    "lastName": "Groo\u00df"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Michael",
-                    "lastName": "H\u00f6pfner"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Marleen",
-                    "lastName": "Braun"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Felix",
-                    "lastName": "Friedl-Vallon"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Farahnaz",
-                    "lastName": "Khosrawi"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Oliver",
-                    "lastName": "Kirner"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Erik",
-                    "lastName": "Kretschmer"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Hermann",
-                    "lastName": "Oelhaf"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Johannes",
-                    "lastName": "Orphal"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Bj\u00f6rn-Martin",
-                    "lastName": "Sinnhuber"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Ines",
-                    "lastName": "Tritscher"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J\u00f6rn",
-                    "lastName": "Ungermann"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kaley A.",
-                    "lastName": "Walker"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Wolfgang",
-                    "lastName": "Woiwode"
-                }
-            ],
-            "abstractNote": "Abstract. The Arctic winter 2015/16 was characterized by cold stratospheric temperatures. Here we present a comprehensive view of the temporal evolution of chlorine in the lowermost stratosphere over the course of the studied winter. We utilize two-dimensional vertical cross sections of ozone (O3) and chlorine nitrate (ClONO2), measured by the airborne limb imager GLORIA (Gimballed Limb Observer for Radiance Imaging of the Atmosphere) during the POLSTRACC/GW-LCYCLE\u00a0II/GWEX/SALSA campaigns, to investigate the tropopause region in detail. Observations from three long-distance flights in January, February, and March\u00a02016 are discussed. ClONO2 volume mixing ratios up to 1100\u2009pptv were measured at 380\u2009K potential temperature in mesoscale structures. Similar mesoscale structures are also visible in O3 measurements. Both trace gas measurements are applied to evaluate simulation results from the chemistry transport model CLaMS (Chemical Lagrangian Model of the Stratosphere) and the chemistry\u2013climate model EMAC (ECHAM5/MESSy Atmospheric Chemistry). These comparisons show agreement within the expected performance of these models.\nSatellite measurements from Aura/MLS (Microwave Limb Sounder) and SCISAT/ACE-FTS (Atmospheric Chemistry Experiment \u2013 Fourier Transform Spectrometer) provide an overview over the whole winter and information about the stratospheric situation above the flight altitude. Time series of these satellite measurements reveal unusually low hydrochloric acid (HCl) and ClONO2 at 380\u2009K from the beginning of January to the end of February\u00a02016, while chlorine monoxide (ClO) is strongly enhanced. In March\u00a02016, unusually rapid chlorine deactivation into HCl is observed instead of deactivation into ClONO2, the more typical pathway for deactivation in the Arctic. Chlorine deactivation observed in the satellite time series is well reproduced by CLaMS. Sensitivity simulations with CLaMS demonstrate the influence of low abundances of O3 and reactive nitrogen (NOy) due to ozone depletion and sedimentation of NOy-containing particles, respectively. On the basis of the different altitude and time ranges of these effects, we conclude that the substantial chlorine deactivation into HCl at 380\u2009K arose as a result of very low ozone abundances together with low temperatures. Additionally, CLaMS estimates ozone depletion of at least 0.4\u2009ppmv at 380\u2009K and 1.75\u2009ppmv at 490\u2009K, which is comparable to other extremely cold Arctic winters.\nWe have used CLaMS trajectories to analyze the history of enhanced ClONO2 measured by GLORIA. In February, most of the enhanced ClONO2 is traced back to chlorine deactivation that had occurred within the past few days prior to the GLORIA measurement. In March, after the final warming, air masses in which chlorine has previously been deactivated into ClONO2 have been transported in the remnants of the polar vortex towards the location of measurement for at least\u00a011\u2009d.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "19",
-            "issue": "12",
-            "pages": "8311-8338",
-            "date": "2019-06-27",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-19-8311-2019",
-            "ISSN": "1680-7324",
-            "shortTitle": "Unusual chlorine partitioning in the 2015/16 Arctic winter lowermost stratosphere",
-            "url": "https://www.atmos-chem-phys.net/19/8311/2019/",
-            "accessDate": "2020-02-22T13:29:20Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: 0000004",
-            "tags": [
-                {
-                    "tag": "chemistry",
-                    "type": 1
-                },
-                {
-                    "tag": "climate",
-                    "type": 1
-                },
-                {
-                    "tag": "clono2",
-                    "type": 1
-                },
-                {
-                    "tag": "denitrification",
-                    "type": 1
-                },
-                {
-                    "tag": "hcl",
-                    "type": 1
-                },
-                {
-                    "tag": "hno3",
-                    "type": 1
-                },
-                {
-                    "tag": "microwave limb sounder",
-                    "type": 1
-                },
-                {
-                    "tag": "mipas-b",
-                    "type": 1
-                },
-                {
-                    "tag": "ozone loss",
-                    "type": 1
-                },
-                {
-                    "tag": "reviewed:igerasim"
-                },
-                {
-                    "tag": "source:scopus"
-                },
-                {
-                    "tag": "source:wos"
-                },
-                {
-                    "tag": "validation",
-                    "type": 1
-                }
-            ],
-            "collections": [
-                "8Q78NPPR",
-                "E2L2G468",
-                "Q8FUUTCA",
-                "QHCEFQD9",
-                "6F3YD9LV",
-                "CIQKAU2P",
-                "48XLCAWQ",
-                "QJR2GCH8",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/2395775/items/2S7S35AS",
-                    "http://zotero.org/groups/2395775/items/T8JHKDQ7",
-                    "http://zotero.org/groups/2395775/items/24EZ6VJ4",
-                    "http://zotero.org/groups/2395775/items/AL8VW9Q9",
-                    "http://zotero.org/groups/2395775/items/V98WY4JK",
-                    "http://zotero.org/groups/2395775/items/T2SVKZC8"
-                ]
-            },
-            "dateAdded": "2020-02-22T13:29:20Z",
-            "dateModified": "2020-04-08T20:20:39Z"
         }
     },
     {
@@ -4822,141 +5193,6 @@
             },
             "dateAdded": "2020-02-22T13:50:56Z",
             "dateModified": "2020-03-01T03:01:58Z"
-        }
-    },
-    {
-        "key": "CW63SG5Z",
-        "version": 11017,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/CW63SG5Z",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/CW63SG5Z",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Mill\u00e1n et al.",
-            "parsedDate": "2012-07-20",
-            "numChildren": 5
-        },
-        "data": {
-            "key": "CW63SG5Z",
-            "version": 11017,
-            "itemType": "journalArticle",
-            "title": "New Aura Microwave Limb Sounder observations of BrO and implications for Br&lt;sub&gt;y&lt;/sub&gt;",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "L.",
-                    "lastName": "Mill\u00e1n"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "N.",
-                    "lastName": "Livesey"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "W.",
-                    "lastName": "Read"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "L.",
-                    "lastName": "Froidevaux"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D.",
-                    "lastName": "Kinnison"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "R.",
-                    "lastName": "Harwood"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "I. A.",
-                    "lastName": "MacKenzie"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M. P.",
-                    "lastName": "Chipperfield"
-                }
-            ],
-            "abstractNote": "<p><strong>Abstract.</strong> This paper introduces a new inversion algorithm for retrievals of stratospheric BrO from the Aura Microwave Limb Sounder. This version is based on the algorithm described by Livesey et al. (2006a) but uses a more realistic atmospheric state to constrain the retrieval. A description of the methodology and an error analysis are presented. Single daily profile precision uncertainty, when taking the ascending-descending (day-night) difference, was found to be up to 40 pptv while systematic error biases were estimated to be less than about 3 pptv. Monthly mean comparisons show broad agreement with other measurements as well as with state-of-the-art numerical models. We infer a 2005 yearly total inorganic Br<sub>y</sub> using the measured MLS BrO to be 20.3 &amp;plusmn; 4.5 pptv, which implies a contribution from very short lived substances to the stratospheric bromine budget of 5 &amp;plusmn; 4.5 pptv.</p>",
-            "publicationTitle": "Atmospheric Measurement Techniques",
-            "volume": "5",
-            "issue": "7",
-            "pages": "1741-1751",
-            "date": "2012-07-20",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Meas. Tech.",
-            "language": "en",
-            "DOI": "10/gb8r5k",
-            "ISSN": "1867-8548",
-            "shortTitle": "",
-            "url": "https://www.atmos-meas-tech.net/5/1741/2012/",
-            "accessDate": "2019-10-25T01:06:05Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: NoCitationData[s0]",
-            "tags": [
-                {
-                    "tag": "reviewed:igerasim"
-                }
-            ],
-            "collections": [
-                "J6IBQ424",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {},
-            "dateAdded": "2019-10-25T15:44:41Z",
-            "dateModified": "2020-03-01T02:21:26Z"
         }
     },
     {
@@ -5273,341 +5509,6 @@
             },
             "dateAdded": "2020-02-22T13:50:56Z",
             "dateModified": "2020-02-26T17:12:20Z"
-        }
-    },
-    {
-        "key": "XG5MYP73",
-        "version": 11014,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/XG5MYP73",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/XG5MYP73",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Khosravi et al.",
-            "parsedDate": "2013-08-06",
-            "numChildren": 6
-        },
-        "data": {
-            "key": "XG5MYP73",
-            "version": 11014,
-            "itemType": "journalArticle",
-            "title": "Diurnal variation of stratospheric and lower mesospheric HOCl, ClO and HO <sub>2</sub> at the equator: comparison of 1-D model calculations with measurements by satellite instruments",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "M.",
-                    "lastName": "Khosravi"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "P.",
-                    "lastName": "Baron"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "J.",
-                    "lastName": "Urban"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "L.",
-                    "lastName": "Froidevaux"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "A. I.",
-                    "lastName": "Jonsson"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Y.",
-                    "lastName": "Kasai"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "K.",
-                    "lastName": "Kuribayashi"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "C.",
-                    "lastName": "Mitsuda"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "D. P.",
-                    "lastName": "Murtagh"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "H.",
-                    "lastName": "Sagawa"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M. L.",
-                    "lastName": "Santee"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T. O.",
-                    "lastName": "Sato"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.",
-                    "lastName": "Shiotani"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "M.",
-                    "lastName": "Suzuki"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "T.",
-                    "lastName": "von Clarmann"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "K. A.",
-                    "lastName": "Walker"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "S.",
-                    "lastName": "Wang"
-                }
-            ],
-            "abstractNote": "Abstract. The diurnal variation of HOCl and the related species ClO, HO2 and HCl measured by satellites has been compared with the results of a one-dimensional photochemical model. The study compares the data from various limb-viewing instruments with model simulations from the middle stratosphere to the lower mesosphere. Data from three sub-millimetre instruments and two infrared spectrometers are used, namely from the Sub-Millimetre Radiometer (SMR) on board Odin, the Microwave Limb Sounder (MLS) on board Aura, the Superconducting Submillimeter-wave Limb-Emission Sounder (SMILES) on the International Space Station, the Michelson Interferometer for Passive Atmospheric Sounding (MIPAS) on board ENVISAT, and the Atmospheric Chemistry Experiment Fourier Transform Spectrometer (ACE-FTS) on board SCISAT. Inter-comparison of the measurements from instruments on sun-synchronous satellites (SMR, MLS, MIPAS) and measurements from solar occultation instruments (ACE-FTS) is challenging since the measurements correspond to different solar zenith angles (or local times). However, using a model which covers all solar zenith angles and data from the SMILES instrument which measured at all local times over a period of several months provides the possibility to verify the model and to indirectly compare the diurnally variable species. The satellite data were averaged for latitudes of 20\u00b0 S to 20\u00b0 N for the SMILES observation period from November 2009 to April 2010 and were compared at three altitudes: 35, 45 and 55 km. Besides presenting the SMILES data, the study also shows a first comparison of the latest MLS data (version 3.3) of HOCl, ClO, and HO2 with other satellite observations, as well as a first evaluation of HO2 observations made by Odin/SMR. The MISU-1D model has been carefully initialised and run for conditions and locations of the observations. The diurnal cycle features for the species investigated here are generally well reproduced by the model. The satellite observations and the model agree well in terms of absolute mixing ratios. The differences between the day and night values of the model are in good agreement with the observations although the amplitude of the HO2 diurnal variation is 10\u201320% lower in the model than in the observations. In particular, the data offered the opportunity to study the reaction ClO+HO2 \u2192 HOCl+O2 in the lower mesosphere at 55 km. At this altitude the HOCl night-time variation depends only on this reaction. The result of this analysis points towards a value of the rate constant within the range of the JPL 2006 recommendation and the upper uncertainty limit of the JPL 2011 recommendation at 55 km.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "13",
-            "issue": "15",
-            "pages": "7587-7606",
-            "date": "2013-08-06",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-13-7587-2013",
-            "ISSN": "1680-7324",
-            "shortTitle": "Diurnal variation of stratospheric and lower mesospheric HOCl, ClO and HO <sub>2</sub> at the equator",
-            "url": "https://www.atmos-chem-phys.net/13/7587/2013/",
-            "accessDate": "2020-02-22T13:40:21Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: NoCitationData[s0]",
-            "tags": [
-                {
-                    "tag": "reviewed:igerasim"
-                }
-            ],
-            "collections": [
-                "E2L2G468",
-                "E2SQG6S6",
-                "PHMBQSYB",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": [
-                    "http://zotero.org/groups/2395775/items/IXI4S8TV",
-                    "http://zotero.org/groups/2395775/items/INQNY6W8"
-                ]
-            },
-            "dateAdded": "2020-02-22T13:40:22Z",
-            "dateModified": "2020-02-26T17:12:20Z"
-        }
-    },
-    {
-        "key": "3WCNDG6E",
-        "version": 11014,
-        "library": {
-            "type": "group",
-            "id": 2395775,
-            "name": "GES DISC",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/ges_disc",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/2395775/items/3WCNDG6E",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/ges_disc/items/3WCNDG6E",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 6097628,
-                "username": "igerasim",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/igerasim",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "lastModifiedByUser": {
-                "id": 6660249,
-                "username": "JoshuaThedford",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/joshuathedford",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Nakajima et al.",
-            "parsedDate": "2020-01-27",
-            "numChildren": 8
-        },
-        "data": {
-            "key": "3WCNDG6E",
-            "version": 11014,
-            "itemType": "journalArticle",
-            "title": "Chlorine partitioning near the polar vortex edge observed with ground-based FTIR and satellites at Syowa Station, Antarctica, in 2007 and 2011",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Hideaki",
-                    "lastName": "Nakajima"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Isao",
-                    "lastName": "Murata"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Yoshihiro",
-                    "lastName": "Nagahama"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Hideharu",
-                    "lastName": "Akiyoshi"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Kosuke",
-                    "lastName": "Saeki"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Takeshi",
-                    "lastName": "Kinase"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Masanori",
-                    "lastName": "Takeda"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Yoshihiro",
-                    "lastName": "Tomikawa"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Eric",
-                    "lastName": "Dupuy"
-                },
-                {
-                    "creatorType": "author",
-                    "firstName": "Nicholas B.",
-                    "lastName": "Jones"
-                }
-            ],
-            "abstractNote": "Abstract. We retrieved lower stratospheric vertical profiles of O3, HNO3,\nand HCl from solar spectra taken with a ground-based Fourier transform\ninfrared spectrometer (FTIR) installed at Syowa Station, Antarctica\n(69.0\u2218\u2009S, 39.6\u2218\u2009E), from March to December\u00a02007 and\nSeptember to November\u00a02011. This was the first continuous measurement of\nchlorine species throughout the ozone hole period from the ground in\nAntarctica. We analyzed temporal variation of these species combined with\nClO, HCl, and HNO3 data taken with the Aura MLS (Microwave Limb\nSounder) satellite sensor and ClONO2 data taken with the Envisat MIPAS\n(the Michelson Interferometer for Passive Atmospheric Sounding) satellite\nsensor at 18 and 22\u2009km over Syowa Station. An HCl and ClONO2 decrease\noccurred from the end of May at both 18 and 22\u2009km, and eventually, in early winter, both HCl and ClONO2 were almost depleted. When the sun returned\nto Antarctica in spring, enhancement of ClO and gradual O3 destruction\nwere observed. During the ClO-enhanced period, a negative correlation between\nClO and ClONO2 was observed in the time series of the data at Syowa\nStation. This negative correlation was associated with the relative distance\nbetween Syowa Station and the edge of the polar vortex. We used MIROC3.2\nchemistry\u2013climate model (CCM) results to investigate the behavior of whole\nchlorine and related species inside the polar vortex and the boundary region\nin more detail. From CCM model results, the rapid conversion of chlorine\nreservoir species (HCl and ClONO2) into Cl2, gradual conversion of\nCl2 into Cl2O2, increase in HOCl in the winter period, increase in ClO when sunlight became available, and conversion of ClO into HCl were successfully reproduced. The HCl decrease in the winter polar vortex core\ncontinued to occur due to both transport of ClONO2 from the subpolar\nregion to higher latitudes, providing a flux of ClONO2 from more sunlit\nlatitudes into the polar vortex, and the heterogeneous reaction of HCl with\nHOCl. The temporal variation of chlorine species over Syowa Station was affected\nby both heterogeneous chemistries related to polar stratospheric cloud (PSC)\noccurrence inside the polar vortex and transport of a NOx-rich air mass\nfrom the polar vortex boundary region, which can produce additional\nClONO2 by reaction of ClO with NO2. The deactivation pathways from\nactive chlorine into reservoir species (HCl and/or ClONO2) were\nconfirmed to be highly dependent on the availability of ambient O3. At\n18\u2009km, where most ozone was depleted, most ClO was converted to HCl. At 22\u2009km\nwhere some O3 was available, an additional increase in ClONO2 from\nthe prewinter value occurred, similar to the Arctic.",
-            "publicationTitle": "Atmospheric Chemistry and Physics",
-            "volume": "20",
-            "issue": "2",
-            "pages": "1043-1074",
-            "date": "2020-01-27",
-            "series": "",
-            "seriesTitle": "",
-            "seriesText": "",
-            "journalAbbreviation": "Atmos. Chem. Phys.",
-            "language": "en",
-            "DOI": "10.5194/acp-20-1043-2020",
-            "ISSN": "1680-7324",
-            "shortTitle": "",
-            "url": "https://www.atmos-chem-phys.net/20/1043/2020/",
-            "accessDate": "2020-02-22T13:40:21Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "DOI.org (Crossref)",
-            "callNumber": "",
-            "rights": "",
-            "extra": "ZSCC: NoCitationData[s0]",
-            "tags": [
-                {
-                    "tag": "reviewed:igerasim"
-                }
-            ],
-            "collections": [
-                "E2L2G468",
-                "Q8FUUTCA",
-                "F3P68PWK",
-                "CAM8AXXZ"
-            ],
-            "relations": {
-                "dc:replaces": "http://zotero.org/groups/2395775/items/ERX4QWWF"
-            },
-            "dateAdded": "2020-02-22T13:40:22Z",
-            "dateModified": "2020-02-26T16:27:56Z"
         }
     },
     {

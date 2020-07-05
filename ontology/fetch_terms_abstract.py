@@ -3,8 +3,12 @@ import json
 import re
 import glob
 import csv
+import nltk
 from nltk.tokenize import word_tokenize
-from nltk.stem import PorterStemmer
+#from nltk.tag import pos_tag
+#from nltk.stem import PorterStemmer
+#from nltk.stem import LancasterStemmer
+from nltk.stem import SnowballStemmer
 from nltk.corpus import stopwords
 from collections import OrderedDict
 from colored import fg, style
@@ -17,11 +21,10 @@ csv_instr_path = "data/instruments.csv"
 csv_missions_path = "data/missions.csv"
 csv_locs_path = "data/locations.csv"
 
-ps = PorterStemmer()
-stop_words = set(stopwords.words('english'))
-new_stopwords = ['lead', 'leading']
-stop_words.update(new_stopwords)
-new_stop_words = set(stop_words)
+#ps = PorterStemmer()
+#ps = LancasterStemmer()
+ps = SnowballStemmer("english")
+#stop_words = set(stopwords.words('english'))
 
 variables = []
 with open(csv_sks_path, newline='') as csvfile:
@@ -38,16 +41,18 @@ with open(csv_instr_path, newline='') as csvfile:
   for row in reader:
     for i in range (4, 6, 1):
       if row[i]: # and not re.search(r"(/|\()", row[i]):
-        instruments.append(row[i].lower())
+        instruments.append(row[i]) #.lower())
 instruments = sorted(set(instruments), key=len, reverse = True)
+#print(instruments)
+#exit()
 
 missions = []
 with open(csv_missions_path, newline='') as csvfile:
   reader = csv.reader(csvfile, delimiter=',')
   for row in reader:
-    for i in range (1, 4, 1):
+    for i in range (2, 4, 1):
       if row[i]: # and not re.search(r"(/|\()", row[i]):
-        missions.append(row[i].lower())
+        missions.append(row[i]) #.lower())
 missions = sorted(set(missions), key=len, reverse = True)
 
 locations = []
@@ -65,17 +70,30 @@ with open(os.path.join(json_folder_path, terms_file)) as json_publications_file:
 with open(os.path.join(json_folder_path, zot_pubs_file)) as json_publications_file:
   zot_list = json.load(json_publications_file)
 
-def extract_gcmd_terms (all_terms, abstract_tokens, term_array):
+def extract_gcmd_terms (all_terms, abstract_tokens, term_array, stem=True):
+  #if not stem:
+  #  print (' '.join(abstract_tokens))
+  #  exit()
   gcmd_terms = []
+  lc_abstract_tokens = []
+  for token in abstract_tokens:
+    lc_abstract_tokens.append(token.lower())
   for var in all_terms:
-    tokens = []
-    for a in word_tokenize(var):
-      tokens.append(ps.stem(a))
-    tocken_cnt = len(tokens)
-    for i in range(0, len(abstract_tokens) - tocken_cnt):
+    tokens = word_tokenize(var)
+    token_cnt = len(tokens)
+    if stem: # or token_cnt > 1:
+      tokens = []
+      for a in word_tokenize(var):
+        tokens.append(ps.stem(a))
+      abstract_tokens = lc_abstract_tokens
+    #if var == 'MLS':
+    #  print (' '.join(abstract_tokens))
+    #  print(token_cnt)
+    #  exit()
+    for i in range(0, len(abstract_tokens) - token_cnt-1):
       present = False
-      for j in range(0, tocken_cnt):
-        if var_array[i+j]:
+      for j in range(0, token_cnt):
+        if term_array[i+j]:
           present = False
           break
         if abstract_tokens[i+j] != tokens[j]:
@@ -83,7 +101,7 @@ def extract_gcmd_terms (all_terms, abstract_tokens, term_array):
           break
         present = True
       if present:
-        for j in range(0, tocken_cnt):
+        for j in range(0, token_cnt):
           term_array[i+j] = 1
         gcmd_terms.append(var)
   return gcmd_terms
@@ -93,24 +111,27 @@ sweet_cats = {'Phenomena': 1, 'Realm': 2, 'Material': 3, 'Materials': 3, 'Proper
 cnt = 0
 all_titles = []
 for pub_item in zot_list:
-  abstract = pub_item['data'].get('abstractNote', '')
-  title = pub_item['data'].get('title', '')
-  Abstract = title + '. '+abstract
-  abstract = title.lower() + '. ' + abstract.lower()
-  abstract = re.sub(r'\n|\t', '', abstract) 
+  Abstract =  pub_item['data'].get('title', '') + '. '+ pub_item['data'].get('abstractNote', '')
+  Abstract = re.sub(r'\s*\<\s*\/*su(b|p)\s*\>\s*', '', Abstract)
+  Abstract = re.sub(r'\n|\t', '', Abstract)
+  abstract = Abstract.lower()
   #print(abstract)
-  abstract_tokens = []
-  abstract_tokens1 = word_tokenize(abstract)
-  abstract_array = [0] * len(abstract_tokens1)
-  var_array = [0] * len(abstract_tokens1)
-  instr_array = [0] * len(abstract_tokens1)
-  miss_array = [0] * len(abstract_tokens1)
-  locs_array = [0] * len(abstract_tokens1)
+  Abstract_tokens = word_tokenize(Abstract)	# tokens with original letters
+  #abstract_tokens1 = word_tokenize(abstract)	# tokens with lowercase letters
+  #abstract_pos = nltk.pos_tag(abstract_tokens1)
+  #print(abstract_pos)
+  #exit()
+  abstract_array = [0] * len(Abstract_tokens)
+  var_array = [0] * len(Abstract_tokens)
+  instr_array = [0] * len(Abstract_tokens)
+  miss_array = [0] * len(Abstract_tokens)
+  locs_array = [0] * len(Abstract_tokens)
   #abstract_tokens2 = [w for w in abstract_tokens1 if not w in new_stop_words]
-  for a in abstract_tokens1:
+  abstract_tokens = []				# stemmed lowercase tokens
+  for a in Abstract_tokens:
     abstract_tokens.append(ps.stem(a))
   #print(abstract_tokens)
-  #print(' '.join(abstract_tokens1))
+  #print(' '.join(Abstract_tokens))
   categories = {}
   sweet_terms = {}
   found_terms = []
@@ -140,8 +161,8 @@ for pub_item in zot_list:
         found_terms.append(term)
 
   found_vars = extract_gcmd_terms (variables, abstract_tokens, var_array)
-  found_instr = extract_gcmd_terms (instruments, abstract_tokens, instr_array)
-  found_miss = extract_gcmd_terms (missions, abstract_tokens, miss_array)
+  found_instr = extract_gcmd_terms (instruments, Abstract_tokens, instr_array, False)
+  found_miss = extract_gcmd_terms (missions, Abstract_tokens, miss_array, False)
   found_locs = extract_gcmd_terms (locations, abstract_tokens, locs_array)
 
   for term in set(found_terms):
@@ -158,7 +179,7 @@ for pub_item in zot_list:
 
   # list of colors is in https://pypi.org/project/colored/
   for cat in sweet_terms.keys():
-    print(cat+': ', fg(sweet_cats[cat]+5), ', '.join(set(sweet_terms[cat])),bcolors.ENDC)
+    print(cat+': ', fg(sweet_cats[cat]+5), ', '.join(set(sweet_terms[cat])),style.RESET)
   print('Science Keywords: ', fg(1), set(found_vars), style.RESET)
   print('Instruments: ', fg(2), set(found_instr), style.RESET)
   print('Missions: ', fg(4), set(found_miss), style.RESET)
@@ -166,20 +187,20 @@ for pub_item in zot_list:
 
   for i in range(0, len(abstract_tokens)):
     if var_array[i]:  # science keyword
-      abstract_tokens1[i] = fg(1)+abstract_tokens1[i]+style.RESET
+      Abstract_tokens[i] = fg(1)+Abstract_tokens[i]+style.RESET
     elif instr_array[i]:   # instruments
-      abstract_tokens1[i] = fg(2)+abstract_tokens1[i]+style.RESET
+      Abstract_tokens[i] = fg(2)+Abstract_tokens[i]+style.RESET
     elif miss_array[i]:   # instruments
-      abstract_tokens1[i] = fg(4)+abstract_tokens1[i]+style.RESET
+      Abstract_tokens[i] = fg(4)+Abstract_tokens[i]+style.RESET
     elif locs_array[i]:   # instruments
-      abstract_tokens1[i] = fg(5)+abstract_tokens1[i]+style.RESET
+      Abstract_tokens[i] = fg(5)+Abstract_tokens[i]+style.RESET
     elif abstract_array[i]:  # sweet terms
-     abstract_tokens1[i] = fg(abstract_array[i]+5)+abstract_tokens1[i]+style.RESET
-  abstract = ' '.join(abstract_tokens1)
+      Abstract_tokens[i] = fg(abstract_array[i]+5)+Abstract_tokens[i]+style.RESET
+  Abstract = ' '.join(Abstract_tokens)
   categories1 = OrderedDict(sorted(categories.items()))
   categories1['abstract'] = Abstract
   all_titles.append(categories1)
-  print('\n'+abstract+'\n')
+  print('\n'+Abstract+'\n')
   #break
 
 with open(os.path.join(json_folder_path, "title_terms_joshua.json"), "w") as fp:
