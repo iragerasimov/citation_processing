@@ -1,4 +1,3 @@
-from collections import defaultdict
 class Paper(object):
     def __init__(self, zot_dict):
         self.meta = zot_dict['meta']
