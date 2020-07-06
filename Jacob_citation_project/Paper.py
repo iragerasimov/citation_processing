@@ -7,6 +7,7 @@ class Paper(object):
         self.notes = []
         self.links = []
         self.tags = []
+        self.label = []
 
     def add_note(self, note):
         self.notes.append(note)
@@ -16,6 +17,9 @@ class Paper(object):
 
     def add_link(self, link):
         self.links.append(link)
+
+    def add_label(self, label):
+        self.label.append(label)
 
 
 

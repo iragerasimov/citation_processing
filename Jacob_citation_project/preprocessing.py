@@ -40,28 +40,33 @@ lookup_child_links = defaultdict(list)
 for item in items:
     if item['data']['itemType'] == 'note':
         notes[item['key']] = item
-        lookup_child_notes[item['data']['parentItem']] = item['key']
+        lookup_child_notes[item['data']['parentItem']].append(item['key'])
     elif item['data']['itemType'] == 'journalArticle':
         articles[item['key']] = item
     elif item['data']['itemType'] == 'attachment':
         attachments[item['key']] = item
-        lookup_child_links[item['data']['parentItem']] = item['key']
+        lookup_child_links[item['data']['parentItem']].append(item['key'])
     else:
         other[item['key']] = item
 
 papers = []
-for article in articles.keys(): ### ONLY ADDS 1 NOTE PER TIME
+for article in articles.keys():
     paper = Paper(articles[article])
     if lookup_child_notes[article]:
-        paper.add_note(notes[lookup_child_notes[article]]['data']['note'])
-        for tag in notes[lookup_child_notes[article]]['data']['tags']:
-            paper.add_tag(tag['tag'])
+        for note in lookup_child_notes[article]:
+            for tag in notes[note]['data']['tags']:
+                if tag['tag'] == 'category:application':
+                    paper.add_label(notes[note]['data']['note'])
+                    continue
+                paper.add_tag(tag['tag'])
+            paper.add_note(notes[note]['data']['note'])
 
     if lookup_child_links[article]:
-        data = attachments[lookup_child_links[article]]['data']
-        paper.add_link(data['url'])
+        for link in lookup_child_links[article]:
+            data = attachments[link]['data']
+            paper.add_link(data['url'])
     papers.append(paper)
 
 for i in range(10):
-    print(papers[i].links, papers[i].notes, papers[i].tags)
+    print(papers[i].links)
 
